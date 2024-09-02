@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binchi Zhang (张斌弛)"
+title                    : "Zhengzhang Chen"
 title_separator          : "-"
-name                     : &name "Binchi Zhang"
-description              : &description "Ph.D. student at University of Virginia"
-url                      : https://zhangbinchi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhengzhang Chen"
+description              : &description "Senior Research Scientsit at NEC Laboratories America"
+url                      : https://KnowledgeDiscovery.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangbinchi.github.io"
+repository               : "KnowledgeDiscovery.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Binchi Zhang"
+  name             : "Zhengzhang Chen"
   avatar           : "selfie_truncated.jpg"
-  bio              : "Ph.D. student at University of Virginia"
-  location         : "Charlottesville, VA"
+  bio              : "Senior Research Scentist at NEC Laboratories America"
+  location         : "Princeton, NJ"
 #  employer         :
 #  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c8Z36PAAAAAJ"
-  email            : "epb6gw@virginia.edu"
-#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2t7wQ24AAAAJ"
+  email            : "zhengzhang.chen at gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Zhengzhang-Chen"
 #   uri              :
 #   bitbucket        :
 #   codepen          :
@@ -96,20 +96,20 @@ author:
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  github           : "zhangbinchi"
+  github           : "KnowledgeDiscovery"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
-  linkedin         : "www.linkedin.com/in/binchi-zhang-274922221"
-  orcid            : "https://orcid.org/0000-0001-7321-3822"
+  linkedin         : "https://www.linkedin.com/in/zhengzhang-zach-chen-0b584915/"
+  orcid            : "https://orcid.org/0000-0002-6803-0535"
 #   pinterest        :
 #   soundcloud       :
 #   stackoverflow    : # http://stackoverflow.com/users/123456/username
 #   steam            :
 #   tumblr           :
-  twitter          : "@zhangbinchi3"
+  twitter          : "@zhengzhang"
 #   vine             :
 #   weibo            :
 #   xing             :
