@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Patents"
-permalink: /patents/
+permalink: /portfolio/
 author_profile: true
 ---
 
