@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: archive
 title: "PUBLICATIONS [[Google Scholar](https://scholar.google.com/citations?user=2t7wQ24AAAAJ)|DBLP]"
 permalink: /publications/
