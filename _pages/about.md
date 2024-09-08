@@ -28,10 +28,10 @@ News
 Selected Services and Awards
 ------
 - **Guest editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
-- **Reviewer** for Pattern Recognition, PLOS ONE, IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, IEEE Intelligent Systems, Concurrency and Computation Journal, Journal of Computer and Communications, IEEE Transactions on Network Science and Engineering, Information Sciences, Applied Computing and Informatics, Journal of Electronic Commerce Research, EURASIP Journal on Bioinformatics and Systems Biology, Current Synthetic & System Biology, Integrating Materials and Manufacturing Innovation
+- **Reviewer** for Pattern Recognition, PLOS ONE, IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, IEEE Intelligent Systems, Concurrency and Computation Journal, Journal of Computer and Communications, IEEE Transactions on Network Science and Engineering, Information Sciences, etc.
 - **Area Chair** for KDD2025, ACML2025, KDD2024
-- **SPC** for AAAI2025, WSDM2025, IJCAI2024, AAAI2024, WSDM2024, AAAI2023, KDD2023, IJCAI2023, WSDM2023, KDD2022, AAAI2022, WSDM2022, AAAI2021, KDD2021
-- **PC** for ICLR2025, NeurIPS2024, ICML2024, ICLR2024, PAKDD2024, NeurIPS 2023, SDM2023, SIGIR2022, ICCV2021, CVPR2021, SIGIR2021, WSDM2021, SDM2021, BigData2021, KDD2020, SIGIR2020, IJCAI2020, AAAI2020, CIKM2020, SDM2020, BigData2020, IJCAI2019, KDD2019, AAAI2019, SDM2019, CIKM2019, BigData2019, KDD2018, AAAI2018, CIKM2018, SDM2018, BigData2018, KDD2017, ICDM2017, SDM2017, CIKM2017, BigData2017, ICOSST-16, IEEE/CIC ICCC'15, AAAI2014, ICWSM2014, ICCC 2014 SNBD, ICWSM2013, IJCAI 2013, IKE 2013, ICDM 2012 etc.
+- **Seniro Program Committee** for AAAI(2021-2025), KDD(2021-2023), IJCAI(2023-2024), WSDM(2022-2025)
+- **Program Committtee** for KDD(2017-2020), SIGIR(2020-2024), IJCAI(2013-2020), NeurIPS(2023-2024), AAAI(2014-2020), ICLR(2024-2025), SDM(2017-2023), CIKM(2017-2020), BigData (2018-2021), ICML2024, PAKDD2024, ICCV2021, CVPR2021, WSDM2021, ICDM2017, etc.
 - **NEC Business Contribution Award**: In Recognition of Key Contribution to REASON: Causal Discovery and Root Cause Localization, 2024
 - **NEC GIBU Excellent Invention Award**, 2023
 - **GIU Outstanding Value Award**: Significant contribution to enhancing the value of NEC Group and GIU, 2022
