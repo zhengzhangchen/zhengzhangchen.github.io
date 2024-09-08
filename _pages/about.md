@@ -8,26 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include trustworthy machine learning, graph learning, machine unlearning, and federated learning. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
+I am currently a senior research scientist at [NEC Laboratories America](https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/). Before that, I was a research assistant professor in the [Department of Electrical Engineering & Computer Science at Northwestern University](http://cucis.ece.northwestern.edu/members/zzc472/). I also did a one-year postdoc at Northwestern, supervised by [Prof. Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/). I received my Ph.D. degree from [Computer Science Department at NorthCarolina State University](https://www.csc.ncsu.edu/). My research aims to enhance real-world applications and systems by incorporating advanced intelligence, improved security, and more effective decision-making. I have been primarily working on graph mining, anomaly detection, causal AI, AI security, graph neural networks, text mining, and their applications in computer security, IoT/OT systems, climate science, social media analytics, material science, bioinfomatics, and finance, enabling machine to better understand real-world complex dynamic systems. I have published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, IJCAI, WWW, ICDE, SC, NDSS, Nature Scientific Reports, TNNLS, KAIS, DAMI, Neurocomputing, IEEE Intelligent Systems, and Theoretical Computer Science. My research has also led to more than 60 patents filed with 37 patents granted. 
+
 
 News
 -----
-- \[07/2024\] One paper is accepted by CIKM 2024.
-- \[05/2024\] Two papers are accepted by KDD 2024.
-- \[05/2024\] Two papers are accepted by ICML 2024.
-- \[01/2024\] One paper is accepted by ICLR 2024.
-- \[12/2022\] One paper is accepted by SDM 2023.
-- \[09/2022\] One paper is accepted by SIGKDD Explorations.
-- \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track.
+- \[07/2024\] Serve as SPC for AAAI 2025.
+- \[06/2024\] Serve as Area Chair for KDD 2025 (August Cycle).
+- \[06/2024\] Serve as Area Chair for ACML 2024.
+- \[05/2024\] One paper is accepted by KDD 2024.
+- \[05/2024\] Serve as SPC for WSDM 2025.
+- \[01/2024\] One paper is accepted by The Web Conference (WWW) 2024.
+- \[09/2023\] One paper is accepted by NeurIPS 2023.
+- \[06/2023\] Serve as SPC for AAAI 2024.
+- \[05/2023\] Serve as SPC for WSDM 2024.
+- \[05/2023\] Two papers are accepted by KDD 2023.
 
-Service
+
+Selected Services and Awards
 ------
-- **Reviewer:** AAAI (2025, 2024, 2023), NeurIPS (2024, 2022), ICML (2024, 2022), CIKM (2023), WWW (2023), TNNLS (2023-).
+- **Guest editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
+- **Reviewer** for Pattern Recognition, PLOS ONE, IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, IEEE Intelligent Systems, Concurrency and Computation Journal, Journal of Computer and Communications, IEEE Transactions on Network Science and Engineering, Information Sciences, Applied Computing and Informatics, Journal of Electronic Commerce Research, EURASIP Journal on Bioinformatics and Systems Biology, Current Synthetic & System Biology, Integrating Materials and Manufacturing Innovation
+- **Area Chair** for KDD2025, ACML2025, KDD2024
+- **SPC** for AAAI2025, WSDM2025, IJCAI2024, AAAI2024, WSDM2024, AAAI2023, KDD2023, IJCAI2023, WSDM2023, KDD2022, AAAI2022, WSDM2022, AAAI2021, KDD2021
+- **PC** for ICLR2025, NeurIPS2024, ICML2024, ICLR2024, PAKDD2024, NeurIPS 2023, SDM2023, SIGIR2022, ICCV2021, CVPR2021, SIGIR2021, WSDM2021, SDM2021, BigData2021, KDD2020, SIGIR2020, IJCAI2020, AAAI2020, CIKM2020, SDM2020, BigData2020, IJCAI2019, KDD2019, AAAI2019, SDM2019, CIKM2019, BigData2019, KDD2018, AAAI2018, CIKM2018, SDM2018, BigData2018, KDD2017, ICDM2017, SDM2017, CIKM2017, BigData2017, ICOSST-16, IEEE/CIC ICCC'15, AAAI2014, ICWSM2014, ICCC 2014 SNBD, ICWSM2013, IJCAI 2013, IKE 2013, ICDM 2012 etc.
+- **NEC Business Contribution Award**: In Recognition of Key Contribution to REASON: Causal Discovery and Root Cause Localization, 2024
+- **NEC GIBU Excellent Invention Award**, 2023
+- **GIU Outstanding Value Award**: Significant contribution to enhancing the value of NEC Group and GIU, 2022
+- **NEC Business Contribution Award**: Key Contributions to Automated Security Intelligence as NEC’s Act Secure Security Anomaly Detection Service, 2017
+- **NEC GIBU Excellent Invention Award**, 2017
+- **Grand Prize**: in Cyber Security Field in Smart Solution Area of MM Research Institute Award, 2017
+- **SIGKDD Best Research Paper Runner Up Award**, 2016
+- **Grand Prix Award**: Automated security intelligence technology at CEATEC, the largest IT and Electronic Show at Asia, 2016
+- **Travel Awards**: NSF-funded Early Career SIAM Travel Award 2013, IJCAI/AIJ Travel Award 2013
+- **Outstanding Graduate Teaching Assistant Award**: North Carolina State University, 2009
 
-Miscellaneous
------
-- I like playing tennis and pool games.
-- I am an amateur classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/pieces/).
 
 <!-- A data-driven personal website
 ======
