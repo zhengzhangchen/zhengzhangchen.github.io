@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-1. US Patent 20,220,067,432: assessment for face recognition. <br> Z. Chen, H. Chen, and L. Tong. Granted on 06/2024.
+1. US Patent 20,220,067,432: Robustness Assessment for Face Recognition. <br> Z. Chen, H. Chen, and L. Tong. Granted on 06/2024.
 1. US Patent 11,782,812: Causal attention-based multi-stream RNN for computer system metric prediction and influential events identification based on metric and event logs. <br> Y. Chen, Z. Chen, C. Lumezanu, M. Natsumeda, X. Yu, W. Cheng, T. Mizoguchi, and H. Chen. Granted on 10/2023.
 1. US Patent 11,650,351: Semi-supervised deep model for turbulence forecasting. <br> Y. Liu, J. Ni, B. Zong, H. Chen, Z. Chen, W. Cheng, and D. Zhang. Granted on 05/2023.
 1. US Patent 11,620,492: Flexible edge-empowered graph convolutional networks with node-edge enhancement. <br> J. Gui, Z. Chen, J. Rhee, H. Chen, and P. Wang. Granted on 04/2023.
