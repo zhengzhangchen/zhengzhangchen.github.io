@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am currently a senior research scientist at [NEC Laboratories America](https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/). Before that, I was a research assistant professor in the [Department of Electrical Engineering & Computer Science at Northwestern University](http://cucis.ece.northwestern.edu/members/zzc472/). I also did a one-year postdoc at Northwestern, supervised by [Prof. Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/). I received my Ph.D. degree from [Computer Science Department at NorthCarolina State University](https://www.csc.ncsu.edu/). My research aims to enhance real-world applications and systems by incorporating advanced intelligence, improved security, and more effective decision-making. I have been primarily working on graph mining, anomaly detection, causal AI, AI security, graph neural networks, text mining, and their applications in computer security, IoT/OT systems, climate science, social media analytics, material science, bioinfomatics, and finance, enabling machine to better understand real-world complex dynamic systems. I have published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. My work has been featured in Various News Media, such as [NSF News](https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news), [DOE ASCR Discovery](https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/), [NEC News](https://jpn.nec.com/press/201907/20190708_02.html), [The Conversation](https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537), and [esciencenews](https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity). My research has also led to more than 70 patents filed with 37 patents granted.
+I am currently a senior research scientist at [NEC Laboratories America](https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/). Before that, I was a research assistant professor in the [Department of Electrical Engineering & Computer Science at Northwestern University](http://cucis.ece.northwestern.edu/members/zzc472/). I also did a one-year postdoc at Northwestern, supervised by [Prof. Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/). I received my Ph.D. degree from [Computer Science Department at NorthCarolina State University](https://www.csc.ncsu.edu/). 
+
+My research aims to enhance real-world applications and systems by incorporating advanced intelligence, improved security, and more effective decision-making. I have been primarily working on graph mining, anomaly detection, causal AI, AI security, graph neural networks, text mining, and their applications in computer security, IoT/OT systems, climate science, social media analytics, material science, bioinfomatics, and finance, enabling machine to better understand real-world complex dynamic systems. I have published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. My work has been featured in Various News Media, such as [NSF News](https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news), [DOE ASCR Discovery](https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/), [NEC News](https://jpn.nec.com/press/201907/20190708_02.html), [The Conversation](https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537), and [esciencenews](https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity). My research has also led to more than 70 patents filed with 37 patents granted.
 
 
 News
