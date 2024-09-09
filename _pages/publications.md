@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h3><font size="5"><b>Here are some selected papers. All my publications are available on my </b></font>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank">DBLP</a>]</h3>
+<h3><font size="3"><b>All my publications are available on my </b></font>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank">DBLP</a>]. Here are some selected papers. </h3>
 <p><sup>&#9826;</sup> indicates equal contribution, <sup>&#9734;</sup> indicates interns / students I have advised.</p>
 
 1. [MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems](https://dl.acm.org/doi/pdf/10.1145/3589334.3645442?casa_token=CizaRDRo0wkAAAAA:v6hBm8JcZrLTrF7YsN5c2a5hY8fN6DGW1eliGL3lnvUTPg9pY1jvOiuUxB3WRmElIkgQIJBiUgX1). <br> Lecheng Zheng<sup>&#9734;</sup>, <b>Zhengzhang Chen</b>, Jingrui He, Haifeng Chen. <br> Proceedings of the ACM on Web Conference 2024 (WWW), 2024.
