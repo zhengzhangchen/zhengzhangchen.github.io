@@ -21,6 +21,7 @@ News
 - \[07/2024\] Serve as SPC for AAAI 2025.
 - \[06/2024\] Serve as Area Chair for KDD 2025 (August Cycle).
 - \[06/2024\] Serve as Area Chair for ACML 2024.
+- \[06/2024\] Release of [LEMMA-RCA datasets](https://huggingface.co/Lemma-RCA-NEC) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
 - \[05/2024\] One paper is accepted by KDD 2024.
 - \[05/2024\] Serve as SPC for WSDM 2025.
 - \[01/2024\] One paper is accepted by The Web Conference (WWW) 2024.
