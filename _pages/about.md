@@ -19,6 +19,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 News
 -----
 - \[07/2024\] Serve as SPC for AAAI 2025.
+- \[07/2024\] Workshop proposal is accepted: [The 4th International Workshop on Data-Centric AI](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM2024
 - \[06/2024\] Serve as Area Chair for KDD 2025 (August Cycle).
 - \[06/2024\] Serve as Area Chair for ACML 2024.
 - \[06/2024\] Release of [LEMMA-RCA datasets](https://huggingface.co/Lemma-RCA-NEC) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
