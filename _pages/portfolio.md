@@ -40,3 +40,8 @@ author_profile: true
 1. US Patent 10,298,607: Constructing Graph Models of Event Correlation in Enterprise Security Systems. <br> L. Tang, H. Zhang, Z. Chen, B. Zong, Z. Li, G. Jiang, and K. Yoshihira. Granted on 05/2019.
 1. JP Patent 648,002,2: Annealed Sparsity Via Adaptive and Dynamic Shrinking. <br> K. Zhang, Z. Chen, H. Chen, and G. Jiang. Granted on 03/2019.
 1. US Patent 10,504,040: Annealed Sparsity Via Adaptive and Dynamic Shrinking. <br> K. Zhang, Z. Chen, H. Chen, and G. Jiang. Granted on 11/2019.
+
+
+
+
+
