@@ -74,6 +74,13 @@ author_profile: true
 64. Efficient alpha, beta-motif Finder for Identification of Phenotype-related Functional Modules. <br> Mathew C Schmidt, Andrea M Rocha, Kanchana Padmanabhan, <b>Zhengzhang Chen</b>, Kathleen Scott, James R. Mihelcic, Nagiza F. Samatova. <br> BMC Bioinformatics, vol. 12(1): 440, 2011.
 65. Inapproximability Results for Equations over Infinite Groups. <br> Wenbin Chen, Dengpan Yin, <b>Zhengzhang Chen</b>. <br> Theoretical Computer Science, 411 (26-28): 2513-2519, 2010.
 
+
+
+
+
+
+
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
