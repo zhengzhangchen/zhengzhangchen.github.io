@@ -27,7 +27,7 @@ News
 
 Selected Services and Awards
 ------
-- **Guest editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
+- **Guest Editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
 - **Reviewer** for Pattern Recognition, PLOS ONE, IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, IEEE Intelligent Systems, Concurrency and Computation Journal, Journal of Computer and Communications, IEEE Transactions on Network Science and Engineering, Information Sciences, etc.
 - **Area Chair** for KDD2025, ACML2025, KDD2024
 - **Seniro Program Committee** for AAAI(2021-2025), KDD(2021-2023), IJCAI(2023-2024), WSDM(2022-2025)
