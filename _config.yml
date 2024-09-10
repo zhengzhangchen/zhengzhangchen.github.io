@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true
