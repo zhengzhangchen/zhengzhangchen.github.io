@@ -35,9 +35,8 @@ News
 
 Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publications/)
 -----
-
 <h3>Causal Structure Learning & Root Cause Analysis</h3> 
-<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645442?casa_token=CizaRDRo0wkAAAAA:v6hBm8JcZrLTrF7YsN5c2a5hY8fN6DGW1eliGL3lnvUTPg9pY1jvOiuUxB3WRmElIkgQIJBiUgX1" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. The Web Conference 2024. </li>  
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645442?casa_token=CizaRDRo0wkAAAAA:v6hBm8JcZrLTrF7YsN5c2a5hY8fN6DGW1eliGL3lnvUTPg9pY1jvOiuUxB3WRmElIkgQIJBiUgX1" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. WWW 2024. </li>  
 <li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599849?casa_token=EE8fPoXXW7wAAAAA:u9KHW3ufTkKBIvAHnk7TkgOEg0odOEuVggw1KJllI-eSD6e8h_p99Nfh-3ewDwCuYXDKMsd2BDl6" target="_blank" rel="nofollow"> Interdependent Causal Networks for Root Cause Localization</a>. Dongjie Wang<sup>&#9826;</sup>, <b>Zhengzhang Chen<sup>&#9826;</sup></b>, Jingchao Ni, Liang Tong, Zheng Wang, Yanjie Fu, and Haifeng Chen. SIGKDD 2024. </li> 
 
 <li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599392?casa_token=IdYFYuDrVycAAAAA:pqR-1OEhuKx_wpkyAsBy_9s-WbDDEkleSJ9Nzp4UPrspRba3bH1jPfhffI2ruWwgqD3697PUXfaX" target="_blank" rel="nofollow"> Incremental Causal Graph Learning for Online Root Cause Analysis</a>. Dongjie Wang, <b>Zhengzhang Chen</b>, Yanjie Fu, Yanchi Liu, and Haifeng Chen. SIGKDD 2024. </li>  
@@ -45,7 +44,6 @@ Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publicatio
 <li>  <a href="https://arxiv.org/pdf/2406.05375" target="_blank" rel="nofollow"> LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Dongjie Wang, Chengyuan Deng, Reon Matsuoka, and Haifeng Chen. Arxiv 2024. </li>  
 
 <h3> AI for Security & Security for AI</h3> 
-
 <li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9526875&casa_token=1KFB3ziNVV0AAAAA:bhZke8mw9DwsG7tLWU2F7zCEkiHBaiCR8VkdvadjC_mcsOY4wRC0jD3ym-EG8lUCu6FAJAs6&tag=1" target="_blank" rel="nofollow"> Automated Anomaly Detection via Curiosity-Guided Search and Self-Imitation Learning</a>. Yuening Li, <b>Zhengzhang Chen</b>, Daochen Zha, Kaixiong Zhou, Haifeng Jin, Haifeng Chen, and Xia Hu. TNNLS 2022. </li> 
 
 <li> <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Tong_FaceSec_A_Fine-Grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems_CVPR_2021_paper.pdf" target="_blank" rel="nofollow"> FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems</a>. Liang Tong, <b>Zhengzhang Chen</b>, Jingchao Ni, Wei Cheng, Dongjin Song, Haifeng Chen, and Yevgeniy Vorobeychik. CVPR 2021. </li>  
@@ -56,9 +54,7 @@ Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publicatio
 
 <li>  <a href="https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03B-1-3_UlHassan_paper.pdf" target="_blank" rel="nofollow"> NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage</a>. Wajih Ul Hassan, Shengjian Guo, Ding Li, <b>Zhengzhang Chen</b>, Kangkook Jee, Zhichun Li, and Adam Bates. NDSS 2019.</li> 
 
-
 <h3>Meta Learning & Domain Adaptation & Transfer Learning </h3> 
-
 <li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671721" target="_blank" rel="nofollow"> POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning</a>. Junxiang Wang, Guangji Bai, Wei Cheng, <b>Zhengzhang Chen</b>, Liang Zhao, and Haifeng Chen. SIGKDD 2024. </li>
 
 <li>  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/982ca2640e64bf7a1908b028ebc8734a-Paper-Conference.pdf" target="_blank" rel="nofollow">Hierarchical Gaussian Mixture based Task Generative Model for Robust Meta-Learning</a>. Yizhou Zhang, Jingchao Ni, Wei Cheng, <b>Zhengzhang Chen</b>, Liang Tong, Haifeng Chen, and Yan Liu. NeurIPS 2023.</li>
