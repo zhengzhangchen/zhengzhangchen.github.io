@@ -25,7 +25,7 @@ News
 - \[06/2024\] Release of [LEMMA-RCA datasets](https://lemma-rca.github.io/) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
 - \[05/2024\] One paper is accepted by KDD 2024.
 - \[05/2024\] Invited to serve as SPC for WSDM 2025.
-- \[01/2024\] Invited to serve as Area Chair for KDD2024
+- \[01/2024\] Invited to serve as Area Chair for KDD2024.
 - \[01/2024\] One paper is accepted by The Web Conference (WWW) 2024.
 - \[09/2023\] One paper is accepted by NeurIPS 2023.
 - \[06/2023\] Invited to serve as SPC for AAAI 2024.
