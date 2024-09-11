@@ -18,17 +18,18 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 
 News
 -----
-- \[07/2024\] Serve as SPC for AAAI 2025.
+- \[07/2024\] Invited to serve as SPC for AAAI 2025.
 - \[07/2024\] Workshop proposal is accepted: [The 4th International Workshop on Data-Centric AI](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM2024
-- \[06/2024\] Serve as Area Chair for KDD 2025 (August Cycle).
-- \[06/2024\] Serve as Area Chair for ACML 2024.
+- \[06/2024\] Invited to serve as Area Chair for KDD 2025 (August Cycle).
+- \[06/2024\] Invited to serve as Area Chair for ACML 2024.
 - \[06/2024\] Release of [LEMMA-RCA datasets](https://lemma-rca.github.io/) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
 - \[05/2024\] One paper is accepted by KDD 2024.
-- \[05/2024\] Serve as SPC for WSDM 2025.
+- \[05/2024\] Invited to serve as SPC for WSDM 2025.
+- \[01/2024\] Invited to serve as Area Chair for KDD2024
 - \[01/2024\] One paper is accepted by The Web Conference (WWW) 2024.
 - \[09/2023\] One paper is accepted by NeurIPS 2023.
-- \[06/2023\] Serve as SPC for AAAI 2024.
-- \[05/2023\] Serve as SPC for WSDM 2024.
+- \[06/2023\] Invited to serve as SPC for AAAI 2024.
+- \[05/2023\] Invited to serve as SPC for WSDM 2024.
 - \[05/2023\] Two papers are accepted by KDD 2023.
 
 
