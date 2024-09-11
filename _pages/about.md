@@ -19,7 +19,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 News
 -----
 - \[07/2024\] Invited to serve as SPC for AAAI 2025.
-- \[07/2024\] Workshop proposal is accepted: [The 4th International Workshop on Data-Centric AI](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM2024.
+- \[07/2024\] Workshop proposal is accepted: [The 4th International Workshop on Data-Centric AI](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM 2024.
 - \[06/2024\] Invited to serve as Area Chair for KDD 2025 (August Cycle).
 - \[06/2024\] Invited to serve as Area Chair for ACML 2024.
 - \[06/2024\] Release of [LEMMA-RCA datasets](https://lemma-rca.github.io/) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
@@ -33,6 +33,44 @@ News
 - \[05/2023\] Two papers are accepted by KDD 2023.
 
 
+Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publications/)
+-----
+
+<h3>Causal Structure Learning & Root Cause Analysis</h3> 
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645442?casa_token=CizaRDRo0wkAAAAA:v6hBm8JcZrLTrF7YsN5c2a5hY8fN6DGW1eliGL3lnvUTPg9pY1jvOiuUxB3WRmElIkgQIJBiUgX1" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. The Web Conference 2024. </li>  
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599849?casa_token=EE8fPoXXW7wAAAAA:u9KHW3ufTkKBIvAHnk7TkgOEg0odOEuVggw1KJllI-eSD6e8h_p99Nfh-3ewDwCuYXDKMsd2BDl6" target="_blank" rel="nofollow"> Interdependent Causal Networks for Root Cause Localization</a>. Dongjie Wang<sup>&#9826;</sup>, <b>Zhengzhang Chen<sup>&#9826;</sup></b>, Jingchao Ni, Liang Tong, Zheng Wang, Yanjie Fu, and Haifeng Chen. SIGKDD 2024. </li> 
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599392?casa_token=IdYFYuDrVycAAAAA:pqR-1OEhuKx_wpkyAsBy_9s-WbDDEkleSJ9Nzp4UPrspRba3bH1jPfhffI2ruWwgqD3697PUXfaX" target="_blank" rel="nofollow"> Incremental Causal Graph Learning for Online Root Cause Analysis</a>.  Dongjie Wang,  <b>Zhengzhang Chen</b>, Yanjie Fu, Yanchi Liu, and Haifeng Chen. SIGKDD 2024. </li>  
+<li>  <a href="https://arxiv.org/pdf/2406.05375"target="_blank" rel="nofollow"> LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Dongjie Wang, Chengyuan Deng, Reon Matsuoka, and Haifeng Chen. Arxiv 2024. </li>  
+
+<h3> AI for Security & Security for AI</h3> 
+<li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9526875&casa_token=1KFB3ziNVV0AAAAA:bhZke8mw9DwsG7tLWU2F7zCEkiHBaiCR8VkdvadjC_mcsOY4wRC0jD3ym-EG8lUCu6FAJAs6&tag=1" target="_blank" rel="nofollow"> Automated Anomaly Detection via Curiosity-Guided Search and Self-Imitation Learning</a>. Yuening Li, <b>Zhengzhang Chen</b>, Daochen Zha, Kaixiong Zhou, Haifeng Jin, Haifeng Chen, and Xia Hu. TNNLS 2022. </li> 
+
+<li> <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Tong_FaceSec_A_Fine-Grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems_CVPR_2021_paper.pdf" target="_blank" rel="nofollow"> FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems</a>. Liang Tong, <b>Zhengzhang Chen</b>, Jingchao Ni, Wei Cheng, Dongjin Song, Haifeng Chen, and Yevgeniy Vorobeychik. CVPR 2021. </li>  
+
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3447548.3467125" target="_blank" rel="nofollow"> Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection</a>. Zhiwei Wang, <b>Zhengzhang Chen</b>, Jingchao Ni, Hui Liu, Haifeng Chen, and Jiliang Tang. SIGKDD 2021.  </li> 
+
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3481955?casa_token=9oiNODasEUwAAAAA:ZZhgD4wUCd9aZI7cSHgF2hcQj73AtLH-yPnR1Jyhojsjpq7Q5f7SfNsj8rTkKwcohneHeX8yCBJn5" target="_blank" rel="nofollow"> Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs</a>. Lei Cai, <b>Zhengzhang Chen</b>, Chen Luo, Jiaping Gui, Jingchao Ni, Ding Li, and Haifeng Chen. CIKM 2021. </li> 
+
+<li>  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9006464&casa_token=ingu8NAUzXgAAAAA:o6oBVz7QgNDllyZlxnxIbJDzqpamCUCls5mXgRRRrjdtGpvGn0E4wtrVGBVcGPxx7umK3tZk" target="_blank" rel="nofollow"> Heterogeneous Graph Matching Networks for Unknown Malware Detection</a>. Shen Wang<sup>&#9826;</sup>, <b>Zhengzhang Chen</b><sup>&#9826;</sup>, Xiao Yu, Ding Li, Jingchao Ni, Lu-An Tang, Jiaping Gui, Zhichun Li, Haifeng Chen, and Philip S. Yu. IJCAI 2019. </li> 
+
+<li>  <a href="https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03B-1-3_UlHassan_paper.pdf" target="_blank" rel="nofollow"> NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage</a>. Wajih Ul Hassan, Shengjian Guo, Ding Li, <b>Zhengzhang Chen</b>, Kangkook Jee, Zhichun Li, and Adam Bates. NDSS 2019.</li> 
+
+<li>  <a href="https://d1wqtxts1xzle7.cloudfront.net/45750515/Community-based_anomaly_detection_in_evo20160518-13566-17tcg7p-libre.pdf?1463593809=&response-content-disposition=inline%3B+filename%3DCommunity_based_anomaly_detection_in_evo.pdf&Expires=1725856681&Signature=XgseVJbzXrnXTIC2Y1IiBAJg0PUOWDFLbllSPg7eLKVSBVCJy7CugZryTxVtkp42KBLmVlf2HI1Kqw9kL6LE7sn7c0oQGjfXE16oosshEH88~kYC51d8Od8j~F0xsYVdO85QPDjzDFwhyZLH94uyLwApTUQckxw6nDgUPY8fd7xSLhovknKsapBajNLQ1sKwUzFq5vy1mNAcglHkCHyhvesIberimI-mWigBIeYQYS0PcPIEBE3EwlJ-MhGJvDNeDfgv~zBc3PSl6gusutDcJ-We6CrAYjfr2bmp7viPSWgO6T1BE3BKnoLJDtz3GDUBXqmiRlQI71D54b6CDhhFbQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank" rel="nofollow"> Community-based Anomaly Detection in Evolutionary Networks</a>. <b>Zhengzhang Chen</b>, William Hendrix, and Nagiza F. Samatova. Journal of Intelligent Information Systems: Integrating Artificial Intelligence and Database Technologies, vol. 39(1): 59-85, 2011.</li> 
+
+<li>  <a href="https://www.ijcai.org/Proceedings/16/Papers/201.pdf" target="_blank" rel="nofollow"> Entity Embedding-based Anomaly Detection for Heterogeneous Categorical Events]</a>. Ting Chen, Lu-An Tang, Yizhou Sun, <b>Zhengzhang Chen</b>, and Kai Zhang. IJCAI 2016. </li>
+
+<h3>Meta Learning & Domain Adaptation & Transfer Learning </h3> 
+
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671721" target="_blank" rel="nofollow"> POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning</a>. Junxiang Wang, Guangji Bai, Wei Cheng, <b>Zhengzhang Chen</b>, Liang Zhao, and Haifeng Chen. SIGKDD 2024. </li>
+
+<li>  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/982ca2640e64bf7a1908b028ebc8734a-Paper-Conference.pdf" target="_blank" rel="nofollow">Hierarchical Gaussian Mixture based Task Generative Model for Robust Meta-Learning</a>. Yizhou Zhang, Jingchao Ni, Wei Cheng, <b>Zhengzhang Chen</b>, Liang Tong, Haifeng Chen, and Yan Liu. NeurIPS 2023.</li>
+
+
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539140" target="_blank" rel="nofollow"> Towards Learning Disentangled Representations for Time Series</a>. Yuening Li, <b>Zhengzhang Chen</b>, Daochen Zha, Mengnan Du, Jingchao Ni, Denghui Zhang, Haifeng Chen, and Xia Hu. SIGKDD 2022.</li>
+
+<li>  <a href="https://openreview.net/pdf?id=vds4SNooOe" target="_blank" rel="nofollow"> Superclass-Conditional Gaussian Mixture Model for Learning Fine-Grained Embeddings]</a>. Jingchao Ni, Wei Cheng, <b>Zhengzhang Chen</b>, Takayoshi Asakura, Tomoya Soma, Sho Kato, and Haifeng Chen. ICLR 2022.</li>
+
+<li>  <a href="https://dl.acm.org/doi/pdf/10.1145/3219819.3220003" target="_blank" rel="nofollow"> TINET: Learning Invariant Networks via Knowledge Transfer</a>. Chen Luo<sup>&#9826;</sup>, <b>Zhengzhang Chen</b><sup>&#9826;</sup>, Lu-An Tang, Anshumali Shrivastava, Zhichun Li, Haifeng Chen, and Jieping Ye. SIGKDD 2018. </li>
 
 
 
