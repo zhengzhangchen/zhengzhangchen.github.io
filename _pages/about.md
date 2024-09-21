@@ -25,7 +25,7 @@ News
 - \[06/2024\] Released [LEMMA-RCA datasets](https://lemma-rca.github.io/) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
 - \[05/2024\] One paper got accepted by KDD 2024.
 - \[05/2024\] I will serve as an SPC for WSDM 2025.
-- \[03/2024\] Our <a href="https://arxiv.org/pdf/2305.18703.pdf">LLM survey paper </a>  was cited by <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/"> <strong>2024 Economic Report of the President of the United States</strong>.  </a> 
+- \[03/2024\] Our <a href="https://arxiv.org/pdf/2305.18703.pdf">LLM survey paper </a>  was cited by <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/"> <strong>2024 Economic Report of the President of the United States</strong></a>. 
 - \[01/2024\] I will serve as an Area Chair for KDD2024.
 - \[01/2024\] One paper got accepted by The Web Conference (WWW) 2024.
 - \[09/2023\] One paper got accepted by NeurIPS 2023.
