@@ -18,19 +18,20 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 
 News
 -----
-- \[07/2024\] Invited to serve as SPC for AAAI 2025.
-- \[07/2024\] Workshop proposal is accepted: [The 4th International Workshop on Data-Centric AI](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM 2024.
-- \[06/2024\] Invited to serve as Area Chair for ACML 2024.
+- \[07/2024\] I will serve as an SPC for AAAI 2025.
+- \[07/2024\] Workshop proposal got accepted: [The 4th International Workshop on Data-Centric AI](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM 2024.
+- \[06/2024\] I  will serve as an Area Chair for ACML 2024.
 - \[06/2024\] Won NEC Business Contribution Award: In recongnition of key contributions to root cause analysis.
-- \[06/2024\] Release of [LEMMA-RCA datasets](https://lemma-rca.github.io/) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
-- \[05/2024\] One paper is accepted by KDD 2024.
-- \[05/2024\] Invited to serve as SPC for WSDM 2025.
-- \[01/2024\] Invited to serve as Area Chair for KDD2024.
-- \[01/2024\] One paper is accepted by The Web Conference (WWW) 2024.
-- \[09/2023\] One paper is accepted by NeurIPS 2023.
-- \[06/2023\] Invited to serve as SPC for AAAI 2024.
-- \[05/2023\] Invited to serve as SPC for WSDM 2024.
-- \[05/2023\] Two papers are accepted by KDD 2023.
+- \[06/2024\] Released [LEMMA-RCA datasets](https://lemma-rca.github.io/) and [root cause analysis benchmark codes](https://github.com/KnowledgeDiscovery/rca_baselines).
+- \[05/2024\] One paper got accepted by KDD 2024.
+- \[05/2024\] I will serve as an SPC for WSDM 2025.
+- \[03/2024\] Our <a href="https://arxiv.org/pdf/2305.18703.pdf">LLM survey paper </a>  was cited by <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/"> <strong>2024 Economic Report of the President of the United States</strong>  </a> 
+- \[01/2024\] I will serve as an Area Chair for KDD2024.
+- \[01/2024\] One paper got accepted by The Web Conference (WWW) 2024.
+- \[09/2023\] One paper got accepted by NeurIPS 2023.
+- \[06/2023\] I will serve as an SPC for AAAI 2024.
+- \[05/2023\] I will serve as an SPC for WSDM 2024.
+- \[05/2023\] Two papers got accepted by KDD 2023.
 
 
 Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publications/)
