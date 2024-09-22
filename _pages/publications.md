@@ -18,7 +18,7 @@ author_profile: true
 
 5. <strong>[NeurIPS'23]</strong> <a href="https://zhengzhangchen.github.io/paper/NeurIPS-2023-hierarchical-gaussian-mixture-based-task-generative-model-for-robust-meta-learning-Paper-Conference.pdf">Hierarchical Gaussian Mixture based Task Generative Model for Robust Meta-Learning</a>. <br> Yizhou Zhang, Jingchao Ni, Wei Cheng, <b>Zhengzhang Chen</b>, Liang Tong, Haifeng Chen, and Yan Liu. <br> In Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems, 2023.
 
-6. <strong>[arXiv]</strong> <a href="https://arxiv.org/pdf/2305.18703">Domain specialization as the key to make large language models disruptive: A comprehensive survey</a>. <br> Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, Junxiang Wang, Tanmoy Chowdhury, <b>Zhengzhang Chen</b>, <em>et al</em>. <br> arXiv preprint arXiv:2305.18703, 2023.
+6. <strong>[arXiv]</strong> <a href="https://arxiv.org/pdf/2305.18703">Domain specialization as the key to make large language models disruptive: A comprehensive survey</a>. <br>Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, Junxiang Wang, Tanmoy Chowdhury, Yun Li, Hejie Cui, Xuchao Zhang, Tianjiao Zhao, Amit Panalkar, Wei Cheng, Haoyu Wang, Yanchi Liu, <strong>Zhengzhang Chen</strong>, Haifeng Chen, Chris White, Quanquan Gu, Carl Yang, and Liang Zhao. <br> arXiv preprint arXiv:2305.18703, 2023.
 
 7. <strong>[ICKG'23]</strong> <a href="https://arxiv.org/pdf/2309.05953">GLAD: Content-Aware Dynamic Graphs For Log Anomaly Detection</a>. <br> Yufei Li, Yanchi Liu, Haoyu Wang, <b>Zhengzhang Chen</b>, Wei Cheng, Yuncong Chen, Wenchao Yu, Haifeng Chen, and Cong Liu. <br> IEEE International Conference on Knowledge Graph, 2023.
 
