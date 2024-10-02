@@ -141,6 +141,6 @@ author_profile: true
 67. <strong>[TCS]</strong> <a href="https://zhengzhangchen.github.io/paper/Inapproximability_results_for_equations_over_infinite_groups.pdf">Inapproximability Results for Equations over Infinite Groups</a>. <br> Wenbin Chen, Dengpan Yin, and <b>Zhengzhang Chen</b>. <br> Theoretical Computer Science, 411 (26-28): 2513-2519, 2010.
 
 <h2>PhD Thesis</h2>
-<a href="https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf">Discovery of Informative and Predictive Patterns in Dynamic Networks of Complex Systems/a>.
+<a href="https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf">Discovery of Informative and Predictive Patterns in Dynamic Networks of Complex Systems</a>.
 
 
