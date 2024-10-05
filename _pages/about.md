@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Short Bio"
-excerpt: "About Me"
+excerpt: "Zhengzhang Chen"
 author_profile: true
 redirect_from: 
   - /about/
