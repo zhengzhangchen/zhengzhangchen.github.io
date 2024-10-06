@@ -1,0 +1,6 @@
+@book{chen2012discovery,
+  title={Discovery of informative and predictive patterns in dynamic networks of complex systems},
+  author={Chen, Zhengzhang},
+  year={2012},
+  publisher={North Carolina State University}
+}
