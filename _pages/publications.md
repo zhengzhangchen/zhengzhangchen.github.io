@@ -22,7 +22,7 @@ author_profile: true
 
 7. <strong>[ICKG'23]</strong> <a href="https://arxiv.org/pdf/2309.05953">GLAD: Content-Aware Dynamic Graphs For Log Anomaly Detection</a>. <br> Yufei Li, Yanchi Liu, Haoyu Wang, <b>Zhengzhang Chen</b>, Wei Cheng, Yuncong Chen, Wenchao Yu, Haifeng Chen, and Cong Liu. <br> IEEE International Conference on Knowledge Graph, 2023.
 
-8. <strong>[SIGKDD'22]</strong> <a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">Towards Learning Disentangled Representations for Time Series</a>. <br> <u>Yuening Li</u>, <b>Zhengzhang Chen</b>, Daochen Zha, Mengnan Du, Jingchao Ni, Denghui Zhang, Haifeng Chen, and Xia Hu. <br> In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2022.
+8. <strong>[SIGKDD'22]</strong> <a href="https://zhengzhangchen.github.io/paper/Towards%20Learning%20Disentangled%20Representations%20for%20Time%20Series.pdf">Towards Learning Disentangled Representations for Time Series</a>. <br> <u>Yuening Li</u>, <b>Zhengzhang Chen</b>, Daochen Zha, Mengnan Du, Jingchao Ni, Denghui Zhang, Haifeng Chen, and Xia Hu. <br> In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2022.
 
 9. <strong>[TNNLS]</strong> <a href="https://zhengzhangchen.github.io/paper/Automated_Anomaly_Detection_via_Curiosity-Guided_Search_and_Self-Imitation_Learning.pdf">Automated Anomaly Detection via Curiosity-Guided Search and Self-Imitation Learning</a>. <br> <u>Yuening Li</u>, <b>Zhengzhang Chen</b>, Daochen Zha, Kaixiong Zhou, Haifeng Jin, Haifeng Chen, and Xia Hu. <br> IEEE Transactions on Neural Networks and Learning Systems, 33(6): 2365-2377, 2022.
 
