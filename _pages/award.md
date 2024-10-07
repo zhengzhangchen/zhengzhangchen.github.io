@@ -5,6 +5,16 @@ permalink: /awards/
 author_profile: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-376ZKYTEY6');
+</script>
+
 - **Guest Editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
 - **Area Chair** for ACML2025, KDD2024, KDD2023
 - **Seniro Program Committee** for AAAI (2021-2025), KDD (2021-2022), IJCAI (2023-2024), WSDM (2022-2025)
