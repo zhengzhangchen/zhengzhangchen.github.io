@@ -116,7 +116,7 @@ author_profile: true
     <section class='av_textblock_section av-lswi30y1-9481e58db4434d2bccdc80a30667e62c' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
             <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2024/02/Automated-Security-Intelligence-1.jpg" alt='Automated Security Intelligence' title='Automated Security Intelligence 1' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
+            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/DGA.png" alt='Automated Security Intelligence' title='Automated Security Intelligence 1' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
 
  <p>Every day it becomes harder to guarantee enterprise security. Sophisticated attacks are launched from economically-driven, well-organized attackers. Systems are complex and evolving, and it is difficult, if not impossible, to keep track of security vulnerabilities and prepare every employee with enough knowledge and skills. To address these challenges, we propose the automated security intelligence project, inspired by the words of Sun Tzu: “If you know your enemies and yourself, you can win a hundred battles without a single loss.”</p>
         </div>
