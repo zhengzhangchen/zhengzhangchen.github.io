@@ -11,6 +11,9 @@ main:
     
 - title: "Patents"
   url: /patents/
+
+- title: "Research"
+  url: /research/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
