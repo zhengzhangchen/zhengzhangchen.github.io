@@ -45,6 +45,29 @@ author_profile: true
 <!-- <b>Representative Publication</b>: [\[MULAN WWW'24\]](https://zhengzhangchen.github.io/paper/MULAN-_Multi-modal_Causal_Structure_Learning_and_Root_Cause_Analysis_for_Microservice_Systems.pdf") [\[REASON KDD'23\]](https://zhengzhangchen.github.io/paper/Interdependent_Causal_Networks_for_Root_Cause_Localization.pdf) [\[CORAL KDD'23\]](https://zhengzhangchen.github.io/paper/Incremental_Causal_Graph_Learning_for_Online_Root_Cause_Analysis.pdf) -->
 
 
+<h3>Safe and Trustworthy AI</h3>
+
+<!-- Text wrapping around the image -->
+<div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+            <!-- Image floated to the right -->
+            <img fetchpriority="high" decoding="async" class='wp-image-4719 avia-img-lazy-loading-not-4719 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Safe-and-Trustworthy-AI.png" alt='Safe and Trustworthy AI' title='Safe and Trustworthy AI' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
+
+<p>By leveraging big data and deep learning, in recent years, AI technologies have made significant progress. They have been adopted in many applications, including malware detection, image classification, and stock market prediction. As our society becomes more automated, more and more systems will rely on AI techniques. And instead of augmenting human decisions, some AI systems will make their own decisions and execute autonomously. This is extremely risky especially for mission-critical fields (like homeland security, medical diagnosis, and self-driving vehicles). In fact, the advances in AI outpace efforts to curb its potential hazards, because AI systems are vulnerable due to various attacks and biases.</p>
+        </div>
+    </section>
+</div>
+
+<div class='flex_column av-3r0s7i-487dd53ce7ff707872c0624df9153480 av_one_full  avia-builder-el-19  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-294u8u-6deca95511cc360576b7aeb3875dfba3' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+            <p>This project aims to develop innovative system testing and data governance engines to identify AI system vulnerabilities, defend against advanced attacks, improve technical robustness, and mitigate technical unfairness/biases. Our engines leverage fine-grained reliability assessment, generalized robustness enhancement, and hardware-based privacy protection techniques to secure both AI model and data throughout the system development life cycle.</p>
+        </div>
+    </section>
+</div>
+
+
 <h3>Multimodal Data Analysis</h3>
 
 <div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'>
@@ -86,28 +109,6 @@ author_profile: true
 </div>
 
 
-<h3>Safe and Trustworthy AI</h3>
-
-<!-- Text wrapping around the image -->
-<div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
-    <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
-        <div class='avia_textblock' itemprop="text">
-            <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-4719 avia-img-lazy-loading-not-4719 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Safe-and-Trustworthy-AI.png" alt='Safe and Trustworthy AI' title='Safe and Trustworthy AI' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
-
-<p>By leveraging big data and deep learning, in recent years, AI technologies have made significant progress. They have been adopted in many applications, including malware detection, image classification, and stock market prediction. As our society becomes more automated, more and more systems will rely on AI techniques. And instead of augmenting human decisions, some AI systems will make their own decisions and execute autonomously. This is extremely risky especially for mission-critical fields (like homeland security, medical diagnosis, and self-driving vehicles). In fact, the advances in AI outpace efforts to curb its potential hazards, because AI systems are vulnerable due to various attacks and biases.</p>
-        </div>
-    </section>
-</div>
-
-<div class='flex_column av-3r0s7i-487dd53ce7ff707872c0624df9153480 av_one_full  avia-builder-el-19  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
-    <section class='av_textblock_section av-294u8u-6deca95511cc360576b7aeb3875dfba3' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
-        <div class='avia_textblock' itemprop="text">
-            <p>This project aims to develop innovative system testing and data governance engines to identify AI system vulnerabilities, defend against advanced attacks, improve technical robustness, and mitigate technical unfairness/biases. Our engines leverage fine-grained reliability assessment, generalized robustness enhancement, and hardware-based privacy protection techniques to secure both AI model and data throughout the system development life cycle.</p>
-        </div>
-    </section>
-</div>
-
 
 <h3>Automated Security Intelligence</h3>
 
@@ -128,12 +129,25 @@ author_profile: true
 
 <h3>Data Centered Materials Knowledge Discovery</h3>
 
+
+<div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+            <!-- Image floated to the right -->
+            <img fetchpriority="high" decoding="async" class='wp-image-4726 avia-img-lazy-loading-not-4726 avia_image' src="https://zhengzhangchen.github.io/images/material_project.png" alt='Data Centered Materials Knowledge Discovery' title='ML based Microstructure Descriptor Identification' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
+
  <p>Data mining for materials discovery is concerned with representing materials science problems into a statistical framework, and learning models that describe observations about the processing, structure, and property of materials. The extraction of microstructure-property relationships resides at the basis of nearly all cutting-edge applications of Material Science and Engineering, whose goals are to develop advanced materials for industrial and military purposes, using experimental and computational methodologies. The massive amount of experimental and simulation data produced by modern characterization instruments and computational platforms introduce many challenges in terms of scalability, data storage, complexity, high dimensionality, interpretation, and retrieval. This makes it imperative to employ advanced methods for efficient data storage, retrieval, and analysis, thereby providing opportunities in the scope of high performance data mining for materials informatics.</p>
 
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
+
+<div class='flex_column av-4b25ma-15fe0f6d6486e0c75c98bc71926d7d68 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-lswi30y1-9481e58db4434d2bccdc80a30667e62c' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+            <!-- Image floated to the right -->
+            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/social_project.png" alt='Understanding, Analyzing, and Retrieving Knowledge from Social Media' title='Facebook Communities ' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
 
 <p> Social Media has become one of the most popular platforms to allow users 
 to communicate, and share their interests without being at the same 
@@ -156,6 +170,13 @@ To achieve this goal, the specfic objectives of the project are as follows.
 	</p>
 
 <h3>Understanding Climate Change: A Data Driven Approach</h3>
+
+<div class='flex_column av-4b25ma-15fe0f6d6486e0c75c98bc71926d7d68 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-lswi30y1-9481e58db4434d2bccdc80a30667e62c' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+            <!-- Image floated to the right -->
+            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/climate_project.png" alt='Understanding Climate Change: A Data Driven Approach' title='Understanding Climate Change: A Data Driven Approach' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
+
 
 <p>Climate change is the defining environmental challenge now facing our planet. Whether it is an increase in the frequency or intensity of hurricanes, rising sea levels, droughts, floods, or extreme temperatures and severe weather, the social, economic, and environmental consequences are great as the resource-stressed planet nears 7 billion inhabitants later this century. Yet there is considerable uncertainty as to the social and environmental impacts because the predictive potential of numerical models of the earth system is limited. Data driven methods that have been highly successful in other facets of the computational sciences are now being used in the environmental sciences with success. The objective of the Expedition project is to significantly advance key challenges in climate change science by developing exciting and innovative new data driven approaches that take advantage of the wealth of climate and ecosystem data now available from satellite and ground-based sensors, the observational record for atmospheric, oceanic, and terrestrial processes, and physics-based climate model simulations.</p>
 
