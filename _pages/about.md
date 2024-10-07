@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-376ZKYTEY6');
+</script>
 
 I am currently a senior research scientist at [NEC Laboratories America](https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/). Previously, I served as a research assistant professor in the [Department of Electrical Engineering & Computer Science at Northwestern University](http://cucis.ece.northwestern.edu/members/zzc472/), where I also completed a one-year postdoctoral fellowship under the supervision of [Prof. Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/). I received my Ph.D. degree from [Computer Science Department at North Carolina State University](https://www.csc.ncsu.edu/). 
 
