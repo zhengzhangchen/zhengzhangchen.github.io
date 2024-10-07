@@ -18,7 +18,7 @@ author_profile: true
 
 <h2> Projects</h2>
 
-<h3>AIOPs: Evoking Intelligence in Operations</h3>
+<h3>AIOps: Evoking Intelligence in Operations</h3>
 
 <div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'>
     <div class='av-special-heading av-cu4ob-14a7cde11bea3f51ac252cb2f24ef51b av-special-heading-h2  avia-builder-el-14  avia-builder-el-no-sibling '>
