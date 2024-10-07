@@ -124,11 +124,7 @@ author_profile: true
 </div>
 
  <p>Security is from diligent actions. Actions are from precise intelligence. Intelligence is from surveillance data. Automated Security Intelligence (ASI) – a new crusade to defend our system. ASI aims to employ ubiquitous endpoint monitoring, big-data and AI technologies to bring full visibility to the enterprise, to ease the security and system management, and to track down the sophisticated Advanced Persistent Threats (APT).</p>
-<ul>
-  <li>Deploy a lightweight and ubiquitous surveillance mechanism to collect real-time data for intelligence analysis.  </li>
-  <li>Automatically and incrementally construct a system blueprint with confidence to holistically profile the whole system.</li>
-  <li>Introduce deep reasoning and analytics on big surveillance data to enhance system security./li>
-</ul>
+
 
 <h3>Data Centered Materials Knowledge Discovery</h3>
 
