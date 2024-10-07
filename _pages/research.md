@@ -20,12 +20,27 @@ author_profile: true
 
 <h3>AIOPs: Evoking Intelligence in Operations</h3>
 
-<div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'   ><div  class='av-special-heading av-cu4ob-14a7cde11bea3f51ac252cb2f24ef51b av-special-heading-h2  avia-builder-el-14  avia-builder-el-no-sibling '><h2 class='av-special-heading-tag'  itemprop="headline"  >AIOPs: Evoking Intelligence in Operations</h2><div class="special-heading-border"><div class="special-heading-inner-border"></div></div></div></div>
-<div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'   ><section  class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>IT operation is one of the technological foundations of the increasingly digitalized world. It is responsible for ensuring that digitalized businesses and societies run reliably, efficiently and safely. With the rapid advances in networking, computers, and hardware, we face an explosive growth of complexity in networked applications and information services. These large-scale, often distributed, information systems usually consist of a great variety of components that work together in a highly complex, coordinated, and evolving manner. Moreover, terabytes of heterogeneous data per day including metrics data, log data and event data, overwhelm Ops engineers.</p>
-</div></section></div><div class='flex_column av-4wqu9v-6e7649ef520b9b08eab29d6dedf9d6d3 av_one_half  avia-builder-el-17  el_after_av_one_half  el_before_av_textblock  flex_column_div column-top-margin'   ><div  class='avia-image-container av-2dby1v-867153fbb997e150d15cc1383d37ee94 av-styling- avia-align-center  avia-builder-el-18  avia-builder-el-no-sibling '  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img fetchpriority="high" decoding="async" class='wp-image-4729 avia-img-lazy-loading-not-4729 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps.png" alt='AI for IT Operations (AIOps)' title='AI for IT Operations (AIOps)'  height="320" width="800"  itemprop="thumbnailUrl" srcset="https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps.png 800w, https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps-300x120.png 300w, https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps-768x307.png 768w, https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps-705x282.png 705w" sizes="(max-width: 800px) 100vw, 800px" /></div></div></div></div></p>
-<section  class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>This project aims to develop unique AI techniques that provide a 360-degree understanding of IT operations and fully automate critical dimensions of IT operations monitoring, including historical analysis, anomaly detection, root cause localization, event forecasting, and performance analysis. Our solution for AIOps is a continuous automatic IT operations management system powered by deep neural networks, graph AI, and statistical models.</p>
-<p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
-</div></section>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <!-- Left column: Text -->
+    <div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+        <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+            <div class='avia_textblock' itemprop="text">
+                <p>IT operation is one of the technological foundations of the increasingly digitalized world. It is responsible for ensuring that digitalized businesses and societies run reliably, efficiently and safely. With the rapid advances in networking, computers, and hardware, we face an explosive growth of complexity in networked applications and information services. These large-scale, often distributed, information systems usually consist of a great variety of components that work together in a highly complex, coordinated, and evolving manner. Moreover, terabytes of heterogeneous data per day including metrics data, log data, and event data, overwhelm Ops engineers.</p>
+            </div>
+        </section>
+    </div>
+
+<div class='flex_column av-4wqu9v-6e7649ef520b9b08eab29d6dedf9d6d3 av_one_half  avia-builder-el-17  el_after_av_one_half  el_before_av_textblock  flex_column_div column-top-margin'>
+        <div class='avia-image-container av-2dby1v-867153fbb997e150d15cc1383d37ee94 av-styling- avia-align-center  avia-builder-el-18  avia-builder-el-no-sibling' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+            <div class="avia-image-container-inner">
+                <div class="avia-image-overlay-wrap">
+                    <img fetchpriority="high" decoding="async" class='wp-image-4729 avia-img-lazy-loading-not-4729 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps.png" alt='AI for IT Operations (AIOps)' title='AI for IT Operations (AIOps)' height="320" width="800" itemprop="thumbnailUrl" srcset="https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps.png 800w, https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps-300x120.png 300w, https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps-768x307.png 768w, https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps-705x282.png 705w" sizes="(max-width: 800px) 100vw, 800px" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <h3>Multimodal Data Analysis</h3>
 
