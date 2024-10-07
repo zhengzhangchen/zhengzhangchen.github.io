@@ -32,7 +32,7 @@ author_profile: true
     <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
             <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-4729 avia-img-lazy-loading-not-4729 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps.png" alt='AI for IT Operations (AIOps)' title='AI for IT Operations (AIOps)' style="float: right; margin: 0 0 15px 15px; max-width: 40%;" />
+            <img fetchpriority="high" decoding="async" class='wp-image-4729 avia-img-lazy-loading-not-4729 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/AI-for-IT-Operations-AIOps.png" alt='AI for IT Operations (AIOps)' title='AI for IT Operations (AIOps)' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
 
 <p>IT operation is one of the technological foundations of the increasingly digitalized world. It is responsible for ensuring that digitalized businesses and societies run reliably, efficiently and safely. With the rapid advances in networking, computers, and hardware, we face an explosive growth of complexity in networked applications and information services. These large-scale, often distributed, information systems usually consist of a great variety of components that work together in a highly complex, coordinated, and evolving manner. Moreover, terabytes of heterogeneous data per day including metrics data, log data, and event data, overwhelm Ops engineers.</p>
         </div>
@@ -52,7 +52,7 @@ author_profile: true
     <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
             <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-4719 avia-img-lazy-loading-not-4719 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Safe-and-Trustworthy-AI.png" alt='Safe and Trustworthy AI' title='Safe and Trustworthy AI' style="float: right; margin: 0 0 15px 15px; max-width: 40%;" />
+            <img fetchpriority="high" decoding="async" class='wp-image-4719 avia-img-lazy-loading-not-4719 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Safe-and-Trustworthy-AI.png" alt='Safe and Trustworthy AI' title='Safe and Trustworthy AI' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
 
 <p>By leveraging big data and deep learning, in recent years, AI technologies have made significant progress. They have been adopted in many applications, including malware detection, image classification, and stock market prediction. As our society becomes more automated, more and more systems will rely on AI techniques. And instead of augmenting human decisions, some AI systems will make their own decisions and execute autonomously. This is extremely risky especially for mission-critical fields (like homeland security, medical diagnosis, and self-driving vehicles). In fact, the advances in AI outpace efforts to curb its potential hazards, because AI systems are vulnerable due to various attacks and biases.</p>
         </div>
@@ -84,7 +84,7 @@ author_profile: true
     <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
             <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-4726 avia-img-lazy-loading-not-4726 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis.png" alt='Multimodal Data Analysis' title='Multimodal Data Analysis' style="float: right; margin: 0 0 15px 15px; max-width: 40%;" />
+            <img fetchpriority="high" decoding="async" class='wp-image-4726 avia-img-lazy-loading-not-4726 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis.png" alt='Multimodal Data Analysis' title='Multimodal Data Analysis' style="float: right; margin: 0 0 15px 15px; max-width: 30%;" />
 
 <p>Multimodal data are prevalent in industrial monitoring, finance, and healthcare. In particular, time series are often tagged with text comments from experts that provide layman users with the domain knowledge to understand the charts. Texts give the patterns qualitative meaning while time series make the words quantitative. Analyzing the relationship between different data types is the key to unraveling the hidden structure of such data.</p>
 <p>This project aims to develop machine learning and data mining algorithms that provide insight about multimodal data through joint modeling of time series, natural language texts, and data of other types. Through tasks such as automatic time series explanation, cross-modal retrieval, time series QA, and knowledge discovery, we create virtual domain experts that can comprehend domain-specific terms and use them to explain time series data. Automated financial analyst, plant operator, health advisor, and fitness coach are just a few examples of the next-generation AI-human interaction paradigm enabled by multimodal learning.</p>
@@ -149,7 +149,7 @@ author_profile: true
     <section class='av_textblock_section av-lswi30y1-9481e58db4434d2bccdc80a30667e62c' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
             <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/social_project.png" alt='Understanding, Analyzing, and Retrieving Knowledge from Social Media' title='Facebook Communities ' style="float: right; margin: 0 0 15px 15px; max-width: 40%;" />
+            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/social_project.png" alt='Understanding, Analyzing, and Retrieving Knowledge from Social Media' title='Facebook Communities ' style="float: right; margin: 0 0 15px 15px; max-width: 30%;" />
 
 <p> Social Media has become one of the most popular platforms to allow users 
 to communicate, and share their interests without being at the same 
