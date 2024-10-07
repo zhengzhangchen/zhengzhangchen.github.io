@@ -41,13 +41,33 @@ author_profile: true
     </section>
 </div>
 
-
+<section  class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>This project aims to develop unique AI techniques that provide a 360-degree understanding of IT operations and fully automate critical dimensions of IT operations monitoring, including historical analysis, anomaly detection, root cause localization, event forecasting, and performance analysis. Our solution for AIOps is a continuous automatic IT operations management system powered by deep neural networks, graph AI, and statistical models.</p>
+<p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
 
 <h3>Multimodal Data Analysis</h3>
 
-<div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'   ><div  class='av-special-heading av-cu4ob-418aed05b3ab56fe0e80e05711146fa0 av-special-heading-h2  avia-builder-el-14  avia-builder-el-no-sibling '><h2 class='av-special-heading-tag'  itemprop="headline"  >Multimodal Data Analysis</h2><div class="special-heading-border"><div class="special-heading-inner-border"></div></div></div></div><div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'   ><section  class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>Multimodal data are prevalent in industrial monitoring, finance and healthcare. In particular, time series are often tagged with text comments from experts that provide layman users with the domain knowledge to understand the charts. Texts give the patterns qualitative meaning while time series makes the words quantitative. Analyzing the relationship between different data types is the key to unraveling the hidden structure of such data.</p>
-<p>This project aims to develop machine learning and data mining algorithms that provide insight about multimodal data through joint modeling of time series, natural language texts and data of other types. Through tasks such as automatic time series explanation, cross-modal retrieval, time series QA and knowledge discovery, we create virtual domain experts that can comprehend domain-specific terms and use them to explain time series data. Automated financial analyst, plant operator, health advisor and fitness coach are just a few examples of the next generation AI-human interaction paradigm enabled by multimodal learning.</p>
-</div></section></div><div class='flex_column av-4wqu9v-6e7649ef520b9b08eab29d6dedf9d6d3 av_one_half  avia-builder-el-17  el_after_av_one_half  avia-builder-el-last  flex_column_div column-top-margin'   ><div  class='avia-image-container av-2dby1v-28e3abc82bcf717caa837831697f1888 av-styling- avia-align-center  avia-builder-el-18  avia-builder-el-no-sibling '  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img fetchpriority="high" decoding="async" class='wp-image-4726 avia-img-lazy-loading-not-4726 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis.png" alt='Multimodal Data Analysis' title='Multimodal Data Analysis'  height="763" width="800"  itemprop="thumbnailUrl" srcset="https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis.png 800w, https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis-300x286.png 300w, https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis-768x732.png 768w, https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis-705x672.png 705w" sizes="(max-width: 800px) 100vw, 800px" /></div></div></div></div></p>
+<div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <div class='av-special-heading av-cu4ob-418aed05b3ab56fe0e80e05711146fa0 av-special-heading-h2  avia-builder-el-14  avia-builder-el-no-sibling'>
+        <h2 class='av-special-heading-tag' itemprop="headline">Multimodal Data Analysis</h2>
+        <div class="special-heading-border">
+            <div class="special-heading-inner-border"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Text wrapping around the image -->
+<div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+            <!-- Image floated to the right -->
+            <img fetchpriority="high" decoding="async" class='wp-image-4726 avia-img-lazy-loading-not-4726 avia_image' src="https://www.nec-labs.com/wp-content/uploads/2023/10/Multimodal-Data-Analysis.png" alt='Multimodal Data Analysis' title='Multimodal Data Analysis' style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
+
+<p>Multimodal data are prevalent in industrial monitoring, finance, and healthcare. In particular, time series are often tagged with text comments from experts that provide layman users with the domain knowledge to understand the charts. Texts give the patterns qualitative meaning while time series make the words quantitative. Analyzing the relationship between different data types is the key to unraveling the hidden structure of such data.</p>
+<p>This project aims to develop machine learning and data mining algorithms that provide insight about multimodal data through joint modeling of time series, natural language texts, and data of other types. Through tasks such as automatic time series explanation, cross-modal retrieval, time series QA, and knowledge discovery, we create virtual domain experts that can comprehend domain-specific terms and use them to explain time series data. Automated financial analyst, plant operator, health advisor, and fitness coach are just a few examples of the next-generation AI-human interaction paradigm enabled by multimodal learning.</p>
+        </div>
+    </section>
+</div>
+
 
 <h3>Dynamic Graph Analysis</h3>
 
