@@ -7,7 +7,7 @@
 
 analytics:
   provider: google  # or 'google-universal', depending on the version you use
-  google_tracking_id: G-975JQ3WC57 # Replace with your actual Tracking ID
+  google_tracking_id: G-376ZKYTEY6 # Replace with your actual Tracking ID
 
 # Site Settings
 locale                   : "en-US"
