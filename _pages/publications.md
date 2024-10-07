@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-376ZKYTEY6');
+</script>
+
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank">DBLP</a>]. Here are some selected papers: </font> </h3>
 <p><sup>*</sup> indicates equal contribution, <u>underline</u> indicates interns/students I have advised.</p>
 
