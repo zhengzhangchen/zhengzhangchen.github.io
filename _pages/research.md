@@ -123,6 +123,18 @@ author_profile: true
     </section>
 </div>
 
+ <p>Security is from diligent actions. Actions are from precise intelligence. Intelligence is from surveillance data. Automated Security Intelligence (ASI) – a new crusade to defend our system. ASI aims to employ ubiquitous endpoint monitoring, big-data and AI technologies to bring full visibility to the enterprise, to ease the security and system management, and to track down the sophisticated Advanced Persistent Threats (APT).</p>
+<ul>
+  <li>Deploy a lightweight and ubiquitous surveillance mechanism to collect real-time data for intelligence analysis.  </li>
+  <li>Automatically and incrementally construct a system blueprint with confidence to holistically profile the whole system.</li>
+  <li>Introduce deep reasoning and analytics on big surveillance data to enhance system security./li>
+</ul>
+
+<h3>Data Centered Materials Knowledge Discovery</h3>
+
+ <p>Data mining for materials discovery is concerned with representing materials science problems into a statistical framework, and learning models that describe observations about the processing, structure, and property of materials. The extraction of microstructure-property relationships resides at the basis of nearly all cutting-edge applications of Material Science and Engineering, whose goals are to develop advanced materials for industrial and military purposes, using experimental and computational methodologies. The massive amount of experimental and simulation data produced by modern characterization instruments and computational platforms introduce many challenges in terms of scalability, data storage, complexity, high dimensionality, interpretation, and retrieval. This makes it imperative to employ advanced methods for efficient data storage, retrieval, and analysis, thereby providing opportunities in the scope of high performance data mining for materials informatics.</p>
+
+ <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
