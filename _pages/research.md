@@ -22,7 +22,6 @@ author_profile: true
 
 <div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'>
     <div class='av-special-heading av-cu4ob-14a7cde11bea3f51ac252cb2f24ef51b av-special-heading-h2  avia-builder-el-14  avia-builder-el-no-sibling '>
-        <h2 class='av-special-heading-tag' itemprop="headline">AIOPs: Evoking Intelligence in Operations</h2>
         <div class="special-heading-border">
             <div class="special-heading-inner-border"></div>
         </div>
@@ -48,14 +47,12 @@ author_profile: true
 
 <div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'>
     <div class='av-special-heading av-cu4ob-418aed05b3ab56fe0e80e05711146fa0 av-special-heading-h2  avia-builder-el-14  avia-builder-el-no-sibling'>
-        <h2 class='av-special-heading-tag' itemprop="headline">Multimodal Data Analysis</h2>
         <div class="special-heading-border">
             <div class="special-heading-inner-border"></div>
         </div>
     </div>
 </div>
 
-<!-- Text wrapping around the image -->
 <div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
     <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
