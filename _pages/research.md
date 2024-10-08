@@ -57,7 +57,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/paper/Incremental_Causal_Graph_Learning_for_Online_Root_Cause_Analysis.pdf">CORAL @ KDD'23</a>]
 </p>
 
-  <p><b><span style="color:#D3123B">Awards</span></b>: Won the NEC Business Award 2024. </p> 
+  <p><b><span style="color:#D3123B">Award</span></b>: Won the NEC Business Award 2024. </p> 
 
 
 <h3>Safe and Trustworthy AI</h3>
