@@ -16,7 +16,7 @@ author_profile: true
 </script>
 
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank">DBLP</a>]. Here are some selected papers: </font> </h3>
-<p><sup>*</sup> indicates equal contribution, <u>underline</u> indicates interns/students I have advised.</p>
+<p><sup>*</sup> indicates equal contribution, <u>underline</u> indicates interns/students I have advised. And I am the corresponding author.</p>
 
 1. <strong>[WWW'24]</strong> <a href="https://zhengzhangchen.github.io/paper/MULAN-_Multi-modal_Causal_Structure_Learning_and_Root_Cause_Analysis_for_Microservice_Systems.pdf">MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. <br> <u>Lecheng Zheng</u>, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. <br> In Proceedings of the ACM on Web Conference 2024, 2024. (<span style="color:#D3123B">Oral Presentation</span>). <br> [\[Slides\]](https://zhengzhangchen.github.io/Slides/mulan_www.pdf) [\[Video\]](https://zhengzhangchen.github.io/Video/mulan_video.mp4)
 
