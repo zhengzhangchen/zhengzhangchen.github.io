@@ -53,8 +53,8 @@ author_profile: true
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf">MULAN @ WWW'24</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Interdependent_Causal_Networks_for_Root_Cause_Localization.pdf">REASON @ KDD'23</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Incremental_Causal_Graph_Learning_for_Online_Root_Cause_Analysis.pdf">CORAL @ KDD'23</a>]
+  [<a href="https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf">REASON @ KDD'23</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf>CORAL @ KDD'23</a>]
 </p>
 
   <p><b><span style="color:#0000FF">Award</span></b>: Won the NEC Business Award 2024. </p> 
@@ -83,7 +83,7 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC_-_A_Fine-grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems.pdf">FACESEC @ CVPR'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf">FACESEC @ CVPR'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">ContrastNet @ BigData'22</a>] 
 </p>
 
@@ -141,7 +141,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NDSS'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf">CIKM'17</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Entity_Embedding-Based_Anomaly_Detection_for_Heterogeneous_Categorical_Events.pdf">IJCAI'16</a>] 
+ [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf">IJCAI'16</a>] 
 </p>
 
  
@@ -252,7 +252,7 @@ To achieve this goal, the specfic objectives of the project are as follows.
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf">Data Mining and Knowledge Discovery</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Forecast%20Oriented%20Classification%20of%20Spatio-Temporal%20Extreme%20Events.pdf">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf">IJCAI'11</a>] 
 </p>
 
