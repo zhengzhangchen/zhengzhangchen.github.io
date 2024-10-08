@@ -131,7 +131,7 @@ author_profile: true
 
  <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
-<li>ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in <a href="http://www.nec.com/en/press/201607/global_20160719_01.html">NEC the WISE</a>.</li>
+<li><a href="http://www.nec.com/en/press/201607/global_20160719_01.html">ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in NEC the WISE</a>.</li>
 <li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html">NHK TV news reported our technology</a> on Dec. 14th, 2015.</li>
 </ul>
 </p> 
