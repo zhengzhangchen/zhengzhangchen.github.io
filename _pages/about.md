@@ -44,7 +44,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 - \[05/2023\] Two papers got accepted by <strong>KDD 2023</strong>.
 
 
-<h2>Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publications/)</h2>
+<h2>Selected Publications <a href="https://zhengzhangchen.github.io/publications/">See More</a></h2>
 
 <h3>Causal Structure Learning & Root Cause Analysis</h3> 
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/paper/MULAN- Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems.pdf" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. WWW 2024. </font> </li>  
