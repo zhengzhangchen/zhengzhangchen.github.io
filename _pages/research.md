@@ -239,8 +239,21 @@ To achieve this goal, the specfic objectives of the project are as follows.
 
 <p>This work is supported by NSF (National Science Foundation) Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
 
+ <p><b><span style="color:#0000FF">Media Reports</span></b>: 
+<ul>
+<li><a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/">DOE ASCR Discovery web-magazine</a>.</li>
+<li><a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news">NSF News</a>.</li>
+<li><a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537">The Conversation</a>.</li>
+<li><a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity">Esciencenews</a>.</li>
+<li><a href="https://news.science360.gov/obj/story/4522a0e1-7a76-4dc5-a3c9-d9e69989db9d/researchers-devise-more-accurate-method-predicting-hurricane-activity">Science360 News Service</a>.</li>
+<li><a href="https://www.mccormick.northwestern.edu/news/articles/2012/09/more-accurate-hurricane-forecasting-using-big-data.html">Northwestern University McCormick News</a>.</li>
+</ul>
+</p> 
+ <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
+
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">Data Mining and Knowledge Discovery</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Classification_of_Emerging_Extreme_Event_Tracks_in_Multi-Variate_Spatio-Temporal_Physical_Systems_Using_Dynamic_Network_Structures.pdf">IJCAI'11</a>] 
 </p>
+
