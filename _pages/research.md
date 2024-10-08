@@ -116,7 +116,7 @@ author_profile: true
     </section>
 </div>
 
- <p>Security is from diligent actions. Actions are from precise intelligence. Intelligence is from surveillance data. Automated Security Intelligence (ASI) – a new crusade to defend our system. ASI aims to employ ubiquitous endpoint monitoring, big-data and AI technologies to bring full visibility to the enterprise, to ease the security and system management, and to track down the sophisticated Advanced Persistent Threats (APT).</p>
+ <p>Security comes from diligent actions. Actions arise from precise intelligence. Intelligence is based on surveillance data. Automated Security Intelligence (ASI) is a new crusade to defend our systems. ASI aims to employ ubiquitous endpoint monitoring, big-data and AI technologies to bring full visibility to the enterprise, to ease the security and system management, and to track down the sophisticated Advanced Persistent Threats (APT).</p>
 
  <p><b><span style="color:#D3123B">Media Reports</span></b>: 
 <ul>
