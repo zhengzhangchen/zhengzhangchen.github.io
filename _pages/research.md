@@ -83,7 +83,7 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC_-_A_Fine-grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems.pdf>FACESEC @ CVPR'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC_-_A_Fine-grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems.pdf">FACESEC @ CVPR'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">ContrastNet @ BigData'22</a>] 
 </p>
 
@@ -138,10 +138,10 @@ author_profile: true
  <p><b><span style="color:#D3123B">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
 
  <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">HAGNE @ IJCAI'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NODOZE @ NDSS'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Efficient_Discovery_of_Abnormal_Event_Sequences_in_Enterprise_Security_Systems.pdf">GID @ CIKM'17</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Entity_Embedding-Based_Anomaly_Detection_for_Heterogeneous_Categorical_Events.pdf">APE @ IJCAI'16</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NDSS'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Efficient_Discovery_of_Abnormal_Event_Sequences_in_Enterprise_Security_Systems.pdf">CIKM'17</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Entity_Embedding-Based_Anomaly_Detection_for_Heterogeneous_Categorical_Events.pdf">IJCAI'16</a>] 
 </p>
 
  
@@ -165,10 +165,10 @@ author_profile: true
  <p><b><span style="color:#D3123B">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
  
  <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Structural_Temporal_Graph_Neural_Networks_for_Anomaly_Detection_in_Dynamic_Graphs.pdf">StrGNN @ CIKM'21</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/A_Generic_Edge-Empowered_Graph_Convolutional_Network_via_Node-Edge_Mutual_Enhancement.pdf">EE-GCN @ WWW'20</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">TINET @ KDD'18</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf">RCA @ KDD'16</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Structural_Temporal_Graph_Neural_Networks_for_Anomaly_Detection_in_Dynamic_Graphs.pdf">CIKM'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A_Generic_Edge-Empowered_Graph_Convolutional_Network_via_Node-Edge_Mutual_Enhancement.pdf">WWW'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">KDD'18</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf">KDD'16</a>] 
 </p>
 
 
@@ -219,10 +219,10 @@ To achieve this goal, the specfic objectives of the project are as follows.
 	</p>
 
   <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Distinguish_Polarity_in_Bag-of-Words_Visualization.pdf">BOW_Visual @ AAAI'17</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Detecting_and_Tracking_Disease_Outbreaks_by_Mining_Social_Media_Data.pdf">DTDO @ IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">JobMiner @ KDD'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf">MuSES @ IEEE Intelligent Systems</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Distinguish_Polarity_in_Bag-of-Words_Visualization.pdf">AAAI'17</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Detecting_and_Tracking_Disease_Outbreaks_by_Mining_Social_Media_Data.pdf">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">KDD'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf">IEEE Intelligent Systems</a>] 
 
 </p>
 
@@ -240,7 +240,7 @@ To achieve this goal, the specfic objectives of the project are as follows.
 <p>This work is supported by NSF (National Science Foundation) Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
 
   <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">ContrastCommunity @ Data Mining and Knowledge Discovery</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">FORECASTER @ IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Classification_of_Emerging_Extreme_Event_Tracks_in_Multi-Variate_Spatio-Temporal_Physical_Systems_Using_Dynamic_Network_Structures.pdf">EventTrack @ IJCAI'11</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">Data Mining and Knowledge Discovery</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Classification_of_Emerging_Extreme_Event_Tracks_in_Multi-Variate_Spatio-Temporal_Physical_Systems_Using_Dynamic_Network_Structures.pdf">IJCAI'11</a>] 
 </p>
