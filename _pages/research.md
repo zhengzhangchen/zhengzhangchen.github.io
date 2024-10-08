@@ -51,7 +51,11 @@ author_profile: true
 <section  class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>This project aims to develop unique AI techniques that provide a 360-degree understanding of IT operations and fully automate critical dimensions of IT operations monitoring, including historical analysis, anomaly detection, root cause localization, event forecasting, and performance analysis. Our solution for AIOps is a continuous automatic IT operations management system powered by deep neural networks, graph AI, and statistical models.</p>
 <p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
 
- <p><b><span style="color:#D3123B">Representative Papers</span></b>: [\[MULAN WWW'24\]](https://zhengzhangchen.github.io/paper/MULAN-_Multi-modal_Causal_Structure_Learning_and_Root_Cause_Analysis_for_Microservice_Systems.pdf") [\[REASON KDD'23\]](https://zhengzhangchen.github.io/paper/Interdependent_Causal_Networks_for_Root_Cause_Localization.pdf) [\[CORAL KDD'23\]](https://zhengzhangchen.github.io/paper/Incremental_Causal_Graph_Learning_for_Online_Root_Cause_Analysis.pdf) </p>
+<p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/MULAN-_Multi-modal_Causal_Structure_Learning_and_Root_Cause_Analysis_for_Microservice_Systems.pdf">MULAN @ WWW'24</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Interdependent_Causal_Networks_for_Root_Cause_Localization.pdf">REASON @ KDD'23</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Incremental_Causal_Graph_Learning_for_Online_Root_Cause_Analysis.pdf">CORAL @ KDD'23</a>]
+</p>
 
   <p><b><span style="color:#D3123B">Awards</span></b>: Won the NEC Business Award 2024. </p> 
 
