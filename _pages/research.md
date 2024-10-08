@@ -140,7 +140,7 @@ author_profile: true
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NDSS'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Efficient_Discovery_of_Abnormal_Event_Sequences_in_Enterprise_Security_Systems.pdf">CIKM'17</a>]
+  [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf">CIKM'17</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Entity_Embedding-Based_Anomaly_Detection_for_Heterogeneous_Categorical_Events.pdf">IJCAI'16</a>] 
 </p>
 
@@ -166,7 +166,7 @@ author_profile: true
  
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Structural_Temporal_Graph_Neural_Networks_for_Anomaly_Detection_in_Dynamic_Graphs.pdf">CIKM'21</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/A_Generic_Edge-Empowered_Graph_Convolutional_Network_via_Node-Edge_Mutual_Enhancement.pdf">WWW'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf">WWW'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">KDD'18</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf">KDD'16</a>] 
 </p>
@@ -187,7 +187,7 @@ author_profile: true
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
  <p><b><span style="color:#0000FF">Representative Paper</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/A_predictive_machine_learning_approach_for_microstructure_optimization_and_materials_design.pdf">Scientific Reports</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf">Scientific Reports</a>] 
 </p>
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
@@ -219,8 +219,8 @@ To achieve this goal, the specfic objectives of the project are as follows.
 	</p>
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Distinguish_Polarity_in_Bag-of-Words_Visualization.pdf">AAAI'17</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Detecting_and_Tracking_Disease_Outbreaks_by_Mining_Social_Media_Data.pdf">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf">AAAI'17</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">KDD'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf">IEEE Intelligent Systems</a>] 
 
@@ -251,8 +251,8 @@ To achieve this goal, the specfic objectives of the project are as follows.
 </p> 
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">Data Mining and Knowledge Discovery</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf">Data Mining and Knowledge Discovery</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Classification_of_Emerging_Extreme_Event_Tracks_in_Multi-Variate_Spatio-Temporal_Physical_Systems_Using_Dynamic_Network_Structures.pdf">IJCAI'11</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf">IJCAI'11</a>] 
 </p>
 
