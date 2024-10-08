@@ -249,7 +249,6 @@ To achieve this goal, the specfic objectives of the project are as follows.
 <li><a href="https://www.mccormick.northwestern.edu/news/articles/2012/09/more-accurate-hurricane-forecasting-using-big-data.html">Northwestern University McCormick News</a>.</li>
 </ul>
 </p> 
- <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">Data Mining and Knowledge Discovery</a>] 
