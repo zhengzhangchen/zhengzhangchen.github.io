@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-analytics:
-  provider: google  # or 'google-universal', depending on the version you use
-  google_tracking_id: G-376ZKYTEY6 # Replace with your actual Tracking ID
+#analytics:
+  #provider: google  # or 'google-universal', depending on the version you use
+  #google_tracking_id: G-376ZKYTEY6 # Replace with your actual Tracking ID
 
 # Site Settings
 locale                   : "en-US"
@@ -54,7 +54,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google84695ab609f45ff8"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -79,7 +79,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-376ZKYTEY6
 
 
 # Site Author
@@ -239,7 +239,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
 
   # _talks
   - scope:
