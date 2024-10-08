@@ -139,7 +139,7 @@ author_profile: true
 
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NDSS'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf">NDSS'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf">CIKM'17</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf">IJCAI'16</a>] 
 </p>
@@ -165,7 +165,7 @@ author_profile: true
  <p><b><span style="color:#0000FF">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
  
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Structural_Temporal_Graph_Neural_Networks_for_Anomaly_Detection_in_Dynamic_Graphs.pdf">CIKM'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf">CIKM'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf">WWW'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">KDD'18</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf">KDD'16</a>] 
