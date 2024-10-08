@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "about"
+title: "Short Bio"
+excerpt: "Zhengzhang Chen"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,8 +26,8 @@ My research aims to advance real-world applications and systems through enhanced
 I have published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. My work has been featured in various news media including [NSF News](https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news), [DOE ASCR Discovery](https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/), [NEC News](https://jpn.nec.com/press/201907/20190708_02.html), [The Conversation](https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537), and [esciencenews](https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity). Additionally, my research has led to the filing of over 100 patents, with 37 already issued.
 
 
-News
------
+<h2>News</h2>
+
 - \[07/2024\] I will serve as an SPC for <strong>AAAI 2025</strong>.
 - \[07/2024\] Workshop proposal got accepted: [<strong>The 4th International Workshop on Data-Centric AI</strong>](https://data-centric-ai-dev.github.io/CIKM2024/) at CIKM 2024.
 - \[06/2024\] I  will serve as an Area Chair for <strong>ACML 2024</strong>.
@@ -44,8 +44,8 @@ News
 - \[05/2023\] Two papers got accepted by <strong>KDD 2023</strong>.
 
 
-Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publications/)
------
+<h2>Selected Publications [\[See More\]](https://zhengzhangchen.github.io/publications/)</h2>
+
 <h3>Causal Structure Learning & Root Cause Analysis</h3> 
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/paper/MULAN- Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems.pdf" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. WWW 2024. </font> </li>  
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/paper/Interdependent Causal Networks for Root Cause Localization.pdf" target="_blank" rel="nofollow"> Interdependent Causal Networks for Root Cause Localization</a>. Dongjie Wang<sup>*</sup>, <b>Zhengzhang Chen<sup>*</sup></b>, Jingchao Ni, Liang Tong, Zheng Wang, Yanjie Fu, and Haifeng Chen. SIGKDD 2024.</font> </li> 
