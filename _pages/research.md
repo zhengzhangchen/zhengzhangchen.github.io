@@ -187,7 +187,7 @@ author_profile: true
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
  <p><b><span style="color:#D3123B">Representative Paper</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/A_predictive_machine_learning_approach_for_microstructure_optimization_and_materials_design.pdf">PML @ Scientific Reports</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A_predictive_machine_learning_approach_for_microstructure_optimization_and_materials_design.pdf">Scientific Reports</a>] 
 </p>
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
