@@ -82,6 +82,11 @@ author_profile: true
     </section>
 </div>
 
+<p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC_-_A_Fine-grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems.pdf>FACESEC @ CVPR'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">ContrastNet @ BigData'22</a>] 
+</p>
+
 
 <h3>Multimodal Data Analysis</h3>
 
@@ -131,6 +136,14 @@ author_profile: true
 </ul>
 </p> 
  <p><b><span style="color:#D3123B">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
+
+ <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">HAGNE @ IJCAI'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NODOZE @ NDSS'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Efficient_Discovery_of_Abnormal_Event_Sequences_in_Enterprise_Security_Systems.pdf">GID @ CIKM'17</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Entity_Embedding-Based_Anomaly_Detection_for_Heterogeneous_Categorical_Events.pdf">APE @ IJCAI'16</a>] 
+</p>
+
  
  
 
@@ -149,8 +162,14 @@ author_profile: true
     </section>
 </div>
 
-
-
+ <p><b><span style="color:#D3123B">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
+ 
+ <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/Structural_Temporal_Graph_Neural_Networks_for_Anomaly_Detection_in_Dynamic_Graphs.pdf">StrGNN @ CIKM'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A_Generic_Edge-Empowered_Graph_Convolutional_Network_via_Node-Edge_Mutual_Enhancement.pdf">EE-GCN @ WWW'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">TINET @ KDD'18</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf">RCA @ KDD'16</a>] 
+</p>
 
 
 
@@ -167,6 +186,9 @@ author_profile: true
 
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
+ <p><b><span style="color:#D3123B">Representative Paper</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/A_predictive_machine_learning_approach_for_microstructure_optimization_and_materials_design.pdf">PML @ Scientific Reports</a>] 
+</p>
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
 
@@ -196,6 +218,14 @@ To achieve this goal, the specfic objectives of the project are as follows.
 	</ul>
 	</p>
 
+  <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/Distinguish_Polarity_in_Bag-of-Words_Visualization.pdf">BOW_Visual @ AAAI'17</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Detecting_and_Tracking_Disease_Outbreaks_by_Mining_Social_Media_Data.pdf">DTDO @ IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">JobMiner @ KDD'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf">MuSES @ IEEE Intelligent Systems</a>] 
+
+</p>
+
 <h3>Understanding Climate Change: A Data Driven Approach</h3>
 
 <div class='flex_column av-4b25ma-15fe0f6d6486e0c75c98bc71926d7d68 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
@@ -208,3 +238,9 @@ To achieve this goal, the specfic objectives of the project are as follows.
 <p>Climate change is the defining environmental challenge now facing our planet. Whether it is an increase in the frequency or intensity of hurricanes, rising sea levels, droughts, floods, or extreme temperatures and severe weather, the social, economic, and environmental consequences are great as the resource-stressed planet nears 7 billion inhabitants later this century. Yet there is considerable uncertainty as to the social and environmental impacts because the predictive potential of numerical models of the earth system is limited. Data driven methods that have been highly successful in other facets of the computational sciences are now being used in the environmental sciences with success. The objective of the Expedition project is to significantly advance key challenges in climate change science by developing exciting and innovative new data driven approaches that take advantage of the wealth of climate and ecosystem data now available from satellite and ground-based sensors, the observational record for atmospheric, oceanic, and terrestrial processes, and physics-based climate model simulations.</p>
 
 <p>This work is supported by NSF (National Science Foundation) Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
+
+  <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">ContrastCommunity @ Data Mining and Knowledge Discovery</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">FORECASTER @ IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Classification_of_Emerging_Extreme_Event_Tracks_in_Multi-Variate_Spatio-Temporal_Physical_Systems_Using_Dynamic_Network_Structures.pdf">EventTrack @ IJCAI'11</a>] 
+</p>
