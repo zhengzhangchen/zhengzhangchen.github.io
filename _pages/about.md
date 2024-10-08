@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Zhengzhang Chen"
+excerpt: "about"
 author_profile: true
 redirect_from: 
   - /about/
