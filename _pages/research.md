@@ -118,6 +118,16 @@ author_profile: true
 
  <p>Security is from diligent actions. Actions are from precise intelligence. Intelligence is from surveillance data. Automated Security Intelligence (ASI) – a new crusade to defend our system. ASI aims to employ ubiquitous endpoint monitoring, big-data and AI technologies to bring full visibility to the enterprise, to ease the security and system management, and to track down the sophisticated Advanced Persistent Threats (APT).</p>
 
+ <p><b><span style="color:#D3123B">Media Reports</span></b>: 
+<ul>
+<li>ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in NEC’s AI brand ["NEC the WISE"](http://www.nec.com/en/press/201607/global_20160719_01.html). </li>
+<li>[NHK TV news reported our technology](http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html) on Dec. 14th, 2015.</li>
+</ul>
+</p> 
+ <p><b><span style="color:#D3123B">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
+ 
+ 
+
 <h3>Dynamic Graph Analysis</h3>
 
 <!-- Text wrapping around the image -->
