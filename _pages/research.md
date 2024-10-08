@@ -138,6 +138,7 @@ author_profile: true
  <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
 
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/You%20Are%20What%20You%20Do-%20Hunting%20Stealthy%20Malware%20via%20Data%20Provenance%20Analysis.pdf">NDSS'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf">NDSS'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf">CIKM'17</a>]
@@ -220,6 +221,7 @@ To achieve this goal, the specfic objectives of the project are as follows.
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf">AAAI'17</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/SILVERBACK%2B-%20scalable%20association%20mining%20via%20fast%20list%20intersection%20for%20columnar%20social%20data.pdf">Knowledge and Information Systems</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">KDD'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf">IEEE Intelligent Systems</a>] 
