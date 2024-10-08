@@ -51,13 +51,13 @@ author_profile: true
 <section  class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>This project aims to develop unique AI techniques that provide a 360-degree understanding of IT operations and fully automate critical dimensions of IT operations monitoring, including historical analysis, anomaly detection, root cause localization, event forecasting, and performance analysis. Our solution for AIOps is a continuous automatic IT operations management system powered by deep neural networks, graph AI, and statistical models.</p>
 <p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
 
-<p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+<p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/MULAN-_Multi-modal_Causal_Structure_Learning_and_Root_Cause_Analysis_for_Microservice_Systems.pdf">MULAN @ WWW'24</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Interdependent_Causal_Networks_for_Root_Cause_Localization.pdf">REASON @ KDD'23</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Incremental_Causal_Graph_Learning_for_Online_Root_Cause_Analysis.pdf">CORAL @ KDD'23</a>]
 </p>
 
-  <p><b><span style="color:#D3123B">Award</span></b>: Won the NEC Business Award 2024. </p> 
+  <p><b><span style="color:#0000FF">Award</span></b>: Won the NEC Business Award 2024. </p> 
 
 
 <h3>Safe and Trustworthy AI</h3>
@@ -82,7 +82,7 @@ author_profile: true
     </section>
 </div>
 
-<p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+<p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC_-_A_Fine-grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems.pdf">FACESEC @ CVPR'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">ContrastNet @ BigData'22</a>] 
 </p>
@@ -129,15 +129,15 @@ author_profile: true
 
  <p>Security comes from diligent actions. Actions arise from precise intelligence. Intelligence is based on surveillance data. Automated Security Intelligence (ASI) is a new crusade to defend our systems. ASI aims to employ ubiquitous endpoint monitoring, big-data and AI technologies to bring full visibility to the enterprise, to ease the security and system management, and to track down the sophisticated Advanced Persistent Threats (APT).</p>
 
- <p><b><span style="color:#D3123B">Media Reports</span></b>: 
+ <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
 <li>ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in <a href="http://www.nec.com/en/press/201607/global_20160719_01.html">NEC the WISE</a>.</li>
 <li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html">NHK TV news reported our technology</a> on Dec. 14th, 2015.</li>
 </ul>
 </p> 
- <p><b><span style="color:#D3123B">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
+ <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
 
- <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+ <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/NODOZE-_Combatting_Threat_Alert_Fatigue_with_Automated_Provenance_Triage.pdf">NDSS'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Efficient_Discovery_of_Abnormal_Event_Sequences_in_Enterprise_Security_Systems.pdf">CIKM'17</a>]
@@ -162,9 +162,9 @@ author_profile: true
     </section>
 </div>
 
- <p><b><span style="color:#D3123B">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
+ <p><b><span style="color:#0000FF">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
  
- <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+ <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Structural_Temporal_Graph_Neural_Networks_for_Anomaly_Detection_in_Dynamic_Graphs.pdf">CIKM'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/A_Generic_Edge-Empowered_Graph_Convolutional_Network_via_Node-Edge_Mutual_Enhancement.pdf">WWW'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">KDD'18</a>]
@@ -186,7 +186,7 @@ author_profile: true
 
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
- <p><b><span style="color:#D3123B">Representative Paper</span></b>: 
+ <p><b><span style="color:#0000FF">Representative Paper</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/A_predictive_machine_learning_approach_for_microstructure_optimization_and_materials_design.pdf">Scientific Reports</a>] 
 </p>
 
@@ -218,7 +218,7 @@ To achieve this goal, the specfic objectives of the project are as follows.
 	</ul>
 	</p>
 
-  <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Distinguish_Polarity_in_Bag-of-Words_Visualization.pdf">AAAI'17</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Detecting_and_Tracking_Disease_Outbreaks_by_Mining_Social_Media_Data.pdf">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">KDD'13</a>] 
@@ -239,7 +239,7 @@ To achieve this goal, the specfic objectives of the project are as follows.
 
 <p>This work is supported by NSF (National Science Foundation) Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
 
-  <p><b><span style="color:#D3123B">Representative Papers</span></b>: 
+  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Discovery_of_extreme_events-related_communities_in_contrasting_groups_of_physical_system_networks.pdf">Data Mining and Knowledge Discovery</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Forecast_Oriented_Classification_of_Spatio-Temporal_Extreme_Events.pdf">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Classification_of_Emerging_Extreme_Event_Tracks_in_Multi-Variate_Spatio-Temporal_Physical_Systems_Using_Dynamic_Network_Structures.pdf">IJCAI'11</a>] 
