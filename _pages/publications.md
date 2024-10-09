@@ -155,10 +155,3 @@ author_profile: true
 
 
 
-
-
-
-<h2>PhD Thesis</h2>
-<a href="https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf">Discovery of Informative and Predictive Patterns in Dynamic Networks of Complex Systems</a>. <br> [\[bibtex\]](https://zhengzhangchen.github.io/bibtex/thesis.txt) 
-
-
