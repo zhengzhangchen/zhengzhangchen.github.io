@@ -112,6 +112,10 @@ author_profile: true
     </section>
 </div>
 
+<p><b><span style="color:#0000FF">Representative Papers</span></b>: 
+  [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow">WWW'24</a>] 
+ </p> 
+
 
 <h3>Automated Security Intelligence</h3>
 
@@ -170,6 +174,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf" target="_blank" rel="nofollow">WWW'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/TINET-%20Learning%20Invariant%20Networks%20via%20Knowledge%20Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Ranking%20Causal%20Anomalies%20via%20Temporal%20and%20Dynamical%20Analysis%20on%20Vanishing%20Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
+[<a href="https://zhengzhangchen.github.io/paper/Community-based%20anomaly%20detection%20in%20evolutionary%20networks.pdf" target="_blank" rel="nofollow">JIIS</a>] 
 </p>
 
 
