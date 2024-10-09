@@ -168,8 +168,8 @@ author_profile: true
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf" target="_blank" rel="nofollow">CIKM'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf" target="_blank" rel="nofollow">WWW'20</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/TINET-%20Learning%20Invariant%20Networks%20via%20Knowledge%20Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Ranking%20Causal%20Anomalies%20via%20Temporal%20and%20Dynamical%20Analysis%20on%20Vanishing%20Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
 </p>
 
 
