@@ -52,9 +52,9 @@ author_profile: true
 <p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf">MULAN @ WWW'24</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf">REASON @ KDD'23</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf">CORAL @ KDD'23</a>]
+  [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow">MULAN @ WWW'24</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
 </p>
 
   <p><b><span style="color:#0000FF">Award</span></b>: Won the NEC Business Award 2024. </p> 
@@ -83,8 +83,8 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf">FACESEC @ CVPR'21</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">ContrastNet @ BigData'22</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf" target="_blank" rel="nofollow">FACESEC @ CVPR'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf" target="_blank" rel="nofollow">ContrastNet @ BigData'22</a>] 
 </p>
 
 
@@ -131,18 +131,18 @@ author_profile: true
 
  <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
-<li><a href="http://www.nec.com/en/press/201607/global_20160719_01.html">ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in NEC the WISE</a>.</li>
-<li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html">NHK TV news reported our technology</a> on Dec. 14th, 2015.</li>
+<li><a href="http://www.nec.com/en/press/201607/global_20160719_01.html" target="_blank" rel="nofollow">ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in NEC the WISE</a>.</li>
+<li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV news reported our technology</a> on Dec. 14th, 2015.</li>
 </ul>
 </p> 
  <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
 
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/You%20Are%20What%20You%20Do-%20Hunting%20Stealthy%20Malware%20via%20Data%20Provenance%20Analysis.pdf">NDSS'20</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf">IJCAI'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf">NDSS'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf">CIKM'17</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf">IJCAI'16</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/You%20Are%20What%20You%20Do-%20Hunting%20Stealthy%20Malware%20via%20Data%20Provenance%20Analysis.pdf" target="_blank" rel="nofollow">NDSS'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf" target="_blank" rel="nofollow">IJCAI'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf" target="_blank" rel="nofollow">NDSS'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf" target="_blank" rel="nofollow">CIKM'17</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf" target="_blank" rel="nofollow">IJCAI'16</a>] 
 </p>
 
  
@@ -166,10 +166,10 @@ author_profile: true
  <p><b><span style="color:#0000FF">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
  
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf">CIKM'21</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf">WWW'20</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf">KDD'18</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf">KDD'16</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf" target="_blank" rel="nofollow">CIKM'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf" target="_blank" rel="nofollow">WWW'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/TINET-_Learning_Invariant_Networks_via_Knowledge_Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Ranking_Causal_Anomalies_via_Temporal_and_Dynamical_Analysis_on_Vanishing_Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
 </p>
 
 
@@ -188,7 +188,7 @@ author_profile: true
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
  <p><b><span style="color:#0000FF">Representative Paper</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf">Scientific Reports</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf" target="_blank" rel="nofollow">Scientific Reports</a>] 
 </p>
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
@@ -222,9 +222,9 @@ To achieve this goal, the specfic objectives of the project are as follows.
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf">AAAI'17</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/SILVERBACK%2B-%20scalable%20association%20mining%20via%20fast%20list%20intersection%20for%20columnar%20social%20data.pdf">Knowledge and Information Systems</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf">IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf">KDD'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf">IEEE Intelligent Systems</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/JobMiner-_A_Real-time_System_for_Mining_Job-related_Patterns_from_Social_Media.pdf" target="_blank" rel="nofollow">KDD'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf" target="_blank" rel="nofollow">IEEE Intelligent Systems</a>] 
 
 </p>
 
@@ -243,18 +243,18 @@ To achieve this goal, the specfic objectives of the project are as follows.
 
  <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
-<li><a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/">DOE ASCR Discovery web-magazine</a>.</li>
-<li><a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news">NSF News</a>.</li>
-<li><a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537">The Conversation</a>.</li>
-<li><a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity">Esciencenews</a>.</li>
-<li><a href="https://news.science360.gov/obj/story/4522a0e1-7a76-4dc5-a3c9-d9e69989db9d/researchers-devise-more-accurate-method-predicting-hurricane-activity">Science360 News Service</a>.</li>
-<li><a href="https://www.mccormick.northwestern.edu/news/articles/2012/09/more-accurate-hurricane-forecasting-using-big-data.html">Northwestern University McCormick News</a>.</li>
+<li><a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/" target="_blank" rel="nofollow">DOE ASCR Discovery web-magazine</a>.</li>
+<li><a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news" target="_blank" rel="nofollow">NSF News</a>.</li>
+<li><a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537" target="_blank" rel="nofollow">The Conversation</a>.</li>
+<li><a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity" target="_blank" rel="nofollow">Esciencenews</a>.</li>
+<li><a href="https://news.science360.gov/obj/story/4522a0e1-7a76-4dc5-a3c9-d9e69989db9d/researchers-devise-more-accurate-method-predicting-hurricane-activity" target="_blank" rel="nofollow">Science360 News Service</a>.</li>
+<li><a href="https://www.mccormick.northwestern.edu/news/articles/2012/09/more-accurate-hurricane-forecasting-using-big-data.html" target="_blank" rel="nofollow">Northwestern University McCormick News</a>.</li>
 </ul>
 </p> 
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf">Data Mining and Knowledge Discovery</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Forecast%20Oriented%20Classification%20of%20Spatio-Temporal%20Extreme%20Events.pdf">IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf">IJCAI'11</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf" target="_blank" rel="nofollow">Data Mining and Knowledge Discovery</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Forecast%20Oriented%20Classification%20of%20Spatio-Temporal%20Extreme%20Events.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf" target="_blank" rel="nofollow">IJCAI'11</a>] 
 </p>
 
