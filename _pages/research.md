@@ -195,6 +195,7 @@ author_profile: true
 
  <p><b><span style="color:#0000FF">Representative Paper</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf" target="_blank" rel="nofollow">Scientific Reports</a>] 
+[<a href="https://zhengzhangchen.github.io/paper/IC3_15.pdf" target="_blank" rel="nofollow">IC3'15</a>] 
 </p>
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
