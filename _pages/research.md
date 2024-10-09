@@ -54,7 +54,7 @@ author_profile: true
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf">MULAN @ WWW'24</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf">REASON @ KDD'23</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf>CORAL @ KDD'23</a>]
+  [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf">CORAL @ KDD'23</a>]
 </p>
 
   <p><b><span style="color:#0000FF">Award</span></b>: Won the NEC Business Award 2024. </p> 
@@ -83,7 +83,7 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf">FACESEC @ CVPR'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf">FACESEC @ CVPR'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf">ContrastNet @ BigData'22</a>] 
 </p>
 
