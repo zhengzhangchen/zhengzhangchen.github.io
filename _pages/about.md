@@ -48,7 +48,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 
 
 
-<h2>Selected Publications <a href="https://zhengzhangchen.github.io/publications/">See More</a></h2>
+<h2>Selected Publications <a href="https://zhengzhangchen.github.io/publications/">[See More]</a></h2>
 
 <h3>Causal Structure Learning & Root Cause Analysis</h3> 
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. WWW 2024. </font> </li>  
