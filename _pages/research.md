@@ -55,6 +55,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow">MULAN @ WWW'24</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
+  [<a href="https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf" target="_blank" rel="nofollow">OC4Seq @ KDD'21</a>]
   [<a href="https://arxiv.org/pdf/2406.05375" target="_blank" rel="nofollow">LEMMA @ arxiv</a>]
 </p>
 
