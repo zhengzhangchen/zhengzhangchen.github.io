@@ -205,7 +205,7 @@ author_profile: true
     <section class='av_textblock_section av-lswi30y1-9481e58db4434d2bccdc80a30667e62c' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
         <div class='avia_textblock' itemprop="text">
             <!-- Image floated to the right -->
-            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/social_project_jobminer.png" alt='Understanding, Analyzing, and Retrieving Knowledge from Social Media' title='Facebook Communities ' style="float: right; margin: 0 0 15px 15px; max-width: 40%;" />
+            <img fetchpriority="high" decoding="async" class='wp-image-5805 avia-img-lazy-loading-not-5805 avia_image' src="https://zhengzhangchen.github.io/images/social_project_jobminer.png" alt='Understanding, Analyzing, and Retrieving Knowledge from Social Media' title='Facebook Communities ' style="float: right; margin: 0 0 15px 15px; max-width: 30%;" />
 
 <p> Social Media has become one of the most popular platforms to allow users to communicate, and share their interests without being at the same geographical location. With the rapid growth of Social Media sites such as Facebook, LinkedIn, Twitter, Customer reviews (e.g., Amazon, CNET) and Blogs (e.g., WSJ Blogs), there is vast amount of user-generated content. Our goal is to retrieve valuable nuggets of knowledge from this huge amount of data and help users make informed decisions. To achieve this goal, the specfic objectives of the project are as follows.
 	<ul>
