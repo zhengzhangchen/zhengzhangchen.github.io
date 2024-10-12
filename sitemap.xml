@@ -4,7 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>https://zhengzhangchen.github.io/</loc>
@@ -104,19 +103,8 @@
   <priority>0.64</priority>
 </url>
 
-<!-- Remaining papers -->
 <url>
   <loc>https://zhengzhangchen.github.io/paper/Hierarchical_Gaussian_Mixture_based_Task_Generative_Model_for_Robust_Meta_Learning.pdf</loc>
-  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://arxiv.org/pdf/2305.18703.pdf</loc>
-  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://arxiv.org/pdf/2309.05953.pdf</loc>
   <lastmod>2024-10-09T23:58:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -351,7 +339,6 @@
   <priority>0.64</priority>
 </url>
 
-<h2>PhD Thesis</h2>
 <url>
   <loc>https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf</loc>
   <lastmod>2024-10-09T23:58:37+00:00</lastmod>
