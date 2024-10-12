@@ -6,7 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://zhengzhangchen.github.io/</loc>
   <lastmod>2024-10-09T23:58:37+00:00</lastmod>
@@ -33,5 +32,330 @@
   <priority>0.80</priority>
 </url>
 
+<!-- Publications -->
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/POND-%20Multi-Source%20Time%20Series%20Domain%20Adaptation%20with%20Information-Aware%20Prompt%20Tuning.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/NeurIPS-2023-hierarchical-gaussian-mixture-based-task-generative-model-for-robust-meta-learning-Paper-Conference.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Towards%20Learning%20Disentangled%20Representations%20for%20Time%20Series.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Automated_Anomaly_Detection_via_Curiosity-Guided_Search_and_Self-Imitation_Learning.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Superclass-Conditional%20Gaussian%20Mixture%20Model%20for%20Learning%20Fine-Grained%20Embeddings.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Multi-source%20Inductive%20Knowledge%20Graph%20Transfer.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Interpreting%20Convolutional%20Sequence%20Model%20by%20Learning%20Local%20Prototypes%20with%20Adaptation%20Regularization.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+<!-- Remaining papers -->
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Hierarchical_Gaussian_Mixture_based_Task_Generative_Model_for_Robust_Meta_Learning.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://arxiv.org/pdf/2305.18703.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://arxiv.org/pdf/2309.05953.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Towards%20Learning%20Disentangled%20Representations%20for%20Time%20Series.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Automated_Anomaly_Detection_via_Curiosity-Guided_Search_and_Self-Imitation_Learning.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Superclass-Conditional%20Gaussian%20Mixture%20Model%20for%20Learning%20Fine-Grained%20Embeddings.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Multi-source%20Inductive%20Knowledge%20Graph%20Transfer.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Interpreting%20Convolutional%20Sequence%20Model%20by%20Learning%20Local%20Prototypes%20with%20Adaptation%20Regularization.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Dynamic%20Gaussian%20Mixture%20based%20Deep%20Generative%20Model%20For%20Robust%20Forecasting%20on%20Sparse%20Multivariate%20Time%20Series.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Anomalous_Event_Sequence_Detection.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Privacy-Preserving_Fair_Machine_Learning_Without_Collecting_Sensitive_Demographic_Data.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/You%20Are%20What%20You%20Do-%20Hunting%20Stealthy%20Malware%20via%20Data%20Provenance%20Analysis.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Asymmetrical%20Hierarchical%20Networks%20with%20Attentive%20Interactions%20for%20Interpretable%20Review-Based%20Recommendation.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/APTrace-%20A%20Responsive%20System%20for%20Agile%20Enterprise%20Level%20Causality%20Analysis.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/T2-Net_A_Semi-Supervised_Deep_Model_for_Turbulence_Forecasting.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/This%20is%20Why%20We%20Can’t%20Cache%20Nice%20Things-%20Lightning-Fast%20Threat%20Hunting%20Using%20Suspicion-Based%20Hierarchical%20Storage.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/AnomalyDetectionOnWeb-UserBeha1_SecureComm_20.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Attentional%20Heterogeneous%20Graph%20Neural%20Network-%20Application%20to%20Program%20Reidentification.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Interpreting%20Convolutional%20Sequence%20Model%20by%20Learning%20Local%20Prototypes%20with%20Adaptation%20Regularization.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/NUMARCK-%20Machine%20Learning%20Algorithm%20for%20Resiliency%20and%20Checkpointing.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Data%20Compression%20for%20the%20Exascale%20Computing%20Era%20–%20Survey.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Indexing%20Bipartite%20Memberships%20in%20Web%20Graphs.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Batch%20Mode%20Active%20Learning%20with%20Hierarchical-Structured%20Embedded%20Variance.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Solving%20the%20maximum%20duo-preservation%20string%20mapping%20problem%20with%20linear%20programming.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Feedback-Driven%20Multiclass%20Active%20Learning%20for%20Data%20Streams.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Bootstrapping%20Active%20Name%20Disambiguation%20with%20Crowdsourcing.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Random%20Walk-based%20Graphical%20Sampling%20in%20Unbalanced%20Heterogeneous%20Bipartite%20Social%20Graphs.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Elver-%20Recommending%20Facebook%20Pages%20in%20Cold%20Start%20Situation%20Without%20Content%20Features.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Forecast%20Oriented%20Classification%20of%20Spatio-Temporal%20Extreme%20Events.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/JobMiner-%20A%20Real-time%20System%20for%20Mining%20Job-related%20Patterns%20from%20Social%20Media.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/A%20Probabilistic%20Graphical%20Model%20for%20Brand%20Reputation%20Assessment%20in%20Social%20Networks.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Automatic%20Detection%20and%20Correction%20of%20Multi-class%20Classification%20Errors%20Using%20System%20Whole-part%20Relationships.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Graphical%20Modeling%20of%20Macro%20Behavioral%20Targeting%20in%20Social%20Networks.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/SPICE-%20discovery%20of%20phenotype-determining%20component%20interplays.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Inapproximability%20results%20for%20equations%20over%20infinite%20groups.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Community-based%20anomaly%20detection%20in%20evolutionary%20networks.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/Efficient%20a%2C%20b-motif%20finder%20for%20identification%20of%20phenotype-related%20functional%20modules.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+<h2>PhD Thesis</h2>
+<url>
+  <loc>https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf</loc>
+  <lastmod>2024-10-09T23:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
 </urlset>
