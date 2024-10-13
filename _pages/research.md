@@ -245,7 +245,7 @@ author_profile: true
 
 <p>Climate change is the defining environmental challenge now facing our planet. Whether it is an increase in the frequency or intensity of hurricanes, rising sea levels, droughts, floods, or extreme temperatures and severe weather, the social, economic, and environmental consequences are great as the resource-stressed planet nears 7 billion inhabitants later this century. Yet there is considerable uncertainty as to the social and environmental impacts because the predictive potential of numerical models of the earth system is limited. Data driven methods that have been highly successful in other facets of the computational sciences are now being used in the environmental sciences with success. The objective of the Expedition project is to significantly advance key challenges in climate change science by developing exciting and innovative new data driven approaches that take advantage of the wealth of climate and ecosystem data now available from satellite and ground-based sensors, the observational record for atmospheric, oceanic, and terrestrial processes, and physics-based climate model simulations.</p>
 
-<p>This work is supported by NSF (National Science Foundation) Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
+<p>This work is supported by NSF (National Science Foundation), Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
 
  <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
