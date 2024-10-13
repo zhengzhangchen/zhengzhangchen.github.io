@@ -256,6 +256,7 @@ author_profile: true
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf" target="_blank" rel="nofollow">Data Mining and Knowledge Discovery</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Forecast%20Oriented%20Classification%20of%20Spatio-Temporal%20Extreme%20Events.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/Automatic%20Detection%20and%20Correction%20of%20Multi-class%20Classification%20Errors%20Using%20System%20Whole-part%20Relationships.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf" target="_blank" rel="nofollow">IJCAI'11</a>] 
 </p>
 
