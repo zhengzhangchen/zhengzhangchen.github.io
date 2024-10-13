@@ -178,6 +178,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/paper/TINET-%20Learning%20Invariant%20Networks%20via%20Knowledge%20Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Ranking%20Causal%20Anomalies%20via%20Temporal%20and%20Dynamical%20Analysis%20on%20Vanishing%20Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
 [<a href="https://zhengzhangchen.github.io/paper/Community-based%20anomaly%20detection%20in%20evolutionary%20networks.pdf" target="_blank" rel="nofollow">JIIS</a>] 
+[<a href="https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf" target="_blank" rel="nofollow">Thesis</a>] 
 </p>
 
 
