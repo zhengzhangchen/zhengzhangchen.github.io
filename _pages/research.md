@@ -196,7 +196,7 @@ author_profile: true
 
  <p>Large-scale materials databases provide unprecedented opportunities for both supervised (e.g. classification, regression) and unsupervised learning (e.g. clustering, feature learning) in the field of data mining. The use of advanced modeling techniques with various data mining optimization and validation methodologies will allow us to identify strong predictor variables for the outcome of interest (here, a microstructure or a property of a material), and to construct a model for predicting that outcome. This requires advanced data mining techniques for knowledge discovery, which are to combine multiple predictor variables into a predictive model based on supervised data (with known labels/outcomes), and can be used to predict the labels of future test instances.</p>
 
-  <p>This work is supported by the Air Force Office of Scientific Research (AFOSR), Department of Defense (DOD), under award number FA9550-12-1-0458. </p> 
+  <p>This work is supported by the <b>Air Force Office of Scientific Research (AFOSR)</b>, Department of Defense (DOD), under award number FA9550-12-1-0458. </p> 
 
  <p><b><span style="color:#0000FF">Representative Paper</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf" target="_blank" rel="nofollow">Scientific Reports</a>] 
@@ -223,7 +223,7 @@ author_profile: true
 	</ul>
 	</p>
 
- <p> This work is supported by the National Science Foundation, Office of CyberInfrastructure (OCI), under award number OCI-1144061. </p>
+ <p> This work is supported by the <b>National Science Foundation</b>, Office of CyberInfrastructure (OCI), under award number OCI-1144061. </p>
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf"  target="_blank" rel="nofollow">AAAI'17</a>] 
@@ -245,7 +245,7 @@ author_profile: true
 
 <p>Climate change is the defining environmental challenge now facing our planet. Whether it is an increase in the frequency or intensity of hurricanes, rising sea levels, droughts, floods, or extreme temperatures and severe weather, the social, economic, and environmental consequences are great as the resource-stressed planet nears 7 billion inhabitants later this century. Yet there is considerable uncertainty as to the social and environmental impacts because the predictive potential of numerical models of the earth system is limited. Data driven methods that have been highly successful in other facets of the computational sciences are now being used in the environmental sciences with success. The objective of the Expedition project is to significantly advance key challenges in climate change science by developing exciting and innovative new data driven approaches that take advantage of the wealth of climate and ecosystem data now available from satellite and ground-based sensors, the observational record for atmospheric, oceanic, and terrestrial processes, and physics-based climate model simulations.</p>
 
-<p>This work is supported by NSF (National Science Foundation), Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
+<p>This work is supported by <b>NSF (National Science Foundation)</b>, Division of Computer and Communication Foundations, under award number CCF-1029166.</p>
 
  <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
