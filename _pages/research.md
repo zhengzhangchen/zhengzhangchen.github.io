@@ -198,7 +198,7 @@ author_profile: true
 
   <p>This work is supported by the <b>Air Force Office of Scientific Research (AFOSR)</b>, Department of Defense (DOD), under award number FA9550-12-1-0458. </p> 
 
- <p><b><span style="color:#0000FF">Representative Paper</span></b>: 
+ <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf" target="_blank" rel="nofollow">Scientific Reports</a>] 
 [<a href="https://zhengzhangchen.github.io/paper/IC3_15.pdf" target="_blank" rel="nofollow">IC3'15</a>] 
 </p>
