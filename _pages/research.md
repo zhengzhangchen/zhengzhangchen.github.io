@@ -138,7 +138,7 @@ author_profile: true
  <p><b><span style="color:#0000FF">Media Reports</span></b>: 
 <ul>
 <li><a href="http://www.nec.com/en/press/201607/global_20160719_01.html" target="_blank" rel="nofollow">ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in NEC the WISE</a>.</li>
-<li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV news reported our technology</a> on Dec. 14th, 2015.</li>
+<li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV news reported our technology on Dec. 14th, 2015</a>.</li>
 </ul>
 </p> 
  <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
@@ -223,7 +223,7 @@ author_profile: true
 	</ul>
 	</p>
 
- <p> This work is supported by the <b>National Science Foundation</b>, Office of CyberInfrastructure (OCI), under award number OCI-1144061. </p>
+ <p> This work is supported by the <b>NSF (National Science Foundation)</b>, Office of CyberInfrastructure (OCI), under award number OCI-1144061. </p>
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf"  target="_blank" rel="nofollow">AAAI'17</a>] 
