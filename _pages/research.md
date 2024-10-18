@@ -140,6 +140,7 @@ author_profile: true
 <ul>
 <li><a href="http://www.nec.com/en/press/201607/global_20160719_01.html" target="_blank" rel="nofollow">ASI have been recognized as one of NEC’s cutting edge AI technologies to be included in NEC the WISE</a>.</li>
 <li><a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV news reported our technology on Dec. 14th, 2015</a>.</li>
+<li><a href="https://www.nec.com/en/press/201512/global_20151210_01.html" target="_blank" rel="nofollow">NEC technology uses artificial intelligence to automatically detect unknown cyber-attacks</a>.</li>
 </ul>
 </p> 
  <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
