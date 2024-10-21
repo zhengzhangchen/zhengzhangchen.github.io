@@ -87,6 +87,7 @@ author_profile: true
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf" target="_blank" rel="nofollow">FACESEC @ CVPR'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf" target="_blank" rel="nofollow">ContrastNet @ BigData'22</a>] 
+[<a href="https://zhengzhangchen.github.io/paper/Privacy-Preserving_Fair_Machine_Learning_Without_Collecting_Sensitive_Demographic_Data.pdf" target="_blank" rel="nofollow">DicPF @ IJCNN'21</a>] 
 </p>
 
 
