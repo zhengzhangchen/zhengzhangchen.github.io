@@ -230,10 +230,13 @@ author_profile: true
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf"  target="_blank" rel="nofollow">AAAI'17</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/SILVERBACK%2B-%20scalable%20association%20mining%20via%20fast%20list%20intersection%20for%20columnar%20social%20data.pdf"  target="_blank" rel="nofollow">Knowledge and Information Systems</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/SILVERBACK%2B-%20scalable%20association%20mining%20via%20fast%20list%20intersection%20for%20columnar%20social%20data.pdf"  target="_blank" rel="nofollow">KIS</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/JobMiner-%20A%20Real-time%20System%20for%20Mining%20Job-related%20Patterns%20from%20Social%20Media.pdf" target="_blank" rel="nofollow">KDD'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf" target="_blank" rel="nofollow">IEEE Intelligent Systems</a>] 
+[<a href="https://zhengzhangchen.github.io/paper/Feedback-Driven%20Multiclass%20Active%20Learning%20for%20Data%20Streams.pdf" target="_blank" rel="nofollow">CIKM'13</a>] 
+[<a href="https://zhengzhangchen.github.io/paper/Graphical%20Modeling%20of%20Macro%20Behavioral%20Targeting%20in%20Social%20Networks.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf" target="_blank" rel="nofollow">Intell. Syst.</a>] 
+ [<a href="https://zhengzhangchen.github.io/paper/Community-based%20anomaly%20detection%20in%20evolutionary%20networks.pdf" target="_blank" rel="nofollow">JIIS</a>] 
 
 </p>
 
