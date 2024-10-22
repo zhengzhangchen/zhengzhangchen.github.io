@@ -152,6 +152,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf" target="_blank" rel="nofollow">NDSS'19</a>]
   [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/Collaborative%20Alert%20Ranking%20for%20Anomaly%20Detection.pdf" target="_blank" rel="nofollow">CIKM'18</a>]
   [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf" target="_blank" rel="nofollow">CIKM'17</a>]
+ [<a href="https://zhengzhangchen.github.io/paper/Integrating%20Community%20and%20Role%20Detection%20in%20Information%20Networks.pdf" target="_blank" rel="nofollow">SDM'16</a>]  
  [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf" target="_blank" rel="nofollow">IJCAI'16</a>] 
 </p>
 
