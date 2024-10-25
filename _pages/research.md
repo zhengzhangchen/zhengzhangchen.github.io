@@ -118,7 +118,7 @@ author_profile: true
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow">MULAN</a>] 
  [<a href="https://arxiv.org/pdf/2410.10021" target="_blank" rel="nofollow">OCEAN</a>] 
-[<a href="https://arxiv.org/abs/2410.17462" target="_blank" rel="nofollow">TESSA</a>]	
+[<a href="https://arxiv.org/pdf/2410.17462" target="_blank" rel="nofollow">TESSA</a>]	
  </p> 
 
 
