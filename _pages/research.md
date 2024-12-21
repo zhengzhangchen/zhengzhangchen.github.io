@@ -52,9 +52,9 @@ author_profile: true
 <p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow">MULAN @ WWW'24</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Interdependent%20Causal%20Networks%20for%20Root%20Cause%20Localization.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Incremental%20Causal%20Graph%20Learning%20for%20Online%20Root%20Cause%20Analysis.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow">MULAN @ WWW'24</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/REASON_KDD23.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/CORAL_KDD23.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
   [<a href="https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf" target="_blank" rel="nofollow">OC4Seq @ KDD'21</a>]
   [<a href="https://arxiv.org/pdf/2406.05375" target="_blank" rel="nofollow">LEMMA</a>]
 </p>
@@ -85,9 +85,9 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/FACESEC-%20A%20Fine-grained%20Robustness%20Evaluation%20Framework%20for%20Face%20Recognition%20Systems.pdf" target="_blank" rel="nofollow">FACESEC @ CVPR'21</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Towards_Robust_Graph_Neural_Networks_via_Adversarial_Contrastive_Learning.pdf" target="_blank" rel="nofollow">ContrastNet @ BigData'22</a>] 
-[<a href="https://zhengzhangchen.github.io/paper/Privacy-Preserving_Fair_Machine_Learning_Without_Collecting_Sensitive_Demographic_Data.pdf" target="_blank" rel="nofollow">DicPF @ IJCNN'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/FACESEC_CVPR2021.pdf" target="_blank" rel="nofollow">FACESEC @ CVPR'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/BigData2022.pdf" target="_blank" rel="nofollow">ContrastNet @ BigData'22</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/Fair_IJCNN21.pdf" target="_blank" rel="nofollow">DicPF @ IJCNN'21</a>] 
 </p>
 
 
@@ -116,7 +116,7 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/MULAN-%20Multi-modal%20Causal%20Structure%20Learning%20and%20Root%20Cause%20Analysis%20for%20Microservice%20Systems.pdf" target="_blank" rel="nofollow">MULAN</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow">MULAN</a>] 
  [<a href="https://arxiv.org/pdf/2410.10021" target="_blank" rel="nofollow">OCEAN</a>] 
 [<a href="https://arxiv.org/pdf/2410.17462" target="_blank" rel="nofollow">TESSA</a>]	
  </p> 
@@ -148,6 +148,7 @@ author_profile: true
  <p><b><span style="color:#0000FF">Awards</span></b>: Won the NEC Business Award 2017; Grand Prize at MM Research Institute Award 2017; and Grand Prix at CEATAC2016 (the largest IT and Electronic Show at Asia). </p> 
 
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
+ [<a href="https://zhengzhangchen.github.io/publication/OC4Seq_KDD21.pdf" target="_blank" rel="nofollow">KDD'21</a>]  
   [<a href="https://zhengzhangchen.github.io/paper/You%20Are%20What%20You%20Do-%20Hunting%20Stealthy%20Malware%20via%20Data%20Provenance%20Analysis.pdf" target="_blank" rel="nofollow">NDSS'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf" target="_blank" rel="nofollow">IJCAI'19</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf" target="_blank" rel="nofollow">NDSS'19</a>]
@@ -178,7 +179,7 @@ author_profile: true
  <p><b><span style="color:#0000FF">Award</span></b>: Won Best Paper Award Runner-Up @ KDD'16. </p> 
  
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Structural%20Temporal%20Graph%20Neural%20Networks%20for%20Anomaly%20Detection%20in%20Dynamic%20Graphs.pdf" target="_blank" rel="nofollow">CIKM'21</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/StrGNN_CIKM21.pdf" target="_blank" rel="nofollow">CIKM'21</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf" target="_blank" rel="nofollow">WWW'20</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/TINET-%20Learning%20Invariant%20Networks%20via%20Knowledge%20Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Ranking%20Causal%20Anomalies%20via%20Temporal%20and%20Dynamical%20Analysis%20on%20Vanishing%20Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
