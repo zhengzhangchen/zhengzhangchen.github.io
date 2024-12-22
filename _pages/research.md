@@ -55,7 +55,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow">MULAN @ WWW'24</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/REASON_KDD23.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/CORAL_KDD23.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
-  [<a href="https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf" target="_blank" rel="nofollow">OC4Seq @ KDD'21</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/OC4Seq_KDD21.pdf" target="_blank" rel="nofollow">OC4Seq @ KDD'21</a>]
   [<a href="https://zhengzhangchen.github.io/publication/lemma.pdf" target="_blank" rel="nofollow">LEMMA</a>]
 </p>
 
@@ -152,10 +152,10 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/publication/Provenance_NDSS.pdf" target="_blank" rel="nofollow">NDSS'20</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/MatchGNet_IJCAI19.pdf" target="_blank" rel="nofollow">IJCAI'19</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/NODOZE_NDSS19.pdf" target="_blank" rel="nofollow">NDSS'19</a>]
-  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/publication/Alert_Ranking_CIKM18.pdf" target="_blank" rel="nofollow">CIKM'18</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/Alert_Ranking_CIKM18.pdf" target="_blank" rel="nofollow">CIKM'18</a>]
   [<a href="https://zhengzhangchen.github.io/publication/GID_CIKM17.pdf" target="_blank" rel="nofollow">CIKM'17</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Integrating%20Community%20and%20Role%20Detection%20in%20Information%20Networks.pdf" target="_blank" rel="nofollow">SDM'16</a>]  
- [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf" target="_blank" rel="nofollow">IJCAI'16</a>] 
+ [<a href="https://zhengzhangchen.github.io/publication/MMCR_SDM.pdf" target="_blank" rel="nofollow">SDM'16</a>]  
+ [<a href="https://zhengzhangchen.github.io/publication/APE_IJCAI2016.pdf" target="_blank" rel="nofollow">IJCAI'16</a>] 
 </p>
 
  
@@ -180,11 +180,11 @@ author_profile: true
  
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/publication/StrGNN_CIKM21.pdf" target="_blank" rel="nofollow">CIKM'21</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/A%20Generic%20Edge-Empowered%20Graph%20Convolutional%20Network%20via%20Node-Edge%20Mutual%20Enhancement.pdf" target="_blank" rel="nofollow">WWW'20</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/TINET-%20Learning%20Invariant%20Networks%20via%20Knowledge%20Transfer.pdf" target="_blank" rel="nofollow">KDD'18</a>]
- [<a href="https://zhengzhangchen.github.io/paper/Ranking%20Causal%20Anomalies%20via%20Temporal%20and%20Dynamical%20Analysis%20on%20Vanishing%20Correlations.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
-[<a href="https://zhengzhangchen.github.io/paper/Community-based%20anomaly%20detection%20in%20evolutionary%20networks.pdf" target="_blank" rel="nofollow">JIIS</a>] 
-[<a href="https://zhengzhangchen.github.io/paper/phd_thesis_zhengzhang.pdf" target="_blank" rel="nofollow">Thesis</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/EEGCN_WWW20.pdf" target="_blank" rel="nofollow">WWW'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/TINET_KDD.pdf" target="_blank" rel="nofollow">KDD'18</a>]
+ [<a href="https://zhengzhangchen.github.io/publication/Ranking_KDD16.pdf" target="_blank" rel="nofollow">KDD'16</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/Community_JIIS11.pdf" target="_blank" rel="nofollow">JIIS</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/phd_thesis_zhengzhang.pdf" target="_blank" rel="nofollow">Thesis</a>] 
 </p>
 
 
@@ -268,9 +268,9 @@ author_profile: true
 </p> 
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf" target="_blank" rel="nofollow">Data Mining and Knowledge Discovery</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/Communities_DAMI13.pdf" target="_blank" rel="nofollow">Data Mining and Knowledge Discovery</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/Forecast_IJCAI13.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/AutoCorrection_SDM13.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf" target="_blank" rel="nofollow">IJCAI'11</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/Hurricane_IJCAI11.pdf" target="_blank" rel="nofollow">IJCAI'11</a>] 
 </p>
 
