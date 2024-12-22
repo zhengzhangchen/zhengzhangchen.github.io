@@ -56,7 +56,7 @@ author_profile: true
   [<a href="https://zhengzhangchen.github.io/publication/REASON_KDD23.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/CORAL_KDD23.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
   [<a href="https://zhengzhangchen.github.io/paper/Multi-Scale%20One-Class%20Recurrent%20Neural%20Networks%20for%20Discrete%20Event%20Sequence%20Anomaly%20Detection.pdf" target="_blank" rel="nofollow">OC4Seq @ KDD'21</a>]
-  [<a href="https://arxiv.org/pdf/2406.05375" target="_blank" rel="nofollow">LEMMA</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/lemma.pdf" target="_blank" rel="nofollow">LEMMA</a>]
 </p>
 
   <p><b><span style="color:#0000FF">Award</span></b>: Won the NEC Business Award 2024. </p> 
@@ -149,11 +149,11 @@ author_profile: true
 
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
  [<a href="https://zhengzhangchen.github.io/publication/OC4Seq_KDD21.pdf" target="_blank" rel="nofollow">KDD'21</a>]  
-  [<a href="https://zhengzhangchen.github.io/paper/You%20Are%20What%20You%20Do-%20Hunting%20Stealthy%20Malware%20via%20Data%20Provenance%20Analysis.pdf" target="_blank" rel="nofollow">NDSS'20</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Heterogeneous_Graph_Matching_Networks_Application_to_Unknown_Malware_Detection.pdf" target="_blank" rel="nofollow">IJCAI'19</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/NODOZE-%20Combatting%20Threat%20Alert%20Fatigue%20with%20Automated%20Provenance%20Triage.pdf" target="_blank" rel="nofollow">NDSS'19</a>]
-  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/paper/Collaborative%20Alert%20Ranking%20for%20Anomaly%20Detection.pdf" target="_blank" rel="nofollow">CIKM'18</a>]
-  [<a href="https://zhengzhangchen.github.io/paper/Efficient%20Discovery%20of%20Abnormal%20Event%20Sequences%20in%20Enterprise%20Security%20Systems.pdf" target="_blank" rel="nofollow">CIKM'17</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/Provenance_NDSS.pdf" target="_blank" rel="nofollow">NDSS'20</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/MatchGNet_IJCAI19.pdf" target="_blank" rel="nofollow">IJCAI'19</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/NODOZE_NDSS19.pdf" target="_blank" rel="nofollow">NDSS'19</a>]
+  [<a href="https://zhengzhangchen.github.io/paper/https://zhengzhangchen.github.io/publication/Alert_Ranking_CIKM18.pdf" target="_blank" rel="nofollow">CIKM'18</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/GID_CIKM17.pdf" target="_blank" rel="nofollow">CIKM'17</a>]
  [<a href="https://zhengzhangchen.github.io/paper/Integrating%20Community%20and%20Role%20Detection%20in%20Information%20Networks.pdf" target="_blank" rel="nofollow">SDM'16</a>]  
  [<a href="https://zhengzhangchen.github.io/paper/Entity%20Embedding-Based%20Anomaly%20Detection%20for%20Heterogeneous%20Categorical%20Events.pdf" target="_blank" rel="nofollow">IJCAI'16</a>] 
 </p>
@@ -205,8 +205,8 @@ author_profile: true
   <p>This work is supported by the <b>Air Force Office of Scientific Research (AFOSR)</b>, Department of Defense (DOD), under award number FA9550-12-1-0458. </p> 
 
  <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/A%20predictive%20machine%20learning%20approach%20for%20microstructure%20optimization%20and%20materials%20design.pdf" target="_blank" rel="nofollow">Scientific Reports</a>] 
-[<a href="https://zhengzhangchen.github.io/paper/IC3_15.pdf" target="_blank" rel="nofollow">IC3'15</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/SCIENTIFICREPORTS2015.pdf" target="_blank" rel="nofollow">Scientific Reports</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/IC3_15.pdf" target="_blank" rel="nofollow">IC3'15</a>] 
 </p>
 
 <h3>Understanding, Analyzing, and Retrieving Knowledge from Social Media</h3>
@@ -232,14 +232,14 @@ author_profile: true
  <p> This work is supported by the <b>NSF (National Science Foundation)</b>, Office of CyberInfrastructure (OCI), under award number OCI-1144061. </p>
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/paper/Distinguish%20Polarity%20in%20Bag-of-Words%20Visualization.pdf"  target="_blank" rel="nofollow">AAAI'17</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/SILVERBACK%2B-%20scalable%20association%20mining%20via%20fast%20list%20intersection%20for%20columnar%20social%20data.pdf"  target="_blank" rel="nofollow">KIS</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Detecting%20and%20Tracking%20Disease%20Outbreaks%20by%20Mining%20Social%20Media%20Data.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/JobMiner-%20A%20Real-time%20System%20for%20Mining%20Job-related%20Patterns%20from%20Social%20Media.pdf" target="_blank" rel="nofollow">KDD'13</a>] 
-[<a href="https://zhengzhangchen.github.io/paper/Feedback-Driven%20Multiclass%20Active%20Learning%20for%20Data%20Streams.pdf" target="_blank" rel="nofollow">CIKM'13</a>] 
-[<a href="https://zhengzhangchen.github.io/paper/Graphical%20Modeling%20of%20Macro%20Behavioral%20Targeting%20in%20Social%20Networks.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/MuSES_Multilingual_Sentiment_Elicitation_System_for_Social_Media_Data.pdf" target="_blank" rel="nofollow">Intell. Syst.</a>] 
- [<a href="https://zhengzhangchen.github.io/paper/Community-based%20anomaly%20detection%20in%20evolutionary%20networks.pdf" target="_blank" rel="nofollow">JIIS</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/Polarity_AAAI17.pdf"  target="_blank" rel="nofollow">AAAI'17</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/SILVERBACK_17.pdf"  target="_blank" rel="nofollow">KIS</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/Elver_BigData2013.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/JobMiner_KDD13.pdf" target="_blank" rel="nofollow">KDD'13</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/Feedback_CIKM13.pdf" target="_blank" rel="nofollow">CIKM'13</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/Behavioral_SDM13.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/MuSES13.pdf" target="_blank" rel="nofollow">Intell. Syst.</a>] 
+ [<a href="https://zhengzhangchen.github.io/publication/Community_JIIS11.pdf" target="_blank" rel="nofollow">JIIS</a>] 
 
 </p>
 
@@ -269,8 +269,8 @@ author_profile: true
 
   <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
   [<a href="https://zhengzhangchen.github.io/paper/Discovery%20of%20extreme%20events-related%20communities%20in%20contrasting%20groups%20of%20physical%20system%20networks.pdf" target="_blank" rel="nofollow">Data Mining and Knowledge Discovery</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Forecast%20Oriented%20Classification%20of%20Spatio-Temporal%20Extreme%20Events.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
-  [<a href="https://zhengzhangchen.github.io/paper/Automatic%20Detection%20and%20Correction%20of%20Multi-class%20Classification%20Errors%20Using%20System%20Whole-part%20Relationships.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/Forecast_IJCAI13.pdf" target="_blank" rel="nofollow">IJCAI'13</a>] 
+  [<a href="https://zhengzhangchen.github.io/publication/AutoCorrection_SDM13.pdf" target="_blank" rel="nofollow">SDM'13</a>] 
   [<a href="https://zhengzhangchen.github.io/paper/Classification%20of%20Emerging%20Extreme%20Event%20Tracks%20in%20Multivariate%20Spatio-Temporal%20Physical%20Systems%20Using%20Dynamic%20Network%20Structures-%20Application%20to%20Hurricane%20Track%20Prediction.pdf" target="_blank" rel="nofollow">IJCAI'11</a>] 
 </p>
 
