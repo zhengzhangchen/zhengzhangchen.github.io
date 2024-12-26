@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<meta name="description" content="Welcome :). Explore my publications here. Connect and learn more about my journey. ">
+<meta name="description" content="Welcome :). Explore my publications on AI and machine learning. Connect and learn more about my journey. ">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
