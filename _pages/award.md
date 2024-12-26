@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+<meta name="description" content="Welcome :). Explore my services and awards. Connect and learn more about my journey. ">
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
 <script>
