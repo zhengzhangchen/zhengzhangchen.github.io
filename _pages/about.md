@@ -18,6 +18,7 @@ redirect_from:
   gtag('config', 'G-376ZKYTEY6');
 </script>
 
+<meta name="description" content="Welcome to Zhengzhang Chen's personal website. Explore my publications, research, and projects on AI and machine learning. Connect and learn more about my journey. ">
 
 I am currently a senior research scientist at <a href="https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/" target="_blank" rel="nofollow">NEC Laboratories America</a>. Previously, I served as a research assistant professor in the <a href="http://cucis.ece.northwestern.edu/members/zzc472/" target="_blank" rel="nofollow">Department of Electrical Engineering & Computer Science at Northwestern University</a>, where I also completed a one-year postdoctoral fellowship under the supervision of <a href="http://www.eecs.northwestern.edu/~choudhar/" target="_blank" rel="nofollow">Prof. Alok Choudhary</a>. I received my Ph.D. degree from the <a href="https://www.csc.ncsu.edu/" target="_blank" rel="nofollow">Computer Science Department at North Carolina State University</a>.
 
