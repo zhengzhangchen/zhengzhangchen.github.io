@@ -41,7 +41,7 @@ author_profile: true
 </url>
 }
 
-<h3>Pages</h3>
+<h3>Publications</h3>
 {
 <!-- Publications -->
 <url>
