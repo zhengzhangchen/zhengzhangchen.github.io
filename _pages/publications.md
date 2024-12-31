@@ -7,15 +7,6 @@ author_profile: true
 
 <meta name="description" content="Welcome :). Explore my publications on AI and machine learning. Connect and learn more about my journey. ">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-376ZKYTEY6');
-</script>
 
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank" rel="nofollow">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank" rel="nofollow">DBLP</a>]. Here are some selected papers: </font> </h3>
 <p><sup>*</sup> indicates equal contribution, <u>underline</u> indicates interns/students I have advised. And I am the corresponding author.</p>
