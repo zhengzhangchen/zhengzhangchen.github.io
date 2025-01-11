@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhengzhang Chen's Personal Website"
+title: "About Me"
 excerpt: "Zhengzhang Chen"
 author_profile: true
 redirect_from: 
@@ -10,15 +10,6 @@ redirect_from:
 
 <meta name="description" content="Welcome to Zhengzhang Chen's personal website. Explore my publications, research, and projects on AI and machine learning. Connect and learn more about my journey. ">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-376ZKYTEY6');
-</script>
 
 
 
