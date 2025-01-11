@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<meta name="description" content="Welcome :). Explore my research on AI and machine learning. Connect and learn more about my journey. ">
+<meta name="description" content="Welcome :). Explore Zhengzhang Chen's research on AI and machine learning. Connect and learn more about my journey. ">
 
 
 <!-- Google tag (gtag.js) -->
