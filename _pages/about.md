@@ -33,19 +33,19 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
-  <li>[07/2024] I will serve as an SPC for <strong>AAAI 2025</strong>.</li>
+  <li>[07/2024] Invited to serve as an SPC for <strong>AAAI 2025</strong>.</li>
   <li>[07/2024] Workshop proposal got accepted: <a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow"><strong>The 4th International Workshop on Data-Centric AI</strong></a> at CIKM 2024.</li>
-  <li>[06/2024] I will serve as an Area Chair for <strong>ACML 2024</strong>.</li>
+  <li>[06/2024] Invited to serve as an Area Chair for <strong>ACML 2024</strong>.</li>
   <li>[06/2024] Won <strong>NEC Business Contribution Award</strong>: In recognition of key contributions to root cause analysis.</li>
   <li>[06/2024] Released <a href="https://lemma-rca.github.io/" target="_blank" rel="nofollow"><strong>LEMMA-RCA datasets</strong></a> and <a href="https://github.com/KnowledgeDiscovery/rca_baselines" target="_blank" rel="nofollow"><strong>root cause analysis benchmark codes</strong></a>.</li>
   <li>[05/2024] One paper got accepted by <strong>KDD 2024</strong>.</li>
-  <li>[05/2024] I will serve as an SPC for <strong>WSDM 2025</strong>.</li>
+  <li>[05/2024] Invited to serve as an SPC for <strong>WSDM 2025</strong>.</li>
   <li>[03/2024] Our <a href="https://arxiv.org/pdf/2305.18703.pdf" target="_blank" rel="nofollow"><strong>LLM survey paper</strong></a> was cited by <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/" target="_blank" rel="nofollow"><strong>2024 Economic Report of the President of the United States</strong></a>.</li>
-  <li>[01/2024] I will serve as an Area Chair for <strong>KDD 2024</strong>.</li>
+  <li>[01/2024] Invited to serve as an Area Chair for <strong>KDD 2024</strong>.</li>
   <li>[01/2024] One paper got accepted by <strong>The Web Conference (WWW) 2024</strong>.</li>
   <li>[09/2023] One paper got accepted by <strong>NeurIPS 2023</strong>.</li>
-  <li>[06/2023] I will serve as an SPC for <strong>AAAI 2024</strong>.</li>
-  <li>[05/2023] I will serve as an SPC for <strong>WSDM 2024</strong>.</li>
+  <li>[06/2023] Invited to serve as an SPC for <strong>AAAI 2024</strong>.</li>
+  <li>[05/2023] Invited to serve as an SPC for <strong>WSDM 2024</strong>.</li>
   <li>[05/2023] Two papers got accepted by <strong>KDD 2023</strong>.</li>
 </ul>
 
