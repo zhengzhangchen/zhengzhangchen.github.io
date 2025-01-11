@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-<meta name="description" content="Welcome :). Explore my services and awards. Connect and learn more about my journey. ">
+<meta name="description" content="Welcome :). Explore Zhengzhang Chen's services and awards. Connect and learn more about my journey. ">
 
 
 <!-- Google tag (gtag.js) -->
