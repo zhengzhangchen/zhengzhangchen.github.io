@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Zhengzhang Chen's Personal Website"
 excerpt: "Zhengzhang Chen"
 author_profile: true
 redirect_from: 
