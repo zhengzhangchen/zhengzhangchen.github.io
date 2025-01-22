@@ -7,16 +7,6 @@ author_profile: true
 
 <meta name="description" content="Welcome :). Explore Zhengzhang Chen's research on AI and machine learning. Connect and learn more about my journey. ">
 
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-376ZKYTEY6');
-</script>
 		
 <h2> Research Interests </h2>
 <p>My research lies at the intersection of machine learning, network science, and AI security. Generally speaking, I am interested in developing machine learning and data mining algorithms to uncover actionable insights from complex, dynamic systems and large-scale, networked data in real-world applications. Particularly, I am interested in the following topics:
