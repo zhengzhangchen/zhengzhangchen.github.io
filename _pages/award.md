@@ -5,18 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-<meta name="description" content="Welcome :). Explore Zhengzhang Chen's services and awards. Connect and learn more about my journey. ">
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-376ZKYTEY6');
-</script>
 
 - **Guest Editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
 - **Area Chair** for ACML2025, KDD2024, KDD2023
