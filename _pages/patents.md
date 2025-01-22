@@ -5,17 +5,8 @@ permalink: /patents/
 author_profile: true
 ---
 
-<meta name="description" content="Welcome :). Explore my granted patents on AI and machine learning. Connect and learn more about my journey. ">
+<meta name="description" content="Welcome :). Explore Zhengzhang Chen's granted patents on AI and machine learning. Connect and learn more about my journey. ">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-376ZKYTEY6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-376ZKYTEY6');
-</script>
 
 1. US Patent 12,008,471: <a href="https://patents.google.com/patent/US12008471B2/en?oq=12%2c008%2c471" target="_blank" rel="nofollow">Robustness Assessment for Face Recognition</a>. <br> <strong>Z.Chen</strong>, H. Chen, and L. Tong. Granted on 06/2024.
 2. US Patent 11,782,812: <a href="https://patents.google.com/patent/US11782812B2/en?oq=11%2c782%2c812" target="_blank" rel="nofollow">Causal Attention-based Multi-stream RNN for Computer System Metric Prediction and Influential Events Identification Based on Metric and Event Logs</a>. <br> Y. Chen, <strong>Z.Chen</strong>, C. Lumezanu, M. Natsumeda, X. Yu, W. Cheng, T. Mizoguchi, and H. Chen. Granted on 10/2023.
