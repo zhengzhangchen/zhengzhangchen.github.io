@@ -22,8 +22,10 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
+    <li>[01/2025] Workshop proposal accepted! 🎉 Check out the <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow"><strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong></a> at SDM 2024.</li>
+    <li>[11/2024] Invited to serve as an SPC for <strong>IJCAI 2025</strong>.</li>
   <li>[07/2024] Invited to serve as an SPC for <strong>AAAI 2025</strong>.</li>
-  <li>[07/2024] Workshop proposal got accepted: <a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow"><strong>The 4th International Workshop on Data-Centric AI</strong></a> at CIKM 2024.</li>
+  <li>[07/2024] Workshop proposal accepted! 🎉 Check out the <a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow"><strong>The 4th International Workshop on Data-Centric AI</strong></a> at CIKM 2024.</li>
   <li>[06/2024] Invited to serve as an Area Chair for <strong>ACML 2024</strong>.</li>
   <li>[06/2024] Won <strong>NEC Business Contribution Award</strong>: In recognition of key contributions to root cause analysis.</li>
   <li>[06/2024] Released <a href="https://lemma-rca.github.io/" target="_blank" rel="nofollow"><strong>LEMMA-RCA datasets</strong></a> and <a href="https://github.com/KnowledgeDiscovery/rca_baselines" target="_blank" rel="nofollow"><strong>root cause analysis benchmark codes</strong></a>.</li>
