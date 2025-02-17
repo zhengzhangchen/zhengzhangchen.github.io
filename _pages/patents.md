@@ -5,7 +5,7 @@ permalink: /patents/
 author_profile: true
 ---
 
-<meta name="patents" content="Welcome :). Explore Zhengzhang Chen's granted patents on AI and machine learning. Connect and learn more about my journey. ">
+<meta name="description" content="Welcome :). Explore Zhengzhang Chen's granted patents on AI and machine learning. Connect and learn more about my journey. ">
 
 
 1. US Patent 12,204,398: <a href="https://patents.google.com/patent/US12204398B2/en" target="_blank" rel="nofollow"> Incremental Causal Discovery and Root Cause Localization for Online System Fault Diagnosis</a>. <br> <strong>Z.Chen</strong>, H. Chen, L. Tong, and D. Wang. Granted on 01/2025.
