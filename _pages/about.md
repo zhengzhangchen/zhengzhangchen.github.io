@@ -22,6 +22,8 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
+  <li>[03/2025] Invited to serve as an SPC for <strong>CIKM 2025</strong>.</li>
+  <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
   <li>[01/2025] Invited to serve as an SPC for <strong>IJCAI 2025</strong>.</li>
   <li>[01/2025] Workshop proposal accepted! 🎉 Check out the <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow"><strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong></a> at SDM 2024.</li>
   <li>[07/2024] Invited to serve as an SPC for <strong>AAAI 2025</strong>.</li>
