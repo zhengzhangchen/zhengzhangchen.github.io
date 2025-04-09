@@ -22,6 +22,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
+  <li>[04/2025] Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an SPC for <strong>CIKM 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
   <li>[01/2025] Invited to serve as an SPC for <strong>IJCAI 2025</strong>.</li>
