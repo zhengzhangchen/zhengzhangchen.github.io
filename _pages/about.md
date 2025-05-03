@@ -22,7 +22,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
-    <li>[05/2025] <a href="https://arxiv.org/pdf/2502.00264" target="_blank" rel="nofollow"> Our paper on rotation symmetry for transformers</a> got accepted by <strong>ICML 2025</strong> as spotlight (the top 2.6% of all submission). </li>
+    <li>[05/2025] <a href="https://arxiv.org/pdf/2502.00264" target="_blank" rel="nofollow"> Our paper on rotation symmetry for transformers</a> got accepted by <strong>ICML 2025</strong> as spotlight (the top 2.6% of all submissions). </li>
   <li>[04/2025] Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an SPC for <strong>CIKM 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
