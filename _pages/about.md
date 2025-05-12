@@ -26,7 +26,7 @@ I have published over 80 peer-reviewed research papers in major academic venues 
   <li>[04/2025] Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an SPC for <strong>CIKM 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
-  <li>[05/2025] Our paper on  <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow"> dynamic routing in mixed large language models </a> got accepted by <strong>NAACL 2025</strong> (acceptance rate: 22%). </li>
+  <li>[02/2025] Our paper on  <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow"> dynamic routing in mixed large language models </a> got accepted by <strong>NAACL 2025</strong> (acceptance rate: 22%). </li>
   <li>[01/2025] Invited to serve as an SPC for <strong>IJCAI 2025</strong>.</li>
   <li>[01/2025] Workshop proposal accepted! 🎉 Check out the <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow"><strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong></a> at SDM 2025.</li>
   <li>[07/2024] Invited to serve as an SPC for <strong>AAAI 2025</strong>.</li>
