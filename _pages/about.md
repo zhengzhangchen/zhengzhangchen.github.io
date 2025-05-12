@@ -22,11 +22,11 @@ I have published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
-  <li>[05/2025] Our paper on <a href="https://arxiv.org/pdf/2502.00264" target="_blank" rel="nofollow">  rotation symmetry for transformers</a> got accepted by <strong>ICML 2025</strong> as spotlight (the top 2.6% of all submissions). </li>
+  <li>[05/2025] Our paper <a href="https://arxiv.org/pdf/2502.00264" target="_blank" rel="nofollow"> "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"</a> got accepted by <strong>ICML 2025</strong> as spotlight (the top 2.6% of all submissions). </li>
   <li>[04/2025] Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an SPC for <strong>CIKM 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
-  <li>[02/2025] Our paper on  <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow"> dynamic routing in mixed large language models </a> got accepted by <strong>NAACL 2025</strong> (acceptance rate: 22%). </li>
+  <li>[02/2025] Our paper <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow"> "MixLLM: Dynamic Routing in Mixed Large Language Models" </a> got accepted by <strong>NAACL 2025</strong> (acceptance rate: 22%). </li>
   <li>[01/2025] Invited to serve as an SPC for <strong>IJCAI 2025</strong>.</li>
   <li>[01/2025] Workshop proposal accepted! 🎉 Check out the <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow"><strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong></a> at SDM 2025.</li>
   <li>[07/2024] Invited to serve as an SPC for <strong>AAAI 2025</strong>.</li>
