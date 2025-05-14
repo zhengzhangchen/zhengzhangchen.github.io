@@ -9,7 +9,7 @@ author_profile: true
 
 
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank" rel="nofollow">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank" rel="nofollow">DBLP</a>]. Here are some selected papers: </font> </h3>
-<p><sup>*</sup> indicates equal contribution, <u>underline</u> indicates interns/students I have advised. And I am the corresponding author.</p>
+<p><sup>*</sup> indicates equal contribution. <u>underline</u> indicates interns/students I have advised, and I am the corresponding author.</p>
 
 1. <strong>[NAACL'25]</strong> <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow">MixLLM: Dynamic Routing in Mixed Large Language Models</a>. <br> Xinyuan Wang, Yanchi Liu, Wei Cheng, Xujiang Zhao, <b>Zhengzhang Chen</b>, Wenchao Yu, Yanjie Fu, and Haifeng Chen. <br> In Proceedings of Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, 2025. <span style="color:#D3123B">Oral Presentation (246/3099)</span>. <br> [<a href="https://zhengzhangchen.github.io/Slides/MixLLM_slides.pdf" target="_blank" rel="nofollow">Slides</a>][<a href="https://huggingface.co/spaces/wxy185/MixLLM_Demo" target="_blank" rel="nofollow">Demo</a>]
 
