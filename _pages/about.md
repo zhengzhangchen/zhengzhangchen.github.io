@@ -22,7 +22,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <h2>News</h2>
 
 <ul>
-  <li>[05/2025] Our paper <a href="https://arxiv.org/pdf/2502.00264" target="_blank" rel="nofollow"> "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"</a> got accepted by <strong>ICML 2025</strong> as spotlight (the top 2.6% of all submissions). </li>
+  <li>[05/2025] Our paper <a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf" target="_blank" rel="nofollow"> "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"</a> got accepted by <strong>ICML 2025</strong> as spotlight (the top 2.6% of all submissions). </li>
   <li>[04/2025] Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an SPC for <strong>CIKM 2025</strong>.</li>
   <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
