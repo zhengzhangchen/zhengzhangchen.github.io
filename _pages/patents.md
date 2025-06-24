@@ -9,7 +9,7 @@ author_profile: true
 
 
 1. US Patent 12,332,734: <a href="https://patents.google.com/patent/US12332734B2/en" target="_blank" rel="nofollow"> Disentangled Graph Learning for Incremental Causal Discovery and Root Cause Analysis</a>. <br> <strong>Z.Chen</strong>, H. Chen, L. Tong, and D. Wang. Granted on 06/2025.
-2. JP Patent 7,661,628: <a href="https://patents.google.com/patent/JP7661628B2/en" target="_blank" rel="nofollow"> Multi-modality Data Analysis Engine for Defect Detection</a>. <br> L. Tang, Y. Chen, W. Cheng, H. Chen, <strong>Z. Chen</strong>, and Y. Kobayashi. Granted on 04/2025.
+2. JP Patent 7,661,628: <a href="https://patents.google.com/patent/JP7661628B2/en" target="_blank" rel="nofollow"> Multi-modality Data Analysis Engine for Defect Detection</a>. <br> L. Tang, Y. Chen, W. Cheng, and H. Chen, <strong>Z. Chen</strong>, and Y. Kobayashi. Granted on 04/2025.
 3. US Patent 12,263,849: <a href="https://patents.justia.com/patent/12263849" target="_blank" rel="nofollow"> Data Fusion and Analysis Engine for Vehicle Sensors</a>. <br> L. Tang, Y. Chen, W. Cheng, <strong>Z. Chen</strong>, H. Chen, Y. Kobayashi, and Y. Ren. Granted on 04/2025.
 4. US Patent 12,204,398: <a href="https://patents.google.com/patent/US12204398B2/en" target="_blank" rel="nofollow"> Incremental Causal Discovery and Root Cause Localization for Online System Fault Diagnosis</a>. <br> <strong>Z.Chen</strong>, H. Chen, L. Tong, and D. Wang. Granted on 01/2025.
 5. US Patent 12,205,028: <a href="https://patents.google.com/patent/US12205028B2/en" target="_blank" rel="nofollow"> Co-disentagled Series/Text Multi-modal Representation Learning for Controllable Generation</a>. <br> Y. Chen, <strong>Z.Chen</strong>, X. Zhang, W. Yu, H. Chen, L. Tang, and Z. He. Granted on 01/2025.
