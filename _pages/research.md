@@ -44,7 +44,8 @@ author_profile: true
 <section  class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>This project aims to develop unique AI techniques that provide a 360-degree understanding of IT operations and fully automate critical dimensions of IT operations monitoring, including historical analysis, anomaly detection, root cause localization, event forecasting, and performance analysis. Our solution for AIOps is a continuous automatic IT operations management system powered by deep neural networks, graph AI, and statistical models.</p>
 <p>Besides application in AIOps, our techniques can offer “Intelligent operation and maintenance” as a service for a wide range of applications, including industrial preventive maintenance, healthcare, cyber security, automobile, and smart factories.</p>
 
-<p><b><span style="color:#0000FF">Representative Papers</span></b>: 
+<p><b><span style="color:#0000FF">Representative Papers</span></b>:
+  [<a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow">MATMCD</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow">MULAN @ WWW'24</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/REASON_KDD23.pdf" target="_blank" rel="nofollow">REASON @ KDD'23</a>] 
   [<a href="https://zhengzhangchen.github.io/publication/CORAL_KDD23.pdf" target="_blank" rel="nofollow">CORAL @ KDD'23</a>]
@@ -109,8 +110,9 @@ author_profile: true
 </div>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>: 
-  [<a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow">MULAN</a>] 
- [<a href="https://arxiv.org/pdf/2410.10021" target="_blank" rel="nofollow">OCEAN</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow">MATMCD</a>] 
+[<a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow">MULAN</a>] 
+[<a href="https://arxiv.org/pdf/2410.10021" target="_blank" rel="nofollow">OCEAN</a>] 
 [<a href="https://arxiv.org/pdf/2410.17462" target="_blank" rel="nofollow">TESSA</a>]	
  </p> 
 
