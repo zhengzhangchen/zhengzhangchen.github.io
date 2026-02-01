@@ -21,7 +21,8 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
 <h2>News</h2>
 
-<ul>
+<div class="news-scroll">
+  <ul>
     <li>[05/2025] Our survey paper <a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf" target="_blank" rel="nofollow"> "Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey"</a> got accepted by <strong>ACM Computing Surveys</strong>. </li>
     <li>[05/2025] Our paper <a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow"> "Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery"</a> got accepted by <strong>ACL 2025</strong> (Findings). </li>
   <li>[05/2025] Our paper <a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf" target="_blank" rel="nofollow"> "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"</a> got accepted by <strong>ICML 2025</strong> as <strong>spotlight</strong> (the <strong>top 2.6%</strong> of all submissions). </li>
@@ -45,7 +46,8 @@ He has published over 80 peer-reviewed research papers in major academic venues 
   <li>[06/2023] Invited to serve as an SPC for <strong>AAAI 2024</strong>.</li>
   <li>[05/2023] Invited to serve as an SPC for <strong>WSDM 2024</strong>.</li>
   <li>[05/2023] Two papers got accepted by <strong>KDD 2023</strong>.</li>
-</ul>
+  </ul>
+</div>
 
 
 
