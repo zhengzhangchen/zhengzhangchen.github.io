@@ -39,3 +39,66 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==================================================
+   Academic-style News Scroll Box
+   ================================================== */
+
+.news-box {
+  max-height: 14em;        /* ≈ 显示 5 条 */
+  overflow-y: auto;
+  padding: 0.5em 1em 0.5em 0.5em;
+  border-left: 3px solid #d0d0d0;
+  margin-bottom: 1.5em;
+}
+
+.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.news-item {
+  position: relative;
+  margin-bottom: 0.75em;
+  padding-left: 4.5em;
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.news-date {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4em;
+  color: #777;
+  font-family: monospace;
+  font-size: 0.85em;
+}
+
+.news-item.highlight {
+  background: #f8f9fa;
+  border-radius: 4px;
+  padding: 0.4em 0.4em 0.4em 4.5em;
+}
+
+.news-item.highlight::before {
+  content: "Latest";
+  position: absolute;
+  left: -3.6em;
+  top: 0.2em;
+  font-size: 0.7em;
+  color: #555;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  padding: 0 0.4em;
+  background: #fff;
+}
+
+.news-box a {
+  text-decoration: none;
+}
+
+.news-box a:hover {
+  text-decoration: underline;
+}
