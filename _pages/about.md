@@ -41,6 +41,11 @@ He has published over 80 peer-reviewed research papers in major academic venues 
       got accepted by <strong>AAAI 2026</strong>.
     </li>
 
+     <li class="news-item">
+      <span class="news-date">10/2025</span>
+      Invited to serve as an SPC for <strong>PAKDD 2026</strong>.
+    </li>
+
     <li class="news-item">
       <span class="news-date">05/2025</span>
       Our survey paper
