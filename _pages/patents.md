@@ -7,6 +7,14 @@ author_profile: true
 
 <meta name="description" content="Welcome :). Explore Zhengzhang Chen's granted patents on AI and machine learning. Connect and learn more about my journey. ">
 
+1. US Patent 12,487,879: <a href="https://patents.google.com/patent/US12487879B2/en" target="_blank" rel="nofollow"> Anomaly Detection on Dynamic Sensor Data</a>. <br> L. Tang, H. Chen, Y. Chen, W. Cheng, Y. Kobayashi, and <strong>Z. Chen</strong>. Granted on 12/02/2025. 
+
+1. US Patent 12,479,421: <a href="https://patents.google.com/patent/US12479421B2/en" target="_blank" rel="nofollow"> Modular Network Based Knowledge Sharing for Multiple Entities</a>. <br> L. Tang, W. Cheng, H. Chen, Z. Chen, and N. Ren. Granted on 11/25/2025. 
+
+6. US Patent 12,436,835: <a href="https://patents.google.com/patent/US12436835B2/en" target="_blank" rel="nofollow"> Trigger Point Detection for Online Root Cause Analysis and System Fault Diagnosis</a>. <br> Z. Chen, H. Chen, L. Tong, and D. Wang. Granted on 10/07/2025. 
+
+7. US Patent 12,407,718: <a href="https://patents.google.com/patent/US12407718B2/en" target="_blank" rel="nofollow"> Incremental Causal Graph Learning for Attack Forensics in Computer Systems</a>. <br> Z. Chen, H. Chen, and D. Wang. Granted on 09/02/2025. 
+
 
 1. US Patent 12,332,734: <a href="https://patents.google.com/patent/US12332734B2/en" target="_blank" rel="nofollow"> Disentangled Graph Learning for Incremental Causal Discovery and Root Cause Analysis</a>. <br> <strong>Z.Chen</strong>, H. Chen, L. Tong, and D. Wang. Granted on 06/2025.
 2. JP Patent 7,686,155: <a href="https://patents.google.com/patent/JP7686155B2/en?oq=7686155" target="_blank" rel="nofollow"> A Semi-supervised Framework for Efficient Time Series Order Classification</a>. <br> L. Tong, T. Mizoguchi, <strong>Z. Chen</strong>, W. Cheng, H. Chen, and N. Ahad. Granted on 05/2025.
