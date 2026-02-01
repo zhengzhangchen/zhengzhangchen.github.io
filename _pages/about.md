@@ -15,7 +15,7 @@ Zhengzhang Chen is currently a senior research scientist at <a href="https://www
 
 His research aims to advance real-world applications and systems through enhanced intelligence, increased security, and more effective decision-making capabilities. He has been primarily working on graph mining, anomaly detection, causal AI, AI security, graph neural networks, text mining, and their applications in computer security, IoT/OT systems, climate science, social media analytics, material science, bioinformatics, and finance, enabling machines to better understand real-world complex dynamic systems.
 
-He has published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. His work has been featured in various news media including <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news" target="_blank" rel="nofollow">NSF News</a>, <a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/" target="_blank" rel="nofollow">DOE ASCR Discovery</a>, <a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV News</a>, <a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537" target="_blank" rel="nofollow">The Conversation</a>, and <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity" target="_blank" rel="nofollow">esciencenews</a>. His research has also led to over 100 patent filings, 44 of which have been granted. Additionally, he has served as area chair or senior program committee member for multiple top-tier conferences, including NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, CIKM, etc.
+He has published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. His work has been featured in various news media including <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news" target="_blank" rel="nofollow">NSF News</a>, <a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/" target="_blank" rel="nofollow">DOE ASCR Discovery</a>, <a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV News</a>, <a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537" target="_blank" rel="nofollow">The Conversation</a>, and <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity" target="_blank" rel="nofollow">esciencenews</a>. His research has also led to over 100 patent filings, 48 of which have been granted. Additionally, he has served as area chair or senior program committee member for multiple top-tier conferences, including NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, CIKM, etc.
 
 
 
@@ -23,32 +23,33 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
 <div class="news-box">
   <ul class="news-list">
-<li class="news-item">
-  <span class="news-date">05/2025</span>
+
+    <li class="news-item">
+      <span class="news-date">05/2025</span>
       Our survey paper
       <a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf"
          target="_blank" rel="nofollow">
-        “Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey”
+        "Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey"
       </a>
       got accepted by <strong>ACM Computing Surveys</strong>.
     </li>
 
-<li class="news-item">
-  <span class="news-date">05/2025</span>
+    <li class="news-item">
+      <span class="news-date">05/2025</span>
       Our paper
       <a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf"
          target="_blank" rel="nofollow">
-        “Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery”
+        "Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery"
       </a>
       got accepted by <strong>ACL 2025</strong> (Findings).
     </li>
 
-<li class="news-item">
-  <span class="news-date">05/2025</span>
+    <li class="news-item">
+      <span class="news-date">05/2025</span>
       Our paper
       <a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf"
          target="_blank" rel="nofollow">
-        “Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion”
+        "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"
       </a>
       got accepted by <strong>ICML 2025</strong> as <strong>Spotlight</strong>.
     </li>
@@ -63,26 +64,117 @@ He has published over 80 peer-reviewed research papers in major academic venues 
       Invited to serve as an SPC for <strong>CIKM 2025</strong>.
     </li>
 
-  <li>[03/2025] Invited to serve as an Area Chair for <strong>ACML 2025</strong>.</li>
-  <li>[02/2025] Our paper <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow"> "MixLLM: Dynamic Routing in Mixed Large Language Models" </a> got accepted by <strong>NAACL 2025</strong> (acceptance rate: <strong>22%</strong>). </li>
-  <li>[01/2025] Invited to serve as an SPC for <strong>IJCAI 2025</strong>.</li>
-  <li>[01/2025] Workshop proposal accepted! 🎉 Check out the <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow"><strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong></a> at SDM 2025.</li>
-  <li>[07/2024] Invited to serve as an SPC for <strong>AAAI 2025</strong>.</li>
-  <li>[07/2024] Workshop proposal accepted! 🎉 Check out the <a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow"><strong>The 4th International Workshop on Data-Centric AI</strong></a> at CIKM 2024.</li>
-  <li>[06/2024] Invited to serve as an Area Chair for <strong>ACML 2024</strong>.</li>
-  <li>[06/2024] Won <strong>NEC Business Contribution Award</strong>: In recognition of key contributions to root cause analysis.</li>
-  <li>[06/2024] Released <a href="https://lemma-rca.github.io/" target="_blank" rel="nofollow"><strong>LEMMA-RCA datasets</strong></a> and <a href="https://github.com/KnowledgeDiscovery/rca_baselines" target="_blank" rel="nofollow"><strong>root cause analysis benchmark codes</strong></a>.</li>
-  <li>[05/2024] One paper got accepted by <strong>KDD 2024</strong>.</li>
-  <li>[05/2024] Invited to serve as an SPC for <strong>WSDM 2025</strong>.</li>
-  <li>[03/2024] Our <a href="https://arxiv.org/pdf/2305.18703.pdf" target="_blank" rel="nofollow"><strong>LLM survey paper</strong></a> was cited by <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/" target="_blank" rel="nofollow"><strong>2024 Economic Report of the President of the United States</strong></a>.</li>
-  <li>[01/2024] Invited to serve as an Area Chair for <strong>KDD 2024</strong>.</li>
-  <li>[01/2024] One paper got accepted by <strong>The Web Conference (WWW) 2024</strong>.</li>
-  <li>[09/2023] One paper got accepted by <strong>NeurIPS 2023</strong>.</li>
-  <li>[06/2023] Invited to serve as an SPC for <strong>AAAI 2024</strong>.</li>
-  <li>[05/2023] Invited to serve as an SPC for <strong>WSDM 2024</strong>.</li>
-  <li>[05/2023] Two papers got accepted by <strong>KDD 2023</strong>.</li>
+    <li class="news-item">
+      <span class="news-date">03/2025</span>
+      Invited to serve as an Area Chair for <strong>ACML 2025</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">02/2025</span>
+      Our paper
+      <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow">
+        "MixLLM: Dynamic Routing in Mixed Large Language Models"
+      </a>
+      got accepted by <strong>NAACL 2025</strong> (acceptance rate: <strong>22%</strong>).
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">01/2025</span>
+      Invited to serve as an SPC for <strong>IJCAI 2025</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">01/2025</span>
+      Workshop proposal accepted! 🎉 Check out the
+      <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow">
+        <strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong>
+      </a> at SDM 2025.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">07/2024</span>
+      Invited to serve as an SPC for <strong>AAAI 2025</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">07/2024</span>
+      Workshop proposal accepted! 🎉 Check out the
+      <a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow">
+        <strong>The 4th International Workshop on Data-Centric AI</strong>
+      </a> at CIKM 2024.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">06/2024</span>
+      Invited to serve as an Area Chair for <strong>ACML 2024</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">06/2024</span>
+      Won <strong>NEC Business Contribution Award</strong>: In recognition of key contributions to root cause analysis.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">06/2024</span>
+      Released
+      <a href="https://lemma-rca.github.io/" target="_blank" rel="nofollow"><strong>LEMMA-RCA datasets</strong></a> and
+      <a href="https://github.com/KnowledgeDiscovery/rca_baselines" target="_blank" rel="nofollow"><strong>root cause analysis benchmark codes</strong></a>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">05/2024</span>
+      One paper got accepted by <strong>KDD 2024</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">05/2024</span>
+      Invited to serve as an SPC for <strong>WSDM 2025</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">03/2024</span>
+      Our
+      <a href="https://arxiv.org/pdf/2305.18703.pdf" target="_blank" rel="nofollow">
+        <strong>LLM survey paper</strong>
+      </a> was cited by
+      <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/" target="_blank" rel="nofollow">
+        <strong>2024 Economic Report of the President of the United States</strong>
+      </a>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">01/2024</span>
+      Invited to serve as an Area Chair for <strong>KDD 2024</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">01/2024</span>
+      One paper got accepted by <strong>The Web Conference (WWW) 2024</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">09/2023</span>
+      One paper got accepted by <strong>NeurIPS 2023</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">06/2023</span>
+      Invited to serve as an SPC for <strong>AAAI 2024</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">05/2023</span>
+      Invited to serve as an SPC for <strong>WSDM 2024</strong>.
+    </li>
+
+    <li class="news-item">
+      <span class="news-date">05/2023</span>
+      Two papers got accepted by <strong>KDD 2023</strong>.
+    </li>
+
   </ul>
 </div>
+
 
 
 
