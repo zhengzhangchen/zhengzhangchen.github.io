@@ -11,6 +11,37 @@ author_profile: true
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank" rel="nofollow">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank" rel="nofollow">DBLP</a>]. Here are some selected papers: </font> </h3>
 <p><sup>*</sup> indicates equal contribution. <u>underline</u> indicates interns/students I have advised, and I am the corresponding author.</p>
 
+1. <strong>[EACL'26]</strong> Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation. <br>
+<u>Minhua Lin</u>, <b>Zhengzhang Chen</b>, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, and Haifeng Chen. <br>
+In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics, 2026.
+
+
+2. <strong>[EACL'26]</strong> Multi-Agent Procedural Graph Extraction with Structural and Logical Refinement. <br>
+Wangyang Ying, Yanchi Liu, Xujiang Zhao, Wei Cheng, <b>Zhengzhang Chen</b>, Wenchao Yu, Yanjie Fu, and Haifeng Chen. <br>
+In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics, 2026.
+
+
+5. <strong>[AAAI'26]</strong> MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery. <br>
+<u>Dong Li</u>, <b>Zhengzhang Chen</b>, Xujiang Zhao, Linlin Yu, Zhong Chen, Yi He, Haifeng Chen, and Chen Zhao. <br>
+In Proceedings of the 40th AAAI Conference on Artificial Intelligence, 2026.
+
+
+6. <strong>[BigData'25]</strong> Online Multi-modal Root Cause Identification in Microservice Systems. <br>
+<u>Lecheng Zheng</u>, <b>Zhengzhang Chen</b>, and Haifeng Chen. <br>
+In Proceedings of the 13th IEEE International Conference on Big Data, 2025.
+
+
+7. <strong>[CIKM'25]</strong> Correlation-aware Online Change Point Detection. <br>
+<u>Chengyuan Deng</u>, <b>Zhengzhang Chen</b>, Xujiang Zhao, Haoyu Wang, Junxiang Wang, Jie Gao, and Haifeng Chen. <br>
+In Proceedings of the 34th ACM International Conference on Information and Knowledge Management, 2025.
+
+
+8. <strong>[NeurIPS'25]</strong> SolverLLM: Leveraging Test-Time Scaling for Optimization Problems via LLM-Guided Search. <br>
+Dong Li, Xujiang Zhao, Linlin Yu, Yanchi Liu, Wei Cheng, <b>Zhengzhang Chen</b>, Zhong Chen, Feng Chen, Chen Zhao, and Haifeng Chen. <br>
+In Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems, 2025.
+
+
+
 1. <strong>[ACM Computing Surveys'25]</strong> <a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf" target="_blank" rel="nofollow">Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey</a>. <br> C. Ling, X. Zhao, J. Lu, C. Deng, C. Zheng, J. Wang, T. Chowdhury, Y. Li, H. Cui, X. Zhang, T. Zhao, A. Panalkar, W. Cheng, H. Wang, Y. Liu,  <b>Zhengzhang Chen</b>, H. Chen, C. White, Q. Gu, C. Yang, L. Zhao. <br> ACM Computing Surveys, 2025.
 
 2. <strong>[ACL'25]</strong> <a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow"> Exploring Multi-Modal Data with Tool-Augmented LLM Agents for Precise Causal Discovery</a>. <br> <u>ChengAo Shen</u>, <b>Zhengzhang Chen</b>, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, and Jingchao Ni. <br> In Proceedings of The 63rd Annual Meeting of the Association for Computational Linguistics, 2025. (ACL Findings). <br> [<a href="https://github.com/zhengzhangchen/LLMCausalDiscovery" target="_blank" rel="nofollow">Code</a>]
