@@ -82,18 +82,6 @@
   padding: 0.4em 0.4em 0.4em 4.5em;
 }
 
-.news-item.highlight::before {
-  content: "Latest";
-  position: absolute;
-  left: -3.6em;
-  top: 0.2em;
-  font-size: 0.7em;
-  color: #555;
-  border: 1px solid #bbb;
-  border-radius: 3px;
-  padding: 0 0.4em;
-  background: #fff;
-}
 
 .news-box a {
   text-decoration: none;
@@ -101,4 +89,17 @@
 
 .news-box a:hover {
   text-decoration: underline;
+}
+
+.news-tag {
+  display: inline-block;
+  margin-left: 0.4em;
+  padding: 0 0.4em;
+  font-size: 0.65em;
+  font-family: sans-serif;
+  color: #555;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  background: #fff;
+  vertical-align: middle;
 }
