@@ -35,7 +35,6 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
 <li class="news-item highlight">
   <span class="news-date">05/2025</span>
-  </span>
       Our paper
       <a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf"
          target="_blank" rel="nofollow">
@@ -46,7 +45,6 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
 <li class="news-item highlight">
   <span class="news-date">05/2025</span>
-  </span>
       Our paper
       <a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf"
          target="_blank" rel="nofollow">
