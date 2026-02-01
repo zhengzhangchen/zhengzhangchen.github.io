@@ -24,6 +24,23 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <div class="news-box">
   <ul class="news-list">
 
+
+
+      <li class="news-item">
+      <span class="news-date">01/2026</span>
+     Two of our papers on  got accepted by <strong>ECAL 2026</strong>.
+    </li>
+
+        <li class="news-item">
+      <span class="news-date">11/2025</span>
+      Our paper
+      <a href="https://zhengzhangchen.github.io/publication/AAAI_2026_Multi-Agent%20Reinforcement%20Learning%20for%20Incremental%20DAG%20Discovery.pdf"
+         target="_blank" rel="nofollow">
+        "MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery"
+      </a>
+      got accepted by <strong>AAAI 2026</strong>.
+    </li>
+
     <li class="news-item">
       <span class="news-date">05/2025</span>
       Our survey paper
