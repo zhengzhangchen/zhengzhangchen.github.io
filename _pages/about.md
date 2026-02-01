@@ -46,6 +46,16 @@ He has published over 80 peer-reviewed research papers in major academic venues 
       Invited to serve as an SPC for <strong>PAKDD 2026</strong>.
     </li>
 
+        <li class="news-item">
+      <span class="news-date">09/2025</span>
+      Our paper
+      <a href="https://zhengzhangchen.github.io/publication/18795_SolverLLM_Leveraging_Tes.pdf"
+         target="_blank" rel="nofollow">
+        "SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search"
+      </a>
+      got accepted by <strong>NeurIPS 2025</strong>.
+    </li>
+
     <li class="news-item">
       <span class="news-date">05/2025</span>
       Our survey paper
