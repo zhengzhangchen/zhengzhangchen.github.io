@@ -24,9 +24,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <div class="news-box">
   <ul class="news-list">
 <li class="news-item highlight">
-  <span class="news-date">
-    05/2025 <span class="news-tag">Latest</span>
-  </span>
+  <span class="news-date">05/2025</span>
       Our survey paper
       <a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf"
          target="_blank" rel="nofollow">
@@ -35,9 +33,8 @@ He has published over 80 peer-reviewed research papers in major academic venues 
       got accepted by <strong>ACM Computing Surveys</strong>.
     </li>
 
- <li class="news-item highlight">
-  <span class="news-date">
-    05/2025 <span class="news-tag">Latest</span>
+<li class="news-item highlight">
+  <span class="news-date">05/2025</span>
   </span>
       Our paper
       <a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf"
@@ -48,8 +45,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
     </li>
 
 <li class="news-item highlight">
-  <span class="news-date">
-    05/2025 <span class="news-tag">Latest</span>
+  <span class="news-date">05/2025</span>
   </span>
       Our paper
       <a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf"
