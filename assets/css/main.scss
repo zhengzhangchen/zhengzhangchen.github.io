@@ -69,7 +69,7 @@
 .news-date {
   position: absolute;
   left: 0;
-  top: 0;
+  top: 0.15em;   
   width: 4em;
   color: #777;
   font-family: monospace;
@@ -91,15 +91,3 @@
   text-decoration: underline;
 }
 
-.news-tag {
-  display: inline-block;
-  margin-left: 0.4em;
-  padding: 0 0.4em;
-  font-size: 0.65em;
-  font-family: sans-serif;
-  color: #555;
-  border: 1px solid #bbb;
-  border-radius: 3px;
-  background: #fff;
-  vertical-align: middle;
-}
