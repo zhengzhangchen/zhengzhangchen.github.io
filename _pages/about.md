@@ -26,183 +26,193 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
 
 
-      <li class="news-item">
+   <li class="news-item">
       <span class="news-date">01/2026</span>
      Two of our papers got accepted by <strong>ECAL 2026</strong>.
     </li>
 
-        <li class="news-item">
-      <span class="news-date">11/2025</span>
-      Our paper
-      <a href="https://zhengzhangchen.github.io/publication/AAAI_2026_Multi-Agent%20Reinforcement%20Learning%20for%20Incremental%20DAG%20Discovery.pdf"
-         target="_blank" rel="nofollow">
-        "MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery"
-      </a>
-      got accepted by <strong>AAAI 2026</strong>.
-    </li>
+  <li class="news-item">
+<span class="news-date">11/2025</span>
+Our paper
+<a href="https://zhengzhangchen.github.io/publication/AAAI_2026_Multi-Agent%20Reinforcement%20Learning%20for%20Incremental%20DAG%20Discovery.pdf"
+   target="_blank" rel="nofollow">
+  "MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery"
+</a>
+got accepted by <strong>AAAI 2026</strong>.
+</li>
 
-     <li class="news-item">
-      <span class="news-date">10/2025</span>
-      Invited to serve as an SPC for <strong>PAKDD 2026</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">10/2025</span>
+Invited to serve as an SPC for <strong>PAKDD 2026</strong>.
+</li>
 
-        <li class="news-item">
-      <span class="news-date">09/2025</span>
-      Our paper
-      <a href="https://zhengzhangchen.github.io/publication/18795_SolverLLM_Leveraging_Tes.pdf"
-         target="_blank" rel="nofollow">
-        "SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search"
-      </a>
-      got accepted by <strong>NeurIPS 2025</strong>.
-    </li>
+  <li class="news-item">
+<span class="news-date">09/2025</span>
+Our paper
+<a href="https://zhengzhangchen.github.io/publication/18795_SolverLLM_Leveraging_Tes.pdf"
+   target="_blank" rel="nofollow">
+  "SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search"
+</a>
+got accepted by <strong>NeurIPS 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2025</span>
-      Our survey paper
-      <a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf"
-         target="_blank" rel="nofollow">
-        "Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey"
-      </a>
-      got accepted by <strong>ACM Computing Surveys</strong>.
-    </li>
+  <li class="news-item">
+<span class="news-date">08/2025</span>
+Our paper
+<a href="https://zhengzhangchen.github.io/publication/Correlation-aware%20Online%20Change%20Point%20Detection.pdf"
+   target="_blank" rel="nofollow">
+  "Correlation-aware Online Change Point Detection"
+</a>
+got accepted by <strong>NeurIPS 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2025</span>
-      Our paper
-      <a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf"
-         target="_blank" rel="nofollow">
-        "Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery"
-      </a>
-      got accepted by <strong>ACL 2025</strong> (Findings).
-    </li>
+<li class="news-item">
+<span class="news-date">05/2025</span>
+Our survey paper
+<a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf"
+   target="_blank" rel="nofollow">
+  "Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey"
+</a>
+got accepted by <strong>ACM Computing Surveys</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2025</span>
-      Our paper
-      <a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf"
-         target="_blank" rel="nofollow">
-        "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"
-      </a>
-      got accepted by <strong>ICML 2025</strong> as <strong>Spotlight</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">05/2025</span>
+Our paper
+<a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf"
+   target="_blank" rel="nofollow">
+  "Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery"
+</a>
+got accepted by <strong>ACL 2025</strong> (Findings).
+</li>
 
-    <li class="news-item">
-      <span class="news-date">04/2025</span>
-      Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">05/2025</span>
+Our paper
+<a href="https://zhengzhangchen.github.io/publication/Beyond%20the%20Permutation%20Symmetry%20of%20Transformers%20The%20Role%20of%20Rotation%20for%20Model%20Fusion.pdf"
+   target="_blank" rel="nofollow">
+  "Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion"
+</a>
+got accepted by <strong>ICML 2025</strong> as <strong>Spotlight</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">03/2025</span>
-      Invited to serve as an SPC for <strong>CIKM 2025</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">04/2025</span>
+Invited to serve as an Area Chair for <strong>NeurIPS 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">03/2025</span>
-      Invited to serve as an Area Chair for <strong>ACML 2025</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">03/2025</span>
+Invited to serve as an SPC for <strong>CIKM 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">02/2025</span>
-      Our paper
-      <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow">
-        "MixLLM: Dynamic Routing in Mixed Large Language Models"
-      </a>
-      got accepted by <strong>NAACL 2025</strong> (acceptance rate: <strong>22%</strong>).
-    </li>
+<li class="news-item">
+<span class="news-date">03/2025</span>
+Invited to serve as an Area Chair for <strong>ACML 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">01/2025</span>
-      Invited to serve as an SPC for <strong>IJCAI 2025</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">02/2025</span>
+Our paper
+<a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow">
+  "MixLLM: Dynamic Routing in Mixed Large Language Models"
+</a>
+got accepted by <strong>NAACL 2025</strong> (acceptance rate: <strong>22%</strong>).
+</li>
 
-    <li class="news-item">
-      <span class="news-date">01/2025</span>
-      Workshop proposal accepted! 🎉 Check out the
-      <a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow">
-        <strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong>
-      </a> at SDM 2025.
-    </li>
+<li class="news-item">
+<span class="news-date">01/2025</span>
+Invited to serve as an SPC for <strong>IJCAI 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">07/2024</span>
-      Invited to serve as an SPC for <strong>AAAI 2025</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">01/2025</span>
+Workshop proposal accepted! 🎉 Check out the
+<a href="https://sites.google.com/view/arrml-25/home" target="_blank" rel="nofollow">
+  <strong>The 2nd Workshop on Advances in Robust and Reliable Machine Learning (ARRML’25)</strong>
+</a> at SDM 2025.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">07/2024</span>
-      Workshop proposal accepted! 🎉 Check out the
-      <a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow">
-        <strong>The 4th International Workshop on Data-Centric AI</strong>
-      </a> at CIKM 2024.
-    </li>
+<li class="news-item">
+<span class="news-date">07/2024</span>
+Invited to serve as an SPC for <strong>AAAI 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">06/2024</span>
-      Invited to serve as an Area Chair for <strong>ACML 2024</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">07/2024</span>
+Workshop proposal accepted! 🎉 Check out the
+<a href="https://data-centric-ai-dev.github.io/CIKM2024/" target="_blank" rel="nofollow">
+  <strong>The 4th International Workshop on Data-Centric AI</strong>
+</a> at CIKM 2024.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">06/2024</span>
-      Won <strong>NEC Business Contribution Award</strong>: In recognition of key contributions to root cause analysis.
-    </li>
+<li class="news-item">
+<span class="news-date">06/2024</span>
+Invited to serve as an Area Chair for <strong>ACML 2024</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">06/2024</span>
-      Released
-      <a href="https://lemma-rca.github.io/" target="_blank" rel="nofollow"><strong>LEMMA-RCA datasets</strong></a> and
-      <a href="https://github.com/KnowledgeDiscovery/rca_baselines" target="_blank" rel="nofollow"><strong>root cause analysis benchmark codes</strong></a>.
-    </li>
+<li class="news-item">
+<span class="news-date">06/2024</span>
+Won <strong>NEC Business Contribution Award</strong>: In recognition of key contributions to root cause analysis.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2024</span>
-      One paper got accepted by <strong>KDD 2024</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">06/2024</span>
+Released
+<a href="https://lemma-rca.github.io/" target="_blank" rel="nofollow"><strong>LEMMA-RCA datasets</strong></a> and
+<a href="https://github.com/KnowledgeDiscovery/rca_baselines" target="_blank" rel="nofollow"><strong>root cause analysis benchmark codes</strong></a>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2024</span>
-      Invited to serve as an SPC for <strong>WSDM 2025</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">05/2024</span>
+One paper got accepted by <strong>KDD 2024</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">03/2024</span>
-      Our
-      <a href="https://arxiv.org/pdf/2305.18703.pdf" target="_blank" rel="nofollow">
-        <strong>LLM survey paper</strong>
-      </a> was cited by
-      <a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/" target="_blank" rel="nofollow">
-        <strong>2024 Economic Report of the President of the United States</strong>
-      </a>.
-    </li>
+<li class="news-item">
+<span class="news-date">05/2024</span>
+Invited to serve as an SPC for <strong>WSDM 2025</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">01/2024</span>
-      Invited to serve as an Area Chair for <strong>KDD 2024</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">03/2024</span>
+Our
+<a href="https://arxiv.org/pdf/2305.18703.pdf" target="_blank" rel="nofollow">
+  <strong>LLM survey paper</strong>
+</a> was cited by
+<a href="https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/" target="_blank" rel="nofollow">
+  <strong>2024 Economic Report of the President of the United States</strong>
+</a>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">01/2024</span>
-      One paper got accepted by <strong>The Web Conference (WWW) 2024</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">01/2024</span>
+Invited to serve as an Area Chair for <strong>KDD 2024</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">09/2023</span>
-      One paper got accepted by <strong>NeurIPS 2023</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">01/2024</span>
+One paper got accepted by <strong>The Web Conference (WWW) 2024</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">06/2023</span>
-      Invited to serve as an SPC for <strong>AAAI 2024</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">09/2023</span>
+One paper got accepted by <strong>NeurIPS 2023</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2023</span>
-      Invited to serve as an SPC for <strong>WSDM 2024</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">06/2023</span>
+Invited to serve as an SPC for <strong>AAAI 2024</strong>.
+</li>
 
-    <li class="news-item">
-      <span class="news-date">05/2023</span>
-      Two papers got accepted by <strong>KDD 2023</strong>.
-    </li>
+<li class="news-item">
+<span class="news-date">05/2023</span>
+Invited to serve as an SPC for <strong>WSDM 2024</strong>.
+</li>
+
+<li class="news-item">
+<span class="news-date">05/2023</span>
+Two papers got accepted by <strong>KDD 2023</strong>.
+</li>
 
   </ul>
 </div>
