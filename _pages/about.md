@@ -28,7 +28,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
       <li class="news-item">
       <span class="news-date">01/2026</span>
-     Two of our papers on  got accepted by <strong>ECAL 2026</strong>.
+     Two of our papers got accepted by <strong>ECAL 2026</strong>.
     </li>
 
         <li class="news-item">
