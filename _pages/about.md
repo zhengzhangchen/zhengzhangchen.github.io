@@ -103,7 +103,7 @@ Our paper
    target="_blank" rel="nofollow">
   "Correlation-aware Online Change Point Detection"
 </a>
-got accepted by <strong>NeurIPS 2025</strong>.
+got accepted by <strong>CIKM 2025</strong>.
 </li>
 
 <li class="news-item">
