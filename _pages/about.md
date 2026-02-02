@@ -42,8 +42,8 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 </p>
 
 <p>
-  Dr. Chen has published over 80 peer-reviewed papers in major academic venues such as CVPR,
-  NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. His research has been featured by
+  He has published over 80 peer-reviewed papers in major academic venues such as CVPR,
+  NeurIPS, ICLR, ACL, NAACL, KDD, AAAI, WWW, and IJCAI. His research has been featured by
   <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news"
      target="_blank" rel="nofollow">NSF News</a>,
   <a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/"
