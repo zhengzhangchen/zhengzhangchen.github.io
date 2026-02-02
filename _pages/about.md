@@ -42,7 +42,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 </p>
 
 <p>
-  Dr. Chen has published over 80 peer-reviewed papers in leading venues such as CVPR,
+  Dr. Chen has published over 80 peer-reviewed papers in major academic venues such as CVPR,
   NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. His research has been featured by
   <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news"
      target="_blank" rel="nofollow">NSF News</a>,
@@ -54,9 +54,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
      target="_blank" rel="nofollow">The Conversation</a>, and
   <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity"
      target="_blank" rel="nofollow">esciencenews</a>.
-  His work has resulted in over 100 patent filings, with 48 patents granted. He has also
-  served as an Area Chair or Senior Program Committee member for major conferences including
-  NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, and CIKM.
+  His research has also led to over 100 patent filings, 48 of which have been granted. Additionally, he has served as an Area Chair or Senior Program Committee member for major conferences including NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, and CIKM.
 </p>
 
 
