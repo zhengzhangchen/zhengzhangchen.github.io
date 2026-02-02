@@ -222,12 +222,48 @@ Two papers got accepted by <strong>KDD 2023</strong>.
 
 <h2>Selected Publications <a href="https://zhengzhangchen.github.io/publications/">[See More]</a></h2>
 
+<h3>LLM Agents & Reasoning</h3>
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">
+Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation</a>.
+Minhua Lin, <b>Zhengzhang Chen</b>, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, and Haifeng Chen.
+EACL 2026.
+</font></li>
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/18795_SolverLLM_Leveraging_Tes.pdf" target="_blank" rel="nofollow">
+SolverLLM: Leveraging Test-Time Scaling for Optimization Problems via LLM-Guided Search</a>.
+Dong Li, Xujiang Zhao, Linlin Yu, Yanchi Liu, Wei Cheng, <b>Zhengzhang Chen</b>, Zhong Chen, Feng Chen, Chen Zhao, and Haifeng Chen.
+NeurIPS 2025.
+</font></li>
+
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow">
+Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery</a>.
+ChengAo Shen, <b>Zhengzhang Chen</b>, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, and Jingchao Ni.
+ACL 2025 (Findings).
+</font></li>
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow">
+MixLLM: Dynamic Routing in Mixed Large Language Models</a>.
+Xinyuan Wang, Yanchi Liu, Wei Cheng, Xujiang Zhao, <b>Zhengzhang Chen</b>, Wenchao Yu, Yanjie Fu, and Haifeng Chen.
+NAACL 2025.
+</font></li>
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf" target="_blank" rel="nofollow">
+Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey</a>.
+C. Ling, <b>Zhengzhang Chen</b>, et al.
+ACM Computing Surveys 2025.
+</font></li>
+
 <h3>Causal Structure Learning & Root Cause Analysis & AIOps</h3> 
-<li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow">Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery</a>. ChengAo Shen, <b>Zhengzhang Chen</b>, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, and Jingchao Ni. ACL 2025 (Findings). </font> </li>  
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Jingrui He, and Haifeng Chen. WWW 2024. </font> </li>  
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/REASON_KDD23.pdf" target="_blank" rel="nofollow"> Interdependent Causal Networks for Root Cause Localization</a>. Dongjie Wang<sup>*</sup>, <b>Zhengzhang Chen<sup>*</sup></b>, Jingchao Ni, Liang Tong, Zheng Wang, Yanjie Fu, and Haifeng Chen. SIGKDD 2023.</font> </li> 
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/CORAL_KDD23.pdf" target="_blank" rel="nofollow"> Incremental Causal Graph Learning for Online Root Cause Analysis</a>. Dongjie Wang, <b>Zhengzhang Chen</b>, Yanjie Fu, Yanchi Liu, and Haifeng Chen. SIGKDD 2023.</font> </li>  
-<li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/OC4Seq_KDD21.pdf" target="_blank" rel="nofollow"> Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection</a>. Zhiwei Wang, <b>Zhengzhang Chen</b>, Jingchao Ni, Hui Liu, Haifeng Chen, and Jiliang Tang. SIGKDD 2021.</font> </li>  
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/lemma.pdf" target="_blank" rel="nofollow"> LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis</a>. Lecheng Zheng, <b>Zhengzhang Chen</b>, Dongjie Wang, Chengyuan Deng, Reon Matsuoka, and Haifeng Chen. Arxiv 2024.</font> </li>  
 
 <h3> AI for Security & Security for AI</h3> 
