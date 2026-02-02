@@ -10,12 +10,54 @@ redirect_from:
 
 <meta name="description" content="Welcome to Zhengzhang Chen's personal website. Explore my publications, research, and projects on AI and machine learning. Connect and learn more about my journey. ">
 
-
+<!--
 Zhengzhang Chen is currently a senior research scientist at <a href="https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/" target="_blank" rel="nofollow">NEC Laboratories America</a>. Previously, he served as a research assistant professor in the <a href="http://cucis.ece.northwestern.edu/members/zzc472/" target="_blank" rel="nofollow">Department of Electrical Engineering & Computer Science at Northwestern University</a>, where he also completed a one-year postdoctoral fellowship under the supervision of <a href="http://www.eecs.northwestern.edu/~choudhar/" target="_blank" rel="nofollow">Prof. Alok Choudhary</a>. He received his Ph.D. degree from <a href="https://www.csc.ncsu.edu/" target="_blank" rel="nofollow">Computer Science Department at North Carolina State University</a>.
 
-His research aims to advance real-world applications and systems through enhanced intelligence, increased security, and more effective decision-making capabilities. He has been primarily working on graph mining, anomaly detection, causal AI, AI security, graph neural networks, text mining, and their applications in computer security, IoT/OT systems, climate science, social media analytics, material science, bioinformatics, and finance, enabling machines to better understand real-world complex dynamic systems.
+His research aims to advance real-world applications and systems through enhanced intelligence, increased security, and more effective decision-making capabilities. He has been primarily working on graph AI, anomaly detection, causal AI, AI security, LLM agents & reasoning, with their applications in computer security, IoT/OT systems, climate science, social media analytics, material science, bioinformatics, and finance, enabling machines to better understand real-world complex dynamic systems.
 
 He has published over 80 peer-reviewed research papers in major academic venues such as CVPR, NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. His work has been featured in various news media including <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news" target="_blank" rel="nofollow">NSF News</a>, <a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/" target="_blank" rel="nofollow">DOE ASCR Discovery</a>, <a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html" target="_blank" rel="nofollow">NHK TV News</a>, <a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537" target="_blank" rel="nofollow">The Conversation</a>, and <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity" target="_blank" rel="nofollow">esciencenews</a>. His research has also led to over 100 patent filings, 48 of which have been granted. Additionally, he has served as area chair or senior program committee member for multiple top-tier conferences, including NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, CIKM, etc.
+-->
+
+<p>
+  Zhengzhang Chen is a Senior Research Scientist at
+  <a href="https://www.nec-labs.com/research/data-science-system-security/people/zhengzhang-chen/"
+     target="_blank" rel="nofollow">NEC Laboratories America</a>.
+  Previously, he was a Research Assistant Professor in the
+  <a href="http://cucis.ece.northwestern.edu/members/zzc472/"
+     target="_blank" rel="nofollow">Department of Electrical Engineering &amp; Computer Science at Northwestern University</a>,
+  where he also completed a one-year postdoctoral fellowship under the supervision of
+  <a href="http://www.eecs.northwestern.edu/~choudhar/"
+     target="_blank" rel="nofollow">Prof. Alok Choudhary</a>.
+  He received his Ph.D. in Computer Science from
+  <a href="https://www.csc.ncsu.edu/"
+     target="_blank" rel="nofollow">North Carolina State University</a>.
+</p>
+
+<p>
+  His research focuses on advancing real-world intelligent systems with improved security,
+  robustness, and decision-making capabilities for complex, dynamic environments. His primary
+  interests include graph AI, anomaly detection, causal AI, AI security, and LLM agents &
+  reasoning, with applications spanning computer security, IoT/OT systems, climate science,
+  social media analytics, materials science, bioinformatics, and finance.
+</p>
+
+<p>
+  Dr. Chen has published over 80 peer-reviewed papers in leading venues such as CVPR,
+  NeurIPS, KDD, ICLR, AAAI, WWW, and IJCAI. His research has been featured by
+  <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=125500&org=GEO&from=news"
+     target="_blank" rel="nofollow">NSF News</a>,
+  <a href="https://ascr-discovery.science.doe.gov/2012/06/storm-tracking/"
+     target="_blank" rel="nofollow">DOE ASCR Discovery</a>,
+  <a href="http://www3.nhk.or.jp/news/html/20151215/k10010341321000.html"
+     target="_blank" rel="nofollow">NHK TV News</a>,
+  <a href="https://theconversation.com/new-hurricane-detection-method-increases-predictability-9537"
+     target="_blank" rel="nofollow">The Conversation</a>, and
+  <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity"
+     target="_blank" rel="nofollow">esciencenews</a>.
+  His work has resulted in over 100 patent filings, with 48 patents granted. He has also
+  served as an Area Chair or Senior Program Committee member for major conferences including
+  NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, and CIKM.
+</p>
 
 
 
