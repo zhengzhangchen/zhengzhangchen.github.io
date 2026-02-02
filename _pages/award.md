@@ -10,9 +10,10 @@ author_profile: true
 
 - **Guest Editor** for ACM Transaction on Data Science: Special Issue on Retrieving and Learning from Internet of Things Data
 - **Area Chair** for NeurIPS2025, ACML2025, KDD2024, ACML 2024, KDD2023
-- **Seniro Program Committee** for AAAI (2021-2025), IJCAI (2023-2025), WSDM (2022-2025), CIKM 2025, KDD (2021-2022)
-- **Program Committtee** for ICLR (2024-2025), NeurIPS (2023-2024), SIGIR (2020-2024), AAAI (2014-2020), KDD (2017-2020), IJCAI (2013-2020), SDM (2017-2023), CIKM (2017-2020), BigData (2018-2021), ICML2024, PAKDD2024, ICCV2021, CVPR2021, WSDM2021, ICDM2017, etc.
+- **Seniro Program Committee** for WSDM (2022-2026), PAKDD (2026), AAAI (2021-2025), IJCAI (2023-2025), CIKM 2025, KDD (2021-2022)
+- **Program Committtee** for ACL (2026), ICLR (2024-2025), NeurIPS (2023-2024), SIGIR (2020-2024), AAAI (2014-2020), KDD (2017-2020), IJCAI (2013-2020), SDM (2017-2023), CIKM (2017-2020), BigData (2018-2021), ICML2024, PAKDD2024, ICCV2021, CVPR2021, WSDM2021, ICDM2017, etc.
 - **Journal Reviewer** for Pattern Recognition, PLOS ONE, IEEE Transaction on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, IEEE Intelligent Systems, Concurrency and Computation Journal, Journal of Computer and Communications, IEEE Transactions on Network Science and Engineering, Information Sciences, etc.
+- **NEC GIBU Excellent Invention Award**: Domain-Oriented LLM Compression for Medical Decision Making, 2025
 - **NEC Business Contribution Award**: In Recognition of Key Contribution to REASON: Causal Discovery and Root Cause Localization, 2024
 - **NEC RiSC Impactfulness of Research & Quality of Writeup Award**: Research Sharing Challenge, 2024
 - **NEC GIBU Excellent Invention Award**: Multi-modality Data Analysis Engine for Defect Detection, 2023
