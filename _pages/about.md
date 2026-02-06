@@ -264,7 +264,7 @@ Two papers got accepted by <strong>KDD 2023</strong>.
 
 <font size="3"><sup>#</sup> indicates corresponding author</font>
 
-<h3>LLM Agents & Reasoning</h3>
+<h3>Agentic AI & LLM Reasoning</h3>
 
 <li><font size="3">
 <a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">
