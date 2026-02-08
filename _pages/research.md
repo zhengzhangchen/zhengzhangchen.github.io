@@ -15,7 +15,7 @@ author_profile: true
   <li>Anomaly Detection</li>
   <li>Causal AI</li>
   <li>Explainable Machine Learning</li>
-  <li>LLM Agents and Reasoning</li>
+  <li>Agentic AI and LLM Reasoning</li>
 </ul>
 </p>
 
