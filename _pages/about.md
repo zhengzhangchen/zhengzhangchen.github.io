@@ -36,7 +36,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <p>
   His research focuses on advancing real-world intelligent systems with improved security,
   robustness, and decision-making capabilities for complex, dynamic environments. His primary
-  interests include graph AI, anomaly detection, causal AI, AI security, and LLM agents &
+  interests include graph AI, anomaly detection, causal AI, AI security, and agentic AI & LLM
   reasoning, with applications spanning computer security, IoT/OT systems, climate science,
   social media analytics, materials science, bioinformatics, and finance.
 </p>
