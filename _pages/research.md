@@ -43,7 +43,7 @@ author_profile: true
                  alt='LoKA Framework' 
                  style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
 
-<p>Large Language Models (LLMs) are one of the technological foundations of the increasingly intelligent digital world. They power enterprise knowledge systems, digital assistants, healthcare platforms, financial services, and many other AI-driven applications. As LLMs are deployed in real-world environments, ensuring that they remain reliable, adaptable and safe becomes a critical challenge. Knowledge continuously evolves, harmful or sensitive information must sometimes be removed, and organizations require domain-specific customization. However, updating LLMs is highly complex: naïve fine-tuning can erase existing knowledge, introduce conflicts between learning and unlearning, degrade general reasoning capability, and complicate version control.</p>
+<p>Large Language Models (LLMs) are one of the technological foundations of the increasingly intelligent digital world. They power enterprise knowledge systems, digital assistants, healthcare platforms, financial services, and many other AI-driven applications. As LLMs are deployed in real-world environments, ensuring that they remain reliable, adaptable and safe becomes a critical challenge. Knowledge continuously evolves, harmful or sensitive information must sometimes be removed, organizational policies must be enforced, and domain-specific customization is required. However, updating LLMs is highly complex: naïve fine-tuning can erase existing knowledge, introduce conflicts between learning and unlearning, degrade general reasoning capability, and complicate version control.</p>
 
         </div>
     </section>
@@ -52,7 +52,7 @@ author_profile: true
 <section class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
     <div class='avia_textblock' itemprop="text">
 
-<p>This project aims to develop unique AI techniques that provide fine-grained and trustworthy control over LLM knowledge and behavior, enabling models to simultaneously learn new information, unlearn unwanted or harmful knowledge, and preserve unrelated capabilities. Our solution is a continuous and modular LLM knowledge management system powered by conflict-aware optimization, memory-adaptive knowledge codebooks, and representation-level interventions with query-adaptive routing.</p>
+<p>This project aims to develop unique AI techniques that enable multi-level, trustworthy control over LLM knowledge and behavior. Our framework supports <b>Fact-Level Updating</b> for low-level, fine-grained content control; <b>Behavior-Level Control</b> to enforce tone, style, and policy adherence; <b>Targeted Updates</b> that scope changes by task, domain, or context; and <b>Comprehensive Content Control</b> that adapts model behavior to organizational identity. Our solution is a continuous and modular LLM knowledge management system powered by conflict-aware optimization, memory-adaptive knowledge codebooks, and representation-level interventions with query-adaptive routing.</p>
 
 <p>Besides application in enterprise LLM systems, our techniques can offer “Intelligent Knowledge Control” as a service for a wide range of applications, including healthcare, finance, cybersecurity, education, and government services.</p>
 
