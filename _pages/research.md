@@ -21,6 +21,55 @@ author_profile: true
 
 <h2> Projects</h2>
 
+
+<h3>Customized and Trustworthy LLMs: Safe and Adaptive Knowledge Control</h3>
+
+<div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full avia-builder-el-13 el_after_av_one_fifth el_before_av_one_half first flex_column_div column-top-margin'>
+    <div class='av-special-heading av-cu4ob-14a7cde11bea3f51ac252cb2f24ef51b av-special-heading-h2 avia-builder-el-14 avia-builder-el-no-sibling'>
+        <div class="special-heading-border">
+            <div class="special-heading-inner-border"></div>
+        </div>
+    </div>
+</div>
+
+<div class='flex_column av-7upkir-95250c64fb45240c01ef7cdc76d5ac64 av_one_half  avia-builder-el-15  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+    <section class='av_textblock_section av-57nxib-f1a699dbdfd67465c147325fe63a1c0b' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        <div class='avia_textblock' itemprop="text">
+
+            <!-- Image floated to the right (same style as example) -->
+            <img fetchpriority="high" decoding="async" 
+                 class='wp-image-9999 avia-img-lazy-loading-not-9999 avia_image' 
+                 src="https://zhengzhangchen.github.io/images/LoKA.png" 
+                 alt='LoKA Framework' 
+                 style="float: right; margin: 0 0 15px 15px; max-width: 50%;" />
+
+<p>Large Language Models (LLMs) are one of the technological foundations of the increasingly intelligent digital world. They power enterprise knowledge systems, digital assistants, healthcare platforms, financial services, and many other AI-driven applications. As LLMs are deployed in real-world environments, ensuring that they remain reliable, adaptable and safe becomes a critical challenge. Knowledge continuously evolves, harmful or sensitive information must sometimes be removed, and organizations require domain-specific customization. However, updating LLMs is highly complex: naïve fine-tuning can erase existing knowledge, introduce conflicts between learning and unlearning, degrade general reasoning capability, and complicate version control.</p>
+
+        </div>
+    </section>
+</div>
+
+<section class='av_textblock_section av-m06va54a-6e3a82bb09936342015dc726e78b2c94' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+    <div class='avia_textblock' itemprop="text">
+
+<p>This project aims to develop unique AI techniques that provide fine-grained and trustworthy control over LLM knowledge and behavior, enabling models to simultaneously learn new information, unlearn unwanted or harmful knowledge, and preserve unrelated capabilities. Our solution is a continuous and modular LLM knowledge management system powered by conflict-aware optimization, memory-adaptive knowledge codebooks, and representation-level interventions with query-adaptive routing.</p>
+
+<p>Besides application in enterprise LLM systems, our techniques can offer “Intelligent Knowledge Control” as a service for a wide range of applications, including healthcare, finance, cybersecurity, education, and government services.</p>
+
+<p><b><span style="color:#0000FF">Representative Papers</span></b>:
+  [<a href="https://arxiv.org/pdf/2502.00158." target="_blank" rel="nofollow">LOKA</a>]
+  [<a href="https://arxiv.org/pdf/2511.20892." target="_blank" rel="nofollow">RILKE</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">TESSA</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/619_Multi_Agent_Procedural_Gra.pdf" target="_blank" rel="nofollow">text2flow</a>]
+</p>
+
+    </div>
+</section>
+
+
+
+
+
 <h3>AIOps: Evoking Intelligence in Operations</h3>
 
 <div class='flex_column av-l41zf-1f7570f743625fca3b1aeece0d622edf av_one_full  avia-builder-el-13  el_after_av_one_fifth  el_before_av_one_half  first flex_column_div column-top-margin'>
