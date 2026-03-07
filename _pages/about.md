@@ -54,7 +54,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
      target="_blank" rel="nofollow">The Conversation</a>, and
   <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity"
      target="_blank" rel="nofollow">esciencenews</a>.
-  His research has also led to over 100 patent filings, 48 of which have been granted. Additionally, he has served as an Area Chair or Senior Program Committee member for major conferences including NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, and CIKM.
+  His research has also led to over 100 patent filings, 50 of which have been granted. Additionally, he has served as an Area Chair or Senior Program Committee member for major conferences including NeurIPS, SIGKDD, AAAI, IJCAI, WSDM, and CIKM.
 </p>
 
 
@@ -64,6 +64,10 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <div class="news-box">
   <ul class="news-list">
 
+   <li class="news-item">
+      <span class="news-date">03/2026</span>
+      Invited to serve as an Action Editor for <strong>TMLR</strong>.
+    </li>
 
 
    <li class="news-item">
