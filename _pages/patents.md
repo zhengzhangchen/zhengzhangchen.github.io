@@ -7,6 +7,10 @@ author_profile: true
 
 <meta name="description" content="Welcome :). Explore Zhengzhang Chen's granted patents on AI and machine learning. Connect and learn more about my journey. ">
 
+1. US Patent 12,566,655: <a href="https://patents.google.com/patent/US20240134736A1/en" target="_blank" rel="nofollow">Anomaly Detection Using Metric Time Series and Event Sequences for Medical Decision Making</a>.
+Y. Chen, L. Tang, Y. Liu, Z. Chen, and H. Chen. Granted on 03/03/2026.	
+2. US Patent 12,541,418: <a href="https://patents.google.com/patent/US12541418B2/en?oq=Patent+%2312%2c541%2c418" target="_blank" rel="nofollow">Temporal Graph-Based Incident Analysis and Control in Cyber Physical Systems</a>.
+P. Yuan, L. Tang, H. Chen, Y. Chen, Z. Chen, and M. Sato. Granted on 02/03/2026.
 1. US Patent 12,487,879: <a href="https://patents.google.com/patent/US12487879B2/en" target="_blank" rel="nofollow"> Anomaly Detection on Dynamic Sensor Data</a>. <br> L. Tang, H. Chen, Y. Chen, W. Cheng, <strong>Z. Chen</strong>, and Y. Kobayashi. Granted on 12/2025. 
 1. US Patent 12,479,421: <a href="https://patents.google.com/patent/US12479421B2/en" target="_blank" rel="nofollow"> Modular Network Based Knowledge Sharing for Multiple Entities</a>. <br> L. Tang, W. Cheng, H. Chen, <strong>Z. Chen</strong>, and Y. Ren. Granted on 11/2025. 
 6. US Patent 12,436,835: <a href="https://patents.google.com/patent/US12436835B2/en" target="_blank" rel="nofollow"> Trigger Point Detection for Online Root Cause Analysis and System Fault Diagnosis</a>. <br> <strong>Z. Chen</strong>, H. Chen, L. Tong, and D. Wang. Granted on 10/2025. 
