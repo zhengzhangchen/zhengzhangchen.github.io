@@ -66,6 +66,11 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
    <li class="news-item">
       <span class="news-date">03/2026</span>
+      Invited to serve as an Senior Area Chair for <strong>NeuroIPS2026</strong>.
+    </li>
+
+   <li class="news-item">
+      <span class="news-date">03/2026</span>
       Invited to serve as an Action Editor for <strong>TMLR</strong>.
     </li>
 
