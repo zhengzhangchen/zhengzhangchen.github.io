@@ -64,6 +64,17 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <div class="news-box">
   <ul class="news-list">
 
+     <li class="news-item">
+      <span class="news-date">04/2026</span>
+      Invited to serve as an SPC for <strong>CIKM 2026</strong>.
+    </li>
+
+   <li class="news-item">
+      <span class="news-date">03/2026</span>
+      Invited to serve as an Senior Area Chair for <strong>NeurIPS 2026</strong>.
+    </li>
+
+
 
 
    <li class="news-item">
