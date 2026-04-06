@@ -66,6 +66,11 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 
      <li class="news-item">
       <span class="news-date">04/2026</span>
+   Four of our papers got accepted by <strong>ACL 2026 Main</strong>.
+    </li>
+
+     <li class="news-item">
+      <span class="news-date">04/2026</span>
       Invited to serve as an SPC for <strong>CIKM 2026</strong>.
     </li>
 
