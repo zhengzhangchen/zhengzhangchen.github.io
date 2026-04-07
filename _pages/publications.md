@@ -11,6 +11,26 @@ author_profile: true
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank" rel="nofollow">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank" rel="nofollow">DBLP</a>]. Here are some selected papers: </font> </h3>
 <p><sup>*</sup> indicates equal contribution. <u>underline</u> indicates interns/students I have advised, and I am the corresponding author.</p>
 
+3. <strong>[ACL'26]</strong>
+Representation Interventions Enable Lifelong Unstructured Knowledge Control. <br>
+<u>Xuyuan Liu</u>, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, and <b>Zhengzhang Chen</b>. <br>
+In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
+4. <strong>[ACL'26]</strong>
+LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook. <br>
+<u>Binchi Zhang</u>, <b>Zhengzhang Chen</b>, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
+In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
+5. <strong>[ACL'26]</strong>
+Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. <br>
+<u>Binchi Zhang</u>, Xujiang Zhao, Jundong Li, Haifeng Chen, and <b>Zhengzhang Chen</b>. <br>
+In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
+6. <strong>[ACL'26]</strong>
+Uncertainty-Aware Test-Time Search for Optimization Problem Solving. <br>
+Linlin Yu, Xujiang Zhao, Dong Li, Yanchi Liu, Wei Cheng, <b>Zhengzhang Chen</b>, Chen Zhao, Feng Chen, Haifeng Chen. <br>
+In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
 1. <strong>[EACL'26]</strong>
 <a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">
 Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation</a>. <br> <u>Minhua Lin</u>, <b>Zhengzhang Chen</b>, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, and Haifeng Chen. <br>
