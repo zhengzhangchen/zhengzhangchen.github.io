@@ -289,6 +289,27 @@ Two papers got accepted by <strong>KDD 2023</strong>.
 <h3>Agentic AI & LLM Reasoning</h3>
 
 <li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/443_Representation_Interventio.pdf" target="_blank" rel="nofollow">
+Representation Interventions Enable Lifelong Unstructured Knowledge Control</a>.
+Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, and <b>Zhengzhang Chen<sup>#</sup></b>.
+ACL 2026.
+</font></li>
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/1765_LOKA_Conflict_Aware_LLM_K.pdf" target="_blank" rel="nofollow">
+LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook</a>.
+Binchi Zhang, <b>Zhengzhang Chen<sup>#</sup></b>, Zaiyi Zheng, Jundong Li, and Haifeng Chen.
+ACL 2026.
+</font></li>
+
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/1779_Mind_the_Gap_in_Cultural_.pdf" target="_blank" rel="nofollow">
+Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models</a>.
+Binchi Zhang, Xujiang Zhao, Jundong Li, Haifeng Chen, and <b>Zhengzhang Chen<sup>#</sup></b>.
+ACL 2026.
+</font></li>
+
+<li><font size="3">
 <a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">
 Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation</a>.
 Minhua Lin, <b>Zhengzhang Chen<sup>#</sup></b>, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, and Haifeng Chen.
@@ -303,12 +324,7 @@ NeurIPS 2025.
 </font></li>
 
 
-<li><font size="3">
-<a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow">
-Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery</a>.
-ChengAo Shen, <b>Zhengzhang Chen<sup>#</sup></b>, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, and Jingchao Ni.
-ACL 2025 (Findings).
-</font></li>
+
 
 <li><font size="3">
 <a href="https://zhengzhangchen.github.io/publication/2025.naacl-long.545.pdf" target="_blank" rel="nofollow">
@@ -317,14 +333,15 @@ Xinyuan Wang, Yanchi Liu, Wei Cheng, Xujiang Zhao, <b>Zhengzhang Chen</b>, Wench
 NAACL 2025.
 </font></li>
 
-<li><font size="3">
-<a href="https://zhengzhangchen.github.io/publication/Domain%20Specialization%20as%20the%20Key%20to%20Make%20Large%20Language%20Models%20Disruptive%20Survey.pdf" target="_blank" rel="nofollow">
-Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey</a>.
-C. Ling, <b>Zhengzhang Chen</b>, et al.
-ACM Computing Surveys 2025.
-</font></li>
+
 
 <h3>Causal Structure Learning & Root Cause Analysis & AIOps</h3> 
+<li><font size="3">
+<a href="https://zhengzhangchen.github.io/publication/Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery.pdf" target="_blank" rel="nofollow">
+Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery</a>.
+ChengAo Shen, <b>Zhengzhang Chen<sup>#</sup></b>, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, and Jingchao Ni.
+ACL 2025 (Findings).
+</font></li>
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/MULAN_WWW24.pdf" target="_blank" rel="nofollow"> MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems</a>. Lecheng Zheng, <b>Zhengzhang Chen<sup>#</sup></b>, Jingrui He, and Haifeng Chen. WWW 2024. </font> </li>  
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/REASON_KDD23.pdf" target="_blank" rel="nofollow"> Interdependent Causal Networks for Root Cause Localization</a>. Dongjie Wang, <b>Zhengzhang Chen<sup>#</sup></b>, Jingchao Ni, Liang Tong, Zheng Wang, Yanjie Fu, and Haifeng Chen. SIGKDD 2023.</font> </li> 
 <li>  <font size="3"><a href="https://zhengzhangchen.github.io/publication/CORAL_KDD23.pdf" target="_blank" rel="nofollow"> Incremental Causal Graph Learning for Online Root Cause Analysis</a>. Dongjie Wang, <b>Zhengzhang Chen<sup>#</sup></b>, Yanjie Fu, Yanchi Liu, and Haifeng Chen. SIGKDD 2023.</font> </li>  
