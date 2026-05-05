@@ -12,22 +12,26 @@ author_profile: true
 <p><sup>*</sup> indicates equal contribution. <u>underline</u> indicates interns/students I have advised, and I am the corresponding author.</p>
 
 3. <strong>[ACL'26]</strong>
-Representation Interventions Enable Lifelong Unstructured Knowledge Control. <br>
+<a href="https://zhengzhangchen.github.io/publication/443_Representation_Interventio.pdf" target="_blank" rel="nofollow">
+Representation Interventions Enable Lifelong Unstructured Knowledge Control</a>. <br>
 <u>Xuyuan Liu</u>, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, and <b>Zhengzhang Chen</b>. <br>
 In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
 4. <strong>[ACL'26]</strong>
-LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook. <br>
+<a href="https://zhengzhangchen.github.io/publication/1765_LOKA_Conflict_Aware_LLM_K.pdf" target="_blank" rel="nofollow">
+LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook</a>. <br>
 <u>Binchi Zhang</u>, <b>Zhengzhang Chen</b>, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
 In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
 5. <strong>[ACL'26]</strong>
-Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. <br>
+<a href="https://zhengzhangchen.github.io/publication/1779_Mind_the_Gap_in_Cultural_.pdf" target="_blank" rel="nofollow">
+Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models</a>. <br>
 <u>Binchi Zhang</u>, Xujiang Zhao, Jundong Li, Haifeng Chen, and <b>Zhengzhang Chen</b>. <br>
 In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
 6. <strong>[ACL'26]</strong>
-Uncertainty-Aware Test-Time Search for Optimization Problem Solving. <br>
+<a href="https://zhengzhangchen.github.io/publication/5476_Uncertainty_Aware_Test_Ti.pdf" target="_blank" rel="nofollow">
+Uncertainty-Aware Test-Time Search for Optimization Problem Solving</a>. <br>
 Linlin Yu, Xujiang Zhao, Dong Li, Yanchi Liu, Wei Cheng, <b>Zhengzhang Chen</b>, Chen Zhao, Feng Chen, Haifeng Chen. <br>
 In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
 
