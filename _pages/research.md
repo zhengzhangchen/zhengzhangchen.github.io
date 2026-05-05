@@ -57,10 +57,10 @@ author_profile: true
 <p>Besides application in enterprise LLM systems, our techniques can offer “Intelligent Knowledge Control” as a service for a wide range of applications, including healthcare, finance, cybersecurity, education, and government services.</p>
 
 <p><b><span style="color:#0000FF">Representative Papers</span></b>:
-  [<a href="https://arxiv.org/pdf/2502.00158." target="_blank" rel="nofollow">LOKA</a>]
-  [<a href="https://arxiv.org/pdf/2511.20892." target="_blank" rel="nofollow">RILKE</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/1765_LOKA_Conflict_Aware_LLM_K.pdf" target="_blank" rel="nofollow">LOKA</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/443_Representation_Interventio.pdf" target="_blank" rel="nofollow">RILKE</a>]
   [<a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">TESSA</a>]
-  [<a href="https://zhengzhangchen.github.io/publication/619_Multi_Agent_Procedural_Gra.pdf" target="_blank" rel="nofollow">text2flow</a>]
+  [<a href="https://zhengzhangchen.github.io/publication/1779_Mind_the_Gap_in_Cultural_.pdf" target="_blank" rel="nofollow">CultureManager</a>]
 </p>
 
     </div>
