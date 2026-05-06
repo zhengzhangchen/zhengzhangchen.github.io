@@ -313,7 +313,7 @@ ACL 2026.
 <a href="https://zhengzhangchen.github.io/publication/1294_Decoding_Time_Series_with.pdf" target="_blank" rel="nofollow">
 Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation</a>.
 Minhua Lin, <b>Zhengzhang Chen<sup>#</sup></b>, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, and Haifeng Chen.
-EACL 2026.
+EACL 2026 (Findings).
 </font></li>
 
 <li><font size="3">
