@@ -284,14 +284,14 @@ Two papers got accepted by <strong>KDD 2023</strong>.
 
 <h2>Selected Publications <a href="https://zhengzhangchen.github.io/publications/">[See More]</a></h2>
 
-<font size="3"><sup>#</sup> indicates corresponding author</font>
+<font size="3"><sup>☆</sup> indicates corresponding author</font>
 
 <h3>Agentic AI & LLM Reasoning</h3>
 
 <li><font size="3">
 <a href="https://zhengzhangchen.github.io/publication/443_Representation_Interventio.pdf" target="_blank" rel="nofollow">
 Representation Interventions Enable Lifelong Unstructured Knowledge Control</a>.
-Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, and <b>Zhengzhang Chen<sup>#</sup></b>.
+Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, and <b>Zhengzhang Chen<sup>☆</sup></b>.
 ACL 2026.
 </font></li>
 
