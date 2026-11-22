@@ -59,7 +59,7 @@ His research focuses on developing intelligent systems that are secure, robust, 
      target="_blank" rel="nofollow">The Conversation</a>, and
   <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity"
      target="_blank" rel="nofollow">esciencenews</a>.
- His research has also resulted in over 100 patent filings, including 53 granted patents. He regularly serves as a Senior Area Chair for NeurIPS and ICML, and as an Area Chair or Senior Program Committee member for ICLR, KDD, AAAI, IJCAI, WSDM, ACML, and CIKM. He also serves as an Action Editor for <i> Transactions on Machine Learning Research (TMLR)</i>.
+ His research has also resulted in over 100 patent filings, including 53 granted patents. He has served as a Senior Area Chair for NeurIPS and ICML, and as an Area Chair or Senior Program Committee member for ICLR, KDD, AAAI, IJCAI, WSDM, ACML, and CIKM. He also serves as an Action Editor for <i> Transactions on Machine Learning Research (TMLR)</i>.
 </p>
 
 
