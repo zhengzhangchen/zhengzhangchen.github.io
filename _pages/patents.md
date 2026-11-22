@@ -10,13 +10,14 @@ author_profile: true
 
 
 
+
 1. US Patent 12,801,485: <a href="https://patents.google.com/patent/US20250094271A1/en" target="_blank" rel="nofollow">Log Representation Learning for Automated System Maintenance</a>.
 <strong>Z. Chen</strong>, L. Zheng, H. Chen, Y. Liu, X. Zhao, Y. Chen, and L. Tang. Granted on 11/17/2026.
 
 2. US Patent 12,786,050: <a href="https://patents.google.com/patent/US20250062953A1/en" target="_blank" rel="nofollow">Correlation-Aware Explainable Online Change Point Detection</a>.
 <strong>Z. Chen</strong>, H. Chen, H. Wang, X. Zhao, and C. Deng. Granted on 11/03/2026.
 
-3. JP Patent 7943965: <a href="https://patents.google.com/patent/JP2026502262A/en" target="_blank" rel="nofollow">Metric and Log Joint Autoencoder for Anomaly Detection in Healthcare Decision Making</a>.
+3. JP Patent 7943965: <a href="https://patents.google.com/patent/JP2026502262A/en" target="_blank" rel="nofollow">Joint Metric and Log Autoencoder for Anomaly Detection in Health Care Decision Making</a>.
 Y. Chen, H. Chen, L. Tang, and <strong>Z. Chen</strong>. Granted on 10/30/2026.
 
 4. US Patent 12,769,603: <a href="https://patents.google.com/patent/US20240303149A1/en" target="_blank" rel="nofollow">Metric and Log Joint Autoencoder for Anomaly Detection in Healthcare Decision Making</a>.
@@ -28,11 +29,12 @@ Y. Chen, H. Chen, L. Tang, and <strong>Z. Chen</strong>. Granted on 10/20/2026.
 6. US Patent 12,670,059: <a href="https://patents.google.com/patent/US12670059B2/en" target="_blank" rel="nofollow">Temporal Graph-Based Anomaly Analysis and Control in Cyber Physical Systems</a>.
 P. Yuan, L. Tang, H. Chen, Y. Chen, <strong>Z. Chen</strong>, and M. Sato. Granted on 06/30/2026.
 
-7. JP Patent 7876721: <a href="https://patents.google.com/patent/JP2025535802A/en" target="_blank" rel="nofollow">Anomaly Detection Using Metric Time Series and Event Sequences for Medical Decision Making</a>.
+7. JP Patent 7876721: <a href="https://patents.google.com/patent/JP2025535802A/en" target="_blank" rel="nofollow">Anomaly Detection Using Measurement Time Series and Event Sequences for Medical Decision Making</a>.
 Y. Chen, L. Tang, Y. Liu, <strong>Z. Chen</strong>, and H. Chen. Granted on 06/19/2026.
 
-8. JP Patent 7876722: <a href="https://patents.google.com/patent/US20240186018A1/en" target="_blank" rel="nofollow">Neural Point Process-Based Event Prediction for Medical Decision Making</a>.
+8. JP Patent 7876722: <a href="https://patents.google.com/patent/JP2025534741A/en" target="_blank" rel="nofollow">Event Prediction Based on Neural Point Processes for Medical Decision Making</a>.
 Y. Chen, H. Chen, <strong>Z. Chen</strong>, Y. Liu, and L. Tang. Granted on 06/19/2026.
+
 
 
 1. US Patent 12,566,655: <a href="https://patents.google.com/patent/US20240134736A1/en" target="_blank" rel="nofollow">Anomaly Detection Using Metric Time Series and Event Sequences for Medical Decision Making</a>.
