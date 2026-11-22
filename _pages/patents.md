@@ -7,6 +7,11 @@ author_profile: true
 
 <meta name="description" content="Welcome :). Explore Zhengzhang Chen's granted patents on AI and machine learning. Connect and learn more about my journey. ">
 
+
+1. US Patent 12,730,702: <a href="https://patents.google.com/patent/US12730702B2/en" target="_blank" rel="nofollow">Early Root Cause Localization</a>.
+<strong>Z. Chen</strong>, H. Chen, Y. Liu, L. Tang, H. Wang, and D. Wang. Granted on 09/08/2026.
+2. US Patent 12,670,059: <a href="https://patents.google.com/patent/US12670059B2/en" target="_blank" rel="nofollow">Temporal Graph-Based Anomaly Analysis and Control in Cyber Physical Systems</a>.
+P. Yuan, L. Tang, H. Chen, Y. Chen, <strong>Z. Chen</strong>, and M. Sato. Granted on 06/30/2026.
 1. US Patent 12,566,655: <a href="https://patents.google.com/patent/US20240134736A1/en" target="_blank" rel="nofollow">Anomaly Detection Using Metric Time Series and Event Sequences for Medical Decision Making</a>.
 Y. Chen, L. Tang, Y. Liu, <strong>Z. Chen</strong>, and H. Chen. Granted on 03/03/2026.	
 2. US Patent 12,541,418: <a href="https://patents.google.com/patent/US12541418B2/en?oq=Patent+%2312%2c541%2c418" target="_blank" rel="nofollow">Temporal Graph-Based Incident Analysis and Control in Cyber Physical Systems</a>.
