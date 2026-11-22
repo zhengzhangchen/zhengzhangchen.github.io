@@ -46,6 +46,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 His research focuses on developing intelligent systems that are secure, robust, and adaptive to complex, dynamic environments. His primary research interests include graph AI, anomaly detection, causal AI, AI security, and agentic AI and LLM reasoning, with an emphasis on trustworthy AI, knowledge adaptation, causal reasoning, and intelligent decision-making. His work spans a wide range of real-world applications, including cybersecurity, IoT/OT systems, climate science, social media analytics, materials science, bioinformatics, and finance.
 </p>
 
+<!--
 <p>
   He has published over 100 peer-reviewed papers in leading academic venues, including CVPR,
   NeurIPS, ICLR, ACL, NAACL, KDD, AAAI, WWW, and IJCAI. His research has been featured in
@@ -61,8 +62,11 @@ His research focuses on developing intelligent systems that are secure, robust, 
      target="_blank" rel="nofollow">esciencenews</a>.
  His research has also resulted in over 100 patent filings, including 53 granted patents. He has served as a Senior Area Chair for NeurIPS and ICML, and as an Area Chair or Senior Program Committee member for ICLR, KDD, AAAI, IJCAI, WSDM, ACML, and CIKM. He also serves as an Action Editor for <i> Transactions on Machine Learning Research (TMLR)</i>.
 </p>
+-->
 
-
+<p>
+He has published over 100 peer-reviewed papers in leading academic venues, including CVPR, NeurIPS, ICLR, ACL, NAACL, KDD, AAAI, WWW, and IJCAI. His research has been featured in NSF News, DOE ASCR Discovery, NHK TV News, The Conversation, and esciencenews. His research has also resulted in over 100 patent filings, including 53 granted patents. He has served as a Senior Area Chair for NeurIPS and ICML, and as an Area Chair or Senior Program Committee member for ICLR, KDD, AAAI, IJCAI, WSDM, ACML, and CIKM. He also serves as an Action Editor for <i> Transactions on Machine Learning Research (TMLR)</i>.
+</p>
 
 <h2>News</h2>
 
