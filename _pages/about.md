@@ -32,13 +32,18 @@ He has published over 80 peer-reviewed research papers in major academic venues 
   <a href="https://www.csc.ncsu.edu/"
      target="_blank" rel="nofollow">North Carolina State University</a>.
 </p>
-
+<!--
 <p>
   His research focuses on advancing real-world intelligent systems with improved security,
   robustness, and decision-making capabilities for complex, dynamic environments. His primary
   interests include graph AI, anomaly detection, causal AI, AI security, and agentic AI & LLM
   reasoning, with applications spanning computer security, IoT/OT systems, climate science,
   social media analytics, materials science, bioinformatics, and finance.
+</p>
+-->
+
+<p>
+His research focuses on developing intelligent systems that are secure, robust, and adaptive to complex, dynamic environments. His primary research interests include graph AI, anomaly detection, causal AI, AI security, and agentic AI and LLM reasoning, with an emphasis on trustworthy AI, knowledge adaptation, causal reasoning, and intelligent decision-making. His research spans a wide range of real-world applications, including cybersecurity, IoT/OT systems, climate science, social media analytics, materials science, bioinformatics, and finance.
 </p>
 
 <p>
@@ -54,7 +59,7 @@ He has published over 80 peer-reviewed research papers in major academic venues 
      target="_blank" rel="nofollow">The Conversation</a>, and
   <a href="https://esciencenews.com/sources/physorg/2012/09/11/researchers.devise.more.accurate.method.predicting.hurricane.activity"
      target="_blank" rel="nofollow">esciencenews</a>.
-  His research has also led to over 100 patent filings, 53 of which have been granted. He regularly serves as a Senior Area Chair for NeurIPS and ICML, and as an Area Chair or Senior Program Committee member for ICLR, KDD, AAAI, IJCAI, WSDM, ACML, and CIKM. He also serves as an Action Editor for Transactions on Machine Learning Research (TMLR).
+ His research has also resulted in over 100 patent filings, including 53 granted patents. He regularly serves as a Senior Area Chair for NeurIPS and ICML, and as an Area Chair or Senior Program Committee member for ICLR, KDD, AAAI, IJCAI, WSDM, ACML, and CIKM. He also serves as an Action Editor for Transactions on Machine Learning Research (TMLR).
 </p>
 
 
