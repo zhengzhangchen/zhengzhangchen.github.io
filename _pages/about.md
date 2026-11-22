@@ -64,20 +64,39 @@ He has published over 80 peer-reviewed research papers in major academic venues 
 <div class="news-box">
   <ul class="news-list">
 
-     <li class="news-item">
+  <li class="news-item">
+      <span class="news-date">10/2026</span>
+      Invited to serve as an Senior Area Chair for <strong>ICML 2027</strong>.
+  </li>
+
+    <li class="news-item">
+      <span class="news-date">09/2026</span>
+      Invited to serve as an Area Chair for <strong>ICIR 2027</strong>.
+  </li>
+
+      <li class="news-item">
+      <span class="news-date">07/2026</span>
+      Invited to serve as an Area Chair for <strong>ACML 2026</strong>.
+  </li>
+
+  <li class="news-item">
       <span class="news-date">04/2026</span>
    Four of our papers got accepted by <strong>ACL 2026 Main</strong>.
     </li>
 
-     <li class="news-item">
+  <li class="news-item">
       <span class="news-date">04/2026</span>
       Invited to serve as an SPC for <strong>CIKM 2026</strong>.
     </li>
+
+    
 
    <li class="news-item">
       <span class="news-date">03/2026</span>
       Invited to serve as an Senior Area Chair for <strong>NeurIPS 2026</strong>.
     </li>
+
+    
 
 
 
