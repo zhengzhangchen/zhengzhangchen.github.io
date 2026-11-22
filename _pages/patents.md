@@ -33,7 +33,7 @@ P. Yuan, L. Tang, H. Chen, Y. Chen, <strong>Z. Chen</strong>, and M. Sato. Grant
 7. JP Patent 7876721: <a href="https://patents.google.com/patent/JP7876721B2/en" target="_blank" rel="nofollow">Anomaly Detection Using Measurement Time Series and Event Sequences for Medical Decision-Making</a>.
 Y. Chen, L. Tang, Y. Liu, <strong>Z. Chen</strong>, and H. Chen. Granted on 06/19/2026.
 
-8. JP Patent 7876722: <a href="https://patents.google.com/patent/JP2025534741A/en" target="_blank" rel="nofollow">Event Prediction Based on Neural Point Processes for Medical Decision Making</a>.
+8. JP Patent 7876722: <a href="https://patents.google.com/patent/JP7876722B2/en" target="_blank" rel="nofollow">Event Prediction Based on Neural Point Processes for Medical Decision Making</a>.
 Y. Chen, H. Chen, <strong>Z. Chen</strong>, Y. Liu, and L. Tang. Granted on 06/19/2026.
 
 
