@@ -10,6 +10,24 @@ author_profile: true
 
 <h3><font size="3"><b>All my publications are available on my </b>&nbsp;[<a href="https://scholar.google.com/citations?user=2t7wQ24AAAAJ" target="_blank" rel="nofollow">Google Scholar</a> | <a href="https://dblp.org/pid/14/3744.html" target="_blank" rel="nofollow">DBLP</a>]. Here are some selected papers: </font> </h3>
 <p><sup>*</sup> indicates equal contribution. <u>underline</u> indicates interns/students I have advised, and I am the corresponding author.</p>
+1. <strong>[NeurIPS'26]</strong>
+<a href="https://zhengzhangchen.github.io/publication/HierFlow.pdf" target="_blank" rel="nofollow">
+HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation</a>. <br>
+Dong Li, Yanchi Liu, Xujiang Zhao, Wei Cheng, <b>Zhengzhang Chen</b>, Xintao Wu, Zhong Chen, Haifeng Chen, and Chen Zhao. <br>
+In Proceedings of the 40th Annual Conference on Neural Information Processing Systems, 2026.
+
+2. <strong>[CIKM'26]</strong>
+<a href="https://zhengzhangchen.github.io/publication/LEMMA-RCA.pdf" target="_blank" rel="nofollow">
+LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis</a>. <br>
+<u>Lecheng Zheng</u>, <b>Zhengzhang Chen</b><sup>*</sup>, Dongjie Wang<sup>*</sup>, Chengyuan Deng<sup>*</sup>, Reon Matsuoka, and Haifeng Chen. <br>
+In Proceedings of the 35th ACM International Conference on Information and Knowledge Management, 2026.
+
+3. <strong>[WWW'26]</strong>
+<a href="https://zhengzhangchen.github.io/publication/Learning%20to%20Route.pdf" target="_blank" rel="nofollow">
+Learning to Route: A Rule-Driven Agent Framework for Hybrid-Source Retrieval-Augmented Generation</a>. <br>
+Haoyue Bai, Haoyu Wang, Shengyu Chen, <b>Zhengzhang Chen</b>, Lu-An Tang, Wei Cheng, Yanjie Fu, and Haifeng Chen. <br>
+In Proceedings of the ACM Web Conference 2026, 2026.
+
 
 3. <strong>[ACL'26]</strong>
 <a href="https://zhengzhangchen.github.io/publication/443_Representation_Interventio.pdf" target="_blank" rel="nofollow">
