@@ -83,7 +83,8 @@ He has published over 100 peer-reviewed papers in leading academic venues, inclu
       Invited to serve as an Area Chair for <strong>ICIR 2027</strong>.
   </li>
 
-        <span class="news-date">07/2026</span>
+ <li class="news-item">
+      <span class="news-date">07/2026</span>
       Invited to serve as an SPC for <strong>WSDM 2027</strong>.
   </li>
 
