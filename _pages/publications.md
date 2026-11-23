@@ -19,7 +19,7 @@ In Proceedings of the 40th Annual Conference on Neural Information Processing Sy
 2. <strong>[CIKM'26]</strong>
 <a href="https://zhengzhangchen.github.io/publication/LEMMA-RCA.pdf" target="_blank" rel="nofollow">
 LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis</a>. <br>
-<u>Lecheng Zheng</u>, <b>Zhengzhang Chen</b><sup>*</sup>, Dongjie Wang<sup>*</sup>, Chengyuan Deng<sup>*</sup>, Reon Matsuoka, and Haifeng Chen. <br>
+<u>Lecheng Zheng</u><sup>*</sup>, <b>Zhengzhang Chen</b><sup>*</sup>, Dongjie Wang<sup>*</sup>, Chengyuan Deng<sup>*</sup>, Reon Matsuoka, and Haifeng Chen. <br>
 In Proceedings of the 35th ACM International Conference on Information and Knowledge Management, 2026.
 
 3. <strong>[WWW'26]</strong>
